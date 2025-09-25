@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Tiêu đề sẽ được cập nhật bằng JavaScript -->
+    <title>Chi tiết sản phẩm</title>
+
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+
+    <link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+    <header>
+        <!-- Bạn có thể thêm menu điều hướng ở đây nếu muốn -->
+        <h1>Chi tiết sản phẩm</h1>
+    </header>
+
+    <main id="detail-container" class="product-detail-layout">
+        <!-- Nội dung chi tiết sẽ được chèn vào đây -->
+        <p>Đang tải thông tin sản phẩm...</p>
+    </main>
+
+    <!-- === CẤU TRÚC POP-UP === -->
+    <div id="contact-modal" class="modal-overlay">
+        <div class="modal-content">
+            <button class="close-btn" id="close-modal-btn">×</button>
+            <h2>Thông tin liên hệ</h2>
+            <p>Vui lòng liên hệ với chúng tôi qua các kênh dưới đây để được tư vấn và đặt hàng nhanh nhất!</p>
+            <ul class="contact-list">
+                <li>
+                    <a href="tel:09xxxxxxxx" class="contact-link phone">
+                        <strong>Gọi điện thoại:</strong> 085-395-0010
+                    </a>
+                </li>
+                <li>
+                    <a href="https://zalo.me/0853950010" target="_blank" class="contact-link zalo">
+                        <strong>Chat Zalo:</strong> 085-395-0010
+                    </a>
+                </li>
+                <li>
+                    <a href="m.me/703575356168520" target="_blank" class="contact-link facebook">
+                        <strong>Chat Facebook:</strong> Tổng hợp deal hời Tiktok, Shopee
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!-- ================================ -->
+
+    <footer>
+        <p>© 2025 - Duy Lee</p>
+    </footer>
+
+    <!-- Script riêng cho trang chi tiết -->
+    <script src="product-detail.js"></script>
+</body>
+</html>

@@ -1,0 +1,1064 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background-color: #2d3748;
+    color: #333;
+}
+
+header {
+    /* --- CÀI ĐẶT FLEXBOX --- */
+    display: flex;
+    flex-direction: column; /* Sắp xếp các phần tử con theo chiều dọc */
+    align-items: center;   /* Căn giữa các phần tử con theo chiều ngang */
+
+    /* background-color: #2c3e50; */
+    background-image: url('../images/banner-fb1.png');
+    background-size: cover; /* Phóng to/thu nhỏ để ảnh luôn lấp đầy header */
+    background-position: center 47%; /* Căn giữa ảnh nền */
+    background-repeat: no-repeat;   /* Không lặp lại ảnh */
+
+    /* (QUAN TRỌNG) Lớp phủ để làm chữ dễ đọc hơn */
+    position: relative; /* Cần thiết để lớp phủ hoạt động */
+    
+    color: white;
+    padding: 0.5rem 0.5rem; /* Tăng padding để header cao hơn, ảnh có không gian hiển thị */
+    z-index: 1000; /* Đảm bảo header nằm trên các phần tử khác */
+}
+
+/* Thêm lớp phủ đẻ chữ dễ đọc */
+header::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);   /* Lớp phủ màu đen, trong suốt 50% */
+    z-index: -1;    /* Đặt lớp phủ NẰM DƯỚI nội dung của header */
+}
+
+header h1 {
+    font-size: 2.5rem; /* Kích thước chữ cho màn hình lớn */
+    margin-bottom: 0.5rem;
+    color: white;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.5); /* Thêm bóng để chữ nổi hơn */
+}
+
+/* --- CSS cho dòng chữ Lưu ý giá --- */
+.price-note {
+    font-size: 1.2rem; /* Kích thước nhỏ hơn h1 một chút cho có sự phân cấp */
+    font-weight: bold;
+    color: white;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.5); /* Giống h1 */
+    margin-top: 1rem;
+    margin-bottom: 0;
+    padding: 0 1rem; /* Thêm padding để không bị dính vào cạnh màn hình nhỏ */
+}
+
+main {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+#product-grid {
+    display: grid;
+    grid-template-columns: 1fr; /* Mặc định: 1 cột */
+    gap: 1.5rem;
+}
+
+.product-card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.2s, box-shadow 0.2s;
+    display: flex;
+    flex-direction: column;
+}
+
+.product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+.product-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    border-radius: 8px 8px 0 0; /* Bo góc trên cho đẹp */
+}
+
+.product-image-container {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 1 / 1; /* Giữ tỷ lệ vuông cho ảnh */
+    background-color: white;
+    overflow: hidden; /* Quan trọng để bo góc hoạt động */
+    border-radius: 8px 8px 0 0;
+}
+
+/* Thẻ link bao quanh ảnh */
+.product-image-container a {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+/* 
+.product-name {
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin: 0 0 0.5rem 0;
+} */
+
+/* --- CSS cho Tên sản phẩm đè lên ảnh --- */
+.product-name-overlay {
+    /* Định vị lớp phủ ở dưới cùng của container ảnh */
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    /* width: 100%; */
+
+    /* Lớp gradient từ đen mờ (ở dưới) đến trong suốt (ở trên) */
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.8) 30%, rgba(0, 0, 0, 0) 100%);
+    
+    padding: 2.5rem 0.2rem 1rem 0.2rem; /* Padding: trên, phải, dưới, trái */
+    /* border-radius: 0 0 8px 8px; Bo góc dưới cho khớp với ảnh */
+    transition: opacity 0.3s ease-in-out;
+    opacity: 1; /* Mặc định ẩn đi (0) */
+}
+
+.product-name-overlay .product-name {
+    background: none;
+    color: white; /* Chữ màu trắng để nổi trên nền tối */
+    font-size: 1rem; /* Có thể điều chỉnh lại kích thước chữ */
+    margin: 0 0 0 2px;
+    /* Ngăn text quá dài và hiển thị dấu "..." */
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3; /* Giới hạn chỉ hiển thị tối đa 2 dòng */
+    line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+
+/* Khi hover vào toàn bộ thẻ a, lớp phủ sẽ hiện ra */
+.card-link-wrapper:hover .product-name-overlay {
+    opacity: 1;
+}
+
+.product-info {
+    padding: 0.75rem 1rem 1rem 1rem;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.product-price {
+    font-size: 1.2rem;
+    color: #e74c3c;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.product-link {
+    display: block;
+    background-color: #3498db;
+    color: white;
+    text-align: center;
+    padding: 0.75rem;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: background-color 0.2s;
+    margin-top: auto; /* Đẩy nút xuống dưới cùng */
+}
+
+.product-link:hover {
+    background-color: #2980b9;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+    background-color: #ecf0f1;
+}
+
+/* định dạng cho ô tìm kiếm */
+.search-wrapper {
+    position: relative; /* Rất quan trọng: làm mốc cho nút X */
+    width: 100%;
+    max-width: 300px;
+}
+
+#search-input {
+    width: 100%;
+    max-width: 300px;   /* Giới hạn chiều rộng tối đa trên màn hình lớn */
+    padding: 12px 40px 12px 15px;
+    font-size: 1rem;
+    box-sizing: border-box;
+    border-radius: 25px;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    outline: none;  /* Bỏ viền xanh khi click vào */
+    transition: all 0.2s;
+}
+
+#search-input:focus {
+    border-color: #3498db;
+    box-shadow: 0 2px 8px rgba(52, 152, 219, 0.3);
+}
+
+/* --- CSS cho màn hình lớn hơn (Responsive) --- */
+
+/* Áp dụng khi chiều rộng màn hình từ 600px trở lên (máy tính bảng nhỏ) */
+@media (min-width: 600px) {
+    #product-grid {
+        grid-template-columns: repeat(2, 1fr);  /* Chuyển thành 2 cột */
+    }
+}
+
+/* Áp dụng khi chiều rộng màn hình từ 992px trở lên (máy tính để bàn) */
+@media (min-width: 992px) {
+    #product-grid {
+        grid-template-columns: repeat(3, 1fr);  /* Chuyển thành 3 cột */
+    }
+}
+
+/* --- CSS cho Phân trang --- */
+#pagination-controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+
+.page-btn {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 1rem;
+    min-width: 40px;
+    height: 40px;
+    padding: 5px 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: white;
+    color: #333;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+.page-btn:hover {
+    background-color: #f0f2f5;
+    border-color: #3498db;
+}
+
+/* Kiểu cho nút của trang đang được chọn */
+.page-btn.active {
+    background-color: #3498db;
+    color: white;
+    border-color: #3498db;
+    cursor: default;
+}
+
+/* --- CSS cho Trang Chi tiết Sản phẩm --- */
+.product-detail-layout {
+    display: grid;
+    grid-template-columns: 1fr; /* Mặc định 1 cột cho di động */
+    gap: 2rem;
+    align-items: flex-start;
+}
+
+.product-detail-image img {
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.product-detail-name {
+    font-size: 2rem;
+    margin-top: 0;
+    color: white;
+}
+
+.product-detail-price {
+    font-size: 1.8rem;
+    color: #e74c3c;
+    font-weight: bold;
+    margin: 1rem 0;
+}
+
+.product-detail-description {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #cbd5e0;
+    margin-bottom: 2rem;
+}
+
+.buy-button {
+    font-size: 1.2rem;
+    padding: 1rem 2rem;
+}
+
+.back-link {
+    display: inline-block;
+    margin-top: 2rem;
+    color: #63b3ed;
+    text-decoration: none;
+}
+
+/* Responsive cho trang chi tiết */
+@media (min-width: 768px) {
+    .product-detail-layout {
+        grid-template-columns: 1fr 1fr; /* 2 cột trên màn hình lớn hơn */
+    }
+}
+
+
+/* --- CSS cho Card sản phẩm mới --- */
+.card-link-wrapper {
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.product-link-fake {
+    display: block;
+    background-color: #3498db;
+    color: white;
+    text-align: center;
+    padding: 0.75rem;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: auto; /* Đẩy nút xuống dưới cùng */
+}
+
+/* --- CSS cho Image Slider (Fade Effect) --- */
+.slider-container {
+    position: relative;
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    overflow: hidden;
+    aspect-ratio: 1 / 1;
+    background-color: #f8f8f8;
+}
+
+/* Các slide sẽ chồng lên nhau */
+.slide {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0; /* Mặc định ẩn đi */
+    transition: opacity 0.5s ease-in-out; /* Hiệu ứng mờ dần */
+}
+
+/* Slide active sẽ hiện ra */
+.slide.active {
+    /*position: relative; /* Đặt lại position để chiếm không gian */
+    opacity: 1;
+    z-index: 1;
+}
+
+.slide img {
+    /*width: 100%;
+    display: block;*/
+    /* Đặt ảnh vào trung tâm của slide cha */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    /* Đảm bảo ảnh không vượt quá kích thước của slide */
+    max-width: 100%;
+    max-height: 100%;
+    
+    /* Dùng 'contain' để đảm bảo thấy toàn bộ sản phẩm */
+    object-fit: contain;
+    width: auto; /* Để trình duyệt tự tính toán */
+    height: auto; /* Để trình duyệt tự tính toán */
+}
+
+.slider-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.4);
+    color: white;
+    border: none;
+    font-size: 2.5rem;
+    padding: 0 15px;
+    height: 60px;
+    cursor: pointer;
+    z-index: 10;
+    opacity: 0.7;
+    transition: opacity 0.2s;
+}
+
+.slider-btn:hover {
+    opacity: 1;
+}
+
+.slider-btn.prev {
+    left: 10px;
+    border-radius: 5px 0 0 5px;
+}
+
+.slider-btn.next {
+    right: 10px;
+    border-radius: 0 5px 5px 0;
+}
+
+/* --- CSS cho Pop-up (Modal) --- */
+.modal-overlay {
+    /* Ẩn đi mặc định */
+    display: none; 
+
+    /* Lớp phủ nền */
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    
+    /* Căn giữa nội dung pop-up */
+    justify-content: center;
+    align-items: center;
+
+    /* Hiệu ứng */
+    animation: fadeIn 0.3s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.modal-content {
+    background-color: #fff;
+    padding: 2rem 2.5rem;
+    border-radius: 8px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.25);
+    position: relative;
+    width: 90%;
+    max-width: 500px;
+    text-align: center;
+    animation: slideIn 0.4s ease-in-out;
+}
+
+@keyframes slideIn {
+    from { transform: translateY(-50px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+}
+
+.modal-content h2 {
+    margin-top: 0;
+    color: #333;
+}
+
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #aaa;
+    background: none;
+    border: none;
+    cursor: pointer;
+    line-height: 1;
+}
+
+.close-btn:hover {
+    color: #333;
+}
+
+.contact-list {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 1.5rem;
+}
+
+.contact-list li {
+    margin-bottom: 1rem;
+}
+
+.contact-link {
+    display: block;
+    padding: 15px;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    font-size: 1.1rem;
+    transition: transform 0.2s;
+}
+
+.contact-link:hover {
+    transform: scale(1.03);
+}
+
+.contact-link.phone { background-color: #f44336; }
+.contact-link.zalo { background-color: #2196F3; }
+.contact-link.facebook { background-color: #3b5998; }
+
+/* --- CSS cho danh sách mô tả sản phẩm --- */
+.product-description-list {
+    padding-left: 20px; /* Thụt lề cho danh sách */
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #cbd5e0;
+    margin-bottom: 2rem;
+    text-align: left; /* Căn lề trái cho dễ đọc */
+}
+
+.product-description-list li {
+    margin-bottom: 0.5rem; /* Khoảng cách giữa các dòng */
+}
+
+/* --- CSS cho Dropdown Menu --- */
+.dropdown-menu-container {
+    position: relative; /* Làm mốc cho menu con */
+    display: inline-block; /* Để container chỉ chiếm chiều rộng cần thiết */
+    margin-top: 1rem;
+}
+
+.dropdown-btn {
+    background-color: white;
+    color: #2c3e50; /* Màu chữ đậm */
+    padding: 12px 25px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    transition: background-color 0.2s;
+}
+
+.dropdown-btn:hover {
+    background-color: #f1f1f1;
+}
+
+/* Tạo mũi tên đi xuống */
+.arrow-down {
+    border: solid #2c3e50;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+
+/* Menu con */
+.dropdown-content {
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 200px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 100;
+    border-radius: 5px;
+    overflow: hidden;
+    
+    top: calc(100% + 1px); /* Định vị menu con ngay dưới nút cha (100%) và thêm 1 khoảng đệm nhỏ 5px */
+    left: 50%; /* Căn giữa menu con theo chiều ngang */
+    transform: translateX(-50%); /* Dịch chuyển menu con về bên trái 50% chiều rộng của chính nó để căn giữa hoàn hảo */
+    
+    /* Hiệu ứng */
+    opacity: 0;
+    visibility: hidden; /* Dùng visibility để ẩn hoàn toàn, tốt hơn cho hiệu suất */
+    transition: opacity 0.2s ease, visibility 0.2s ease, top 0.2s ease;
+}
+
+/* Quy tắc cho Click (hoạt động trên mọi thiết bị) */
+.dropdown-content.show {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+    transform: translateX(-50%) scaleY(1);
+}
+
+/* Quy tắc cho Hover (CHỈ hoạt động trên các thiết bị có con trỏ chuột) */
+@media (hover: hover) and (pointer: fine) {
+    .dropdown-menu-container:hover .dropdown-content {
+        opacity: 1;
+        visibility: visible;
+        pointer-events: auto;
+        transform: translateX(-50%) scaleY(1);
+    }
+}
+
+/* Các mục trong menu con */
+.dropdown-item {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    transition: background-color 0.2s;
+}
+
+.dropdown-item:hover {
+    background-color: #ddd;
+}
+
+/* Mục đang được chọn (active) */
+.dropdown-item.active {
+    background-color: #3498db;
+    color: white;
+}
+
+/* --- CSS cho nút điều hướng trong Header --- */
+.header-nav {
+    padding: 1rem 0;
+    text-align: center;
+}
+
+.back-to-home-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgba(255, 255, 255, 0.15); /* Nền mờ để nổi bật nhẹ */
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    transition: background-color 0.2s;
+}
+
+.back-to-home-btn:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+/* --- CSS cho các nút Affiliate theo nền tảng --- */
+
+/* Nút TikTok (mặc định có thể đã giống, nhưng chúng ta làm rõ ràng hơn) */
+.product-link.platform-tiktok {
+    background-color: #000000; /* Màu đen */
+    color: white;
+    border: 1px solid #000000;
+}
+.product-link.platform-tiktok:hover {
+    background-color: #333333; /* Màu đen nhạt hơn khi hover */
+}
+
+/* Nút Shopee */
+.product-link.platform-shopee {
+    background-color: #EE4D2D; /* Màu cam đặc trưng của Shopee */
+    color: white;
+    border: 1px solid #EE4D2D;
+}
+.product-link.platform-shopee:hover {
+    background-color: #f06a4b; /* Màu cam nhạt hơn khi hover */
+}
+
+/* --- CSS cho Nút Lọc Nền tảng --- */
+.platform-filter-controls {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 1.5rem;
+}
+
+.platform-filter-btn {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 16px;
+    font-size: 1rem;
+    font-weight: 600;
+    border: 2px solid #ddd;
+    border-radius: 20px;
+    background-color: white;
+    color: #333;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.platform-filter-btn img {
+    height: 20px;
+}
+
+.platform-filter-btn:hover {
+    border-color: #333;
+}
+
+/* Kiểu cho nút đang được chọn (active) */
+.platform-filter-btn.active {
+    border-color: #3498db;
+    background-color: #eaf5fc;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* --- CSS Responsive cho Header trên màn hình nhỏ --- */
+
+/* Áp dụng khi chiều rộng màn hình nhỏ hơn hoặc bằng 600px */
+@media (max-width: 600px) {
+    header h1 {
+        font-size: 1.8rem; /* <-- Kích thước chữ nhỏ hơn đáng kể */
+        /* Bạn có thể thêm các điều chỉnh khác ở đây nếu cần */
+    }
+
+    /* Tùy chọn: Giảm padding của header để tiết kiệm không gian */
+    /* header {
+        padding: 3rem 1rem;
+    } */
+
+    /* === THU NHỎ Ô TÌM KIẾM === */
+    #search-input {
+        padding: 10px 15px; /* Giảm padding một chút */
+        font-size: 1rem;  /* Giảm kích thước chữ */
+    }
+
+    /* === THU NHỎ LƯU Ý === */
+    .price-note {
+        font-size: 0.9rem; /* Làm cho nó nhỏ hơn trên di động */
+        line-height: 1.4; /* Tăng khoảng cách dòng cho dễ đọc */
+        max-width: 90%;
+        text-align: center;
+    }
+
+    /* === THU NHỎ NÚT DROPDOWN "DANH MỤC" === */
+    .dropdown-btn {
+        padding: 8px 18px; /* Giảm padding */
+        font-size: 0.9rem; /* Giảm kích thước chữ */
+    }
+    
+    .dropdown-btn .arrow-down {
+        border-width: 0 2px 2px 0; /* Làm mũi tên nhỏ lại một chút */
+        padding: 2.5px;
+    }
+
+    /* === THU NHỎ CÁC NÚT LỌC NỀN TẢNG === */
+    .platform-filter-btn {
+        padding: 6px 12px; /* Giảm padding */
+        font-size: 0.85rem; /* Giảm kích thước chữ */
+        gap: 5px; /* Giảm khoảng cách giữa logo và chữ */
+    }
+    
+    .platform-filter-btn img {
+        height: 16px; /* Giảm kích thước logo */
+    }
+
+    /* Sửa lại header của khu vực Flash Sale */
+    .flash-sale-header {
+        flex-direction: column; /* Xếp chồng tiêu đề và đồng hồ lên nhau */
+        gap: 0.75rem; /* Giảm khoảng cách giữa chúng */
+        align-items: center; /* Căn giữa tất cả */
+        margin-bottom: 1rem;
+    }
+
+    /* Thu nhỏ tiêu đề "Flash Sale Hôm Nay" */
+    .flash-sale-header h2 {
+        font-size: 1.5rem; /* Giảm kích thước chữ */
+    }
+
+    /* Thu nhỏ đồng hồ đếm ngược */
+    .countdown-timer {
+        font-size: 1rem; /* Giảm kích thước chữ */
+        padding: 6px 12px; /* Giảm padding */
+    }
+
+    /* Thu nhỏ card sản phẩm trong Flash Sale */
+    .flash-sale-card {
+        flex-basis: 160px; /* Giảm kích thước cơ sở của card */
+    }
+    
+    /* Thu nhỏ các nút điều khiển slider */
+    .flash-sale-nav-btn {
+        width: 30px;
+        height: 30px;
+        font-size: 18px;
+    }
+}
+
+/* Tùy chọn: Thêm một mức nữa cho màn hình rất nhỏ */
+@media (max-width: 400px) {
+    header h1 {
+        font-size: 1.5rem; /* <-- Càng nhỏ hơn nữa */
+    }
+}
+
+/* --- CSS cho nút Lên đầu trang --- */
+#back-to-top-btn {
+    /* Ẩn đi mặc định */
+    display: none; 
+
+    /* Định vị cố định */
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    z-index: 999; /* Đảm bảo nó luôn nổi trên các phần tử khác */
+
+    /* Kiểu dáng */
+    background-color: #3498db;
+    color: white;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 0;
+    border-radius: 50%; /* Bo tròn thành hình tròn */
+    width: 50px;
+    height: 50px;
+    font-size: 24px;
+    line-height: 50px; /* Căn giữa ký tự mũi tên theo chiều dọc */
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+
+    /* Hiệu ứng */
+    opacity: 0.8;
+    transition: opacity 0.3s, transform 0.3s;
+}
+
+#back-to-top-btn:hover {
+    opacity: 1;
+    transform: scale(1.1);
+}
+
+/* Class để hiển thị nút */
+#back-to-top-btn.show {
+    display: block;
+}
+
+/* --- CSS cho nút X trong ô tìm kiếm --- */
+.clear-search-btn {
+    position: absolute; /* Định vị tuyệt đối so với .search-wrapper */
+    top: 50%;
+    right: 15px; /* Khoảng cách từ cạnh phải */
+    transform: translateY(-50%); /* Căn giữa theo chiều dọc */
+    
+    color: #999;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: color 0.2s;
+
+    /* Ẩn đi mặc định */
+    opacity: 0;
+    pointer-events: none; /* Không cho phép tương tác khi ẩn */
+}
+
+/* Kiểu khi hover */
+.clear-search-btn:hover {
+    color: #333;
+}
+
+/* Class 'visible' để hiện nút X bằng JavaScript */
+.clear-search-btn.visible {
+    opacity: 1;
+    pointer-events: auto; /* Cho phép tương tác trở lại */
+}
+
+
+/* --- CSS cho hiển thị giá giảm --- */
+
+/* Dòng chứa giá bán và giá gốc */
+.price-line {
+    display: flex;
+    align-items: baseline; /* Căn các giá theo đường chân chữ */
+    flex-wrap: wrap; /* Cho phép xuống dòng nếu không đủ chỗ */
+    gap: 8px; /* Khoảng cách giữa giá bán và giá gốc */
+    margin-bottom: 0.25rem; /* Giảm khoảng cách dưới */
+}
+
+/* Giá bán (luôn hiển thị) */
+.product-price.sale {
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #e74c3c;
+    order: 1; /* Luôn đảm bảo giá bán đứng đầu */
+}
+
+/* Giá gốc (chỉ hiển thị khi có giảm giá) */
+.product-price.original {
+    font-size: 0.95rem;
+    color: #888;
+    text-decoration: line-through;
+    order: 2; /* Luôn đứng sau giá bán */
+}
+
+/* --- CSS CHO KHU VỰC FLASH SALE --- */
+#flash-sale-section {
+    background-color: #fff0f0; /* Nền màu hồng rất nhạt */
+    padding: 1.5rem 0;
+    border-bottom: 2px solid #e74c3c;
+}
+
+.flash-sale-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto 1.5rem auto;
+    padding: 0 1rem;
+    flex-wrap: wrap; /* Cho phép xuống dòng trên mobile */
+}
+
+.flash-sale-header h2 {
+    color: #e74c3c;
+    margin: 0;
+    font-size: 1.8rem;
+}
+
+.countdown-timer {
+    background-color: #e74c3c;
+    color: white;
+    padding: 8px 15px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+/* Container chính của slider */
+.flash-sale-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    position: relative;
+    padding: 0.5rem 1rem;
+}
+
+.my-flash-sale-swiper {
+    width: 100%;
+    height: 100%;
+    /* Thêm padding hai bên để các slide ở rìa không bị cắt mất bóng */
+    padding: 5px 0; 
+}
+
+/* Các slide (card sản phẩm) */
+.swiper-slide {
+    width: 220px; /* Chiều rộng cố định cho mỗi slide */
+    height: auto; /* Chiều cao tự động */
+}
+
+/* Card sản phẩm bên trong slide */
+.flash-sale-card {
+    display: block;
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    overflow: hidden;
+    text-decoration: none;
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.flash-sale-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+}
+
+/* Tùy chỉnh các nút điều hướng mặc định của Swiper */
+.flash-sale-nav-btn {
+    color: #e74c3c; /* Màu của mũi tên */
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+.flash-sale-nav-btn::after {
+    font-size: 20px !important; /* Ghi đè kích thước mũi tên mặc định */
+    font-weight: bold;
+}
+
+/* Container chứa ảnh của Flash Sale Card */
+.flash-sale-image-container {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    background-color: white;
+}
+
+.flash-sale-card .product-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* LỚP PHỦ GIÁ */
+.flash-sale-price-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    
+    /* Làm cho lớp gradient đậm hơn và cao hơn một chút */
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0) 100%);
+    
+    color: white;
+    /* Giảm padding trên và dưới để nội dung gần viền hơn */
+    padding: 1rem 0.75rem 0.5rem 0.75rem; /* Trên, Trái/Phải, Dưới */
+    box-sizing: border-box;
+
+    /* Dùng flexbox để căn chỉnh giá xuống dưới */
+    display: flex;
+    align-items: flex-end; /* Căn tất cả các phần tử con xuống sát đáy */
+    min-height: 60px; /* Đảm bảo lớp phủ có chiều cao tối thiểu */
+}
+
+.flash-sale-card .price-line {
+    gap: 10px;
+}
+.flash-sale-card .product-price.sale {
+    color: #ff4043; /* Màu giá */
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.8); /* Thêm bóng cho chữ */
+    line-height: 1;
+}
+.flash-sale-card .product-price.original {
+    color: #ffcdd2; /* Màu hồng nhạt */
+    font-size: 0.85rem;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.8);
+    text-decoration: line-through;
+    line-height: 1;
+}
+
+/* --- CSS CHO HIỆU ỨNG SLIDER Ở GIỮA (CENTER MODE) --- */
+
+/* Đảm bảo swiper được căn giữa */
+.my-flash-sale-swiper {
+    padding: 10px 0; /* Thêm padding trên dưới để slide phóng to không bị cắt */
+}
+
+.swiper-slide {
+    width: 200px; /* Giảm chiều rộng cơ sở một chút */
+    height: auto;
+    /* Hiệu ứng chuyển động mượt mà cho các thuộc tính */
+    transition: transform 0.4s ease, opacity 0.4s ease;
+    opacity: 0.5; /* Mặc định làm mờ các slide */
+    transform: scale(0.85); /* Mặc định thu nhỏ các slide */
+}
+
+/* Kiểu cho slide đang active (nằm ở giữa) */
+.swiper-slide-active {
+    opacity: 1; /* Hiển thị rõ nét */
+    transform: scale(1); /* Phóng to về kích thước gốc */
+}
+
+/* Tùy chọn: Làm cho slide kế bên và slide active gần hơn một chút */
+.swiper-slide-next,
+.swiper-slide-prev {
+    opacity: 0.7; /* Rõ hơn một chút so với các slide khác */
+}

@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="vi">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Tổng hơp deal hời từ Tiktok Shop</title>
+
+        <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        <link rel="shortcut icon" href="/favicon.ico" />
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+        <link rel="manifest" href="/site.webmanifest" />
+
+        <!-- === SWIPER.JS CDN === -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+        
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <!-- <a href="index.html" style="color:white; margin: 0 10px;">Trang Chủ</a>
+            <a href="laptops.html" style="color:white; margin: 0 10px;">Laptop</a> -->
+            <h1>Mua Sắm Tiktok - Shopee</h1>
+            <!-- <p>Những món đồ hay đã được chọn lọc</p> -->
+            <div class="search-wrapper">
+                <input type="text" id="search-input" placeholder="Nhập tên sản phẩm để tìm kiếm...">
+                <span class="clear-search-btn" id="clear-search-btn">×</span>
+            </div>
+            <p class="price-note">
+                ***Lưu ý: Giá sản phẩm là GIÁ GỐC trên app, chưa áp dụng Voucher - Mã giảm giá
+            </p>
+
+            <!-- === MENU DROPDOWN === -->
+            <div class="dropdown-menu-container">
+                <button class="dropdown-btn" id="category-dropdown-btn">
+                    Danh Mục 
+                    <span class="arrow-down"></span>
+                </button>
+                <div class="dropdown-content" id="category-dropdown-content">
+                    <a href="#" class="dropdown-item active" data-category="Tất Cả">Tất cả sản phẩm</a>
+                    <a href="#" class="dropdown-item" data-category="Thể Thao">Thể Thao</a>
+                    <a href="#" class="dropdown-item" data-category="Thời Trang Nam">Thời Trang Nam</a>
+                    <a href="#" class="dropdown-item" data-category="Thời Trang Nữ">Thời Trang Nam</a>
+                    <a href="#" class="dropdown-item" data-category="Đồ Công Sở">Đồ Công Sở</a>
+                    <a href="#" class="dropdown-item" data-category="Làm Đẹp">Làm Đẹp</a>
+                    <a href="#" class="dropdown-item" data-category="Gia Dụng">Gia Dụng</a>
+                    <a href="#" class="dropdown-item" data-category="Du Lịch">Du Lịch</a>
+                    <a href="#" class="dropdown-item" data-category="Mẹ và Bé">Mẹ và Bé</a>
+                    <a href="#" class="dropdown-item" data-category="Trẻ Em">Trẻ Em</a>
+                    <a href="#" class="dropdown-item" data-category="Ăn Uống & Sức Khoẻ">Ăn Uống & Sức Khoẻ</a>
+                    <a href="#" class="dropdown-item" data-category="Nguyên Liệu">Nguyên Liệu</a>
+                    <a href="#" class="dropdown-item" data-category="Nhà Sách Online">Nhà Sách Online</a>
+                    <a href="#" class="dropdown-item" data-category="Điện Thoại & Phụ Kiện">Điện Thoại & Phụ Kiện</a>
+                    <a href="#" class="dropdown-item" data-category="Linh Kiện & Phụ Kiện PC">Linh Kiện & Phụ Kiện PC</a>
+                    <a href="#" class="dropdown-item" data-category="Đồ Công Nghệ">Đồ Công Nghệ</a>
+                    <a href="#" class="dropdown-item" data-category="Đồ Chơi Xe Máy">Đồ Chơi Xe Máy</a>
+                    <a href="#" class="dropdown-item" data-category="Trường Mầm Non">Trường Mầm Non</a>
+                    <a href="#" class="dropdown-item" data-category="Nhà Cửa & Đời Sống">Nhà Cửa & Đời Sống</a>
+                    <a href="#" class="dropdown-item" data-category="Độc Lạ">Độc Lạ</a>
+                    <a href="#" class="dropdown-item" data-category="Đồ Nghề">Đồ Nghề</a>
+                    <a href="laptops.html" class="dropdown-item">Laptop</a>
+                    <!-- Thêm các danh mục khác tại đây -->
+                </div>
+            </div>
+            <!-- =========================== -->
+
+            <!-- === BỘ LỌC NỀN TẢNG === -->
+            <div class="platform-filter-controls">
+                <button class="platform-filter-btn" data-platform="tiktok">
+                    <img src="images/logo-tiktok.png" alt="TikTok"> TikTok
+                </button>
+                <button class="platform-filter-btn" data-platform="shopee">
+                    <img src="images/logo-shopee.png" alt="Shopee"> Shopee
+                </button>
+            </div>
+            <!-- =============================== -->
+        </header>
+
+        <!-- === KHU VỰC FLASH SALE === -->
+        <section id="flash-sale-section">
+            <div class="flash-sale-header">
+                <h2>🔥 Flash Sale Hôm Nay</h2>
+                <div class="countdown-timer" id="countdown-timer">
+                    Kết thúc trong: <span>00:00:00</span>
+                </div>
+            </div>
+            <div class="flash-sale-container" id="flash-sale-container">
+                <!-- Các sản phẩm Flash Sale -->
+            </div>
+        </section>
+        <!-- ============================== -->
+
+        <main id="product-grid">
+            <!-- Các sản phẩm sẽ được chèn vào đây bằng JavaScript -->
+        </main>
+
+        <nav id="pagination-controls" aria-label="Product page navigation">
+            <!-- Các nút số trang sẽ được chèn vào đây bằng JavaScript -->
+        </nav>
+
+        <footer>
+            <p>© 2025 - Duy Lee</p>
+        </footer>
+        
+        <!-- === NÚT LÊN ĐẦU TRANG === -->
+        <button id="back-to-top-btn" title="Lên đầu trang">↑</button>
+
+        <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+        
+        <script src="script.js"></script>
+    </body>
+</html>
