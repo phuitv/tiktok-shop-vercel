@@ -6949,5 +6949,101 @@
         "affiliateLink": "https://vt.tiktok.com/ZSHWyVxvnt9TY-T9H83/",
         "category": [ "Ăn Uống & Sức Khoẻ" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 679,
+        "name": "[BH 6 tháng 1 đổi 1] Đai an toàn cho bé ngồi xe máy từ 10kg - 30kg (có viền phản quang)",
+        "price": 75000,
+        "originalPrice": 110000,
+        "imageUrl": "images/679.webp",
+        "affiliateLink": "https://s.shopee.vn/50Q4LC7H07",
+        "category": [ "Trẻ Em", "Mẹ và Bé" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 680,
+        "name": "Bàn làm việc chân xếp ,gấp gọn, khung sắt dày liên kết chắc chắn ,đã lắp ráp sẵn , mặt bàn mdf dày 17mm phũ melamin",
+        "price": 500000,
+        "originalPrice": 650000,
+        "imageUrl": "images/680.webp",
+        "affiliateLink": "https://s.shopee.vn/9zokJJzjSX",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Công Sở" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 681,
+        "name": "-CLUBLU- Máy Ảnh Mini in Nhiệt Chụp Lấy Liền Kỹ Thuật Số Cute Camera 24MP 720P Với 3 Cuộn Giấy Nhiệt",
+        "price": 499000,
+        "originalPrice": 914000,
+        "imageUrl": "images/681.webp",
+        "affiliateLink": "https://s.shopee.vn/1BDLnXeCMC",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Công Nghệ", "Đồ Công Sở", "Du Lịch" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 682,
+        "name": "[Phin giấy] Trà Ô Long Nhài Sữa - Hộp 10 gói",
+        "price": 374000,
+        "originalPrice": 475000,
+        "imageUrl": "images/682.webp",
+        "affiliateLink": "https://s.shopee.vn/Vxf0knUtU",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Công Sở", "Ăn Uống & Sức Khoẻ", "Nguyên Liệu" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 683,
+        "name": "Bánh pía mini , 1 túi 5 bánh nhỏ",
+        "price": 8694,
+        "originalPrice": 18000,
+        "afterFlashSalePrice": 9450,
+        "flashSaleEndTime":"2025-09-30T23:59:59",
+        "imageUrl": "images/683.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHW485F9Gbf7-n5Z7Q/",
+        "category": [ "Ăn Uống & Sức Khoẻ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 684,
+        "name": "100 CÁI KHẤU TRANG THỊNH PHÁT 3 LỚP KHÁNG KHUẨN ĐỦ 10 MÀU TRENDY Accessories Che Mặt Mask khẩu trang khau trang Phụ Kiện khẩu trang",
+        "price": 17000,
+        "originalPrice": 30000,
+        "imageUrl": "images/684.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHW4Ls18KdrV-D50xn/",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Công Sở" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 685,
+        "name": "(SIÊU MỀM MỊN - TIẾT KIỆM HƠN) Thùng 6 Bịch Khăn Giấy Rút Đáy Tiểu Hạ TOP GIA 4 Lớp Mềm Mịn, Thành Phần Bột Gỗ Tự Nhiên Thân Thiện An Toàn, Khăn Giấy Vệ Sinh 1000 tờ,4 lớp Tặng 2 móc treo tiện Giấy Vệ Sinh giấy rút  ĐẠT QUY CHUẨN CỦA BỘ CÔNG THƯƠNG VTG86",
+        "price": 91999,
+        "originalPrice": 199000,
+        "afterFlashSalePrice": 129000,
+        "flashSaleEndTime":"2025-09-30T23:59:59",
+        "imageUrl": "images/685.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHW4Nyv1TwLX-9Ww4A/",
+        "category": [ "Gia Dụng", "Nhà Cửa & Đời Sống", "Đồ Công Sở" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 686,
+        "name": "Thảm lau chân nhà tắm, thảm chùi chân mẫu Hoa Sóng Gấu Dâu nhà bếp chống trơn trượt thấm nước 40x60cm Hưng Chiếu ED01",
+        "price": 9999,
+        "originalPrice": 25000,
+        "imageUrl": "images/686.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHW4FFnKNWsQ-SMsqx/",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Công Sở" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 686,
+        "name": "Thảm lau chân nhà tắm, thảm chùi chân mẫu Hoa Sóng Gấu Dâu nhà bếp chống trơn trượt thấm nước 40x60cm Hưng Chiếu ED01",
+        "price": 9999,
+        "originalPrice": 25000,
+        "afterFlashSalePrice": 129000,
+        "flashSaleEndTime":"2025-09-30T23:59:59",
+        "imageUrl": "images/686.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHW4FFnKNWsQ-SMsqx/",
+        "category": [ "Gia Dụng", "Nhà Cửa & Đời Sống", "Đồ Công Sở" ],
+        "platform": "tiktok"
     }
 ]
