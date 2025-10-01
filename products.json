@@ -7116,5 +7116,37 @@
         "affiliateLink": "https://vt.tiktok.com/ZSHWptsWoAvqS-ceZzp/",
         "category": [ "Làm Đẹp", "Đồ Công Sở" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 695,
+        "name": "Áo mưa cho bé - Áo mưa trẻ em 4-13 tuổi cao cấp có tấm chắn, kiểu rộng đeo được ba lô, chất liệu an toàn cho bé",
+        "price": 89000,
+        "originalPrice": 190000,
+        "imageUrl": "images/695.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHWpo7Y1hvPM-77xAr/",
+        "category": [ "Nhà Cửa & Đời Sống", "Trẻ Em" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 696,
+        "name": "JUSTFIT Vòng Lắc Eo Lò Xo 1.5kg Bọc Nhựa Mềm Tập Thể Dục Gym Yoga An Toàn Mềm Mại Tăng Tuần Hoàn Máu Hiệu Quả Sau 7-14 Ngày",
+        "price": 125000,
+        "originalPrice": 189000,
+        "afterFlashSalePrice": 135000,
+        "flashSaleEndTime":"2025-10-02T23:59:59",
+        "imageUrl": "images/696.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHWsJXAxDKSR-zGmi4/",
+        "category": [ "Thể Thao" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 697,
+        "name": "Đai bảo vệ vòng 1 - Khắc phục gù lưng JUSTFIT Phụ Kiện",
+        "price": 108998,
+        "originalPrice": 150000,
+        "imageUrl": "images/697.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHWseDgTAjhY-B4y9T/",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Công Sở" ],
+        "platform": "tiktok"
     }
 ]
