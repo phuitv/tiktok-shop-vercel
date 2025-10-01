@@ -7035,15 +7035,86 @@
         "platform": "tiktok"
     },
     {
-        "id": 686,
-        "name": "Thảm lau chân nhà tắm, thảm chùi chân mẫu Hoa Sóng Gấu Dâu nhà bếp chống trơn trượt thấm nước 40x60cm Hưng Chiếu ED01",
-        "price": 9999,
-        "originalPrice": 25000,
-        "afterFlashSalePrice": 129000,
-        "flashSaleEndTime":"2025-09-30T23:59:59",
-        "imageUrl": "images/686.webp",
-        "affiliateLink": "https://vt.tiktok.com/ZSHW4FFnKNWsQ-SMsqx/",
-        "category": [ "Gia Dụng", "Nhà Cửa & Đời Sống", "Đồ Công Sở" ],
+        "id": 687,
+        "name": "KỆ ĐỂ BÀN TRONG SUỐT ĐA NĂNG EMMO – TREASURE",
+        "price": 206000,
+        "originalPrice": 222000,
+        "imageUrl": "images/687.webp",
+        "affiliateLink": "https://s.shopee.vn/6KvTy8oyj2",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Công Sở" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 688,
+        "name": "ANTA Nữ Good Things Happen Áo khoác len Knitwear 1625A8734",
+        "price": 1049500,
+        "originalPrice": 2099000,
+        "imageUrl": "images/688.webp",
+        "affiliateLink": "https://s.shopee.vn/3VbIbQ95wj",
+        "category": [ "Thời Trang Nữ", "Đồ Công Sở" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 689,
+        "name": "Bàn làm việc gấp gọn chân bàn có đệm chống trượt, mặt bàn có khe đựng bút tiện ích, bàn học sinh sinh viên đơn giản",
+        "price": 235141,
+        "originalPrice": 390000,
+        "afterFlashSalePrice": 273420,
+        "flashSaleEndTime":"2025-10-01T23:59:59",
+        "imageUrl": "images/689.webp",
+        "affiliateLink": "https://s.shopee.vn/LeGpzKBc5",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Công Sở", "Nhà Sách Online" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 690,
+        "name": "Phao nước chống tràn tự động phù hợp cho mọi nhà. Phao Cơ Chống Tràn Nhỏ Gọn Thông Minh - Van phao chống tràn phi 27",
+        "price": 109000,
+        "imageUrl": "images/690.webp",
+        "affiliateLink": "https://s.shopee.vn/11QS1aRHH",
+        "category": [ "Nhà Cửa & Đời Sống" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 691,
+        "name": "[Thokids] (Hàng L1) Set đồ VUI TẾT TRUNG THU TTBD386 cho bé trai & bé gái in hình lân tặng kèm yếm và túi chất coton Hàn co giãn thoáng mát",
+        "price": 110260,
+        "originalPrice": 149000,
+        "imageUrl": "images/691.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHWppnDdkq1P-u4hwU/",
+        "category": [ "Mẹ và Bé" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 692,
+        "name": "(TÂM HUYẾT) Bộ loa cho bé 0-10 tuổi tắm ngôn ngữ học nói và học tiếng Anh cực hiệu quả với list nhạc tâm huyết hơn 2000 bài cả Việt và Anh bé tha hồ nghe(thẻ nhớ 16gb đã copy sẵn nhạc))",
+        "price": 75000,
+        "originalPrice": 100000,
+        "imageUrl": "images/692.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHWpsPQsMw4U-1nbJS/",
+        "category": [ "Mẹ và Bé", "Nhà Sách Online", "Trẻ Em" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 693,
+        "name": "[TOP GỐI HOT] Gối cao su non bụng mèo MASSAGE thế hệ mới, gối băng lạnh định hình tư thế ngủ size 35*55cm",
+        "price": 119000,
+        "originalPrice": 200000,
+        "imageUrl": "images/693.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHWps39TVGPb-FTdTz/",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Công Sở" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 694,
+        "name": "Xịt thơm body mist hương nước hoa Hella Beauty 250ml lưu hương lâu, an toàn cho da nhạy cảm",
+        "price": 149000,
+        "originalPrice": 280000,
+        "afterFlashSalePrice": 159000,
+        "flashSaleEndTime":"2025-10-01T23:59:59",
+        "imageUrl": "images/694.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHWptsWoAvqS-ceZzp/",
+        "category": [ "Làm Đẹp", "Đồ Công Sở" ],
         "platform": "tiktok"
     }
 ]
