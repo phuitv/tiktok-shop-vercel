@@ -7148,5 +7148,88 @@
         "affiliateLink": "https://vt.tiktok.com/ZSHWseDgTAjhY-B4y9T/",
         "category": [ "Nhà Cửa & Đời Sống", "Đồ Công Sở" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 698,
+        "name": "Giày đá bóng Zocker Inspire Pro Gen 2 upper siêu mềm mại, dễ thuần, thật chân",
+        "price": 816050,
+        "originalPrice": 859000,
+        "imageUrl": "images/698.webp",
+        "affiliateLink": "https://s.shopee.vn/70BCO4txfX",
+        "category": [ "Thể Thao" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 699,
+        "name": "Ví da bò Anh Tho Leather 053",
+        "price": 337500,
+        "originalPrice": 375000,
+        "imageUrl": "images/699.webp",
+        "affiliateLink": "https://s.shopee.vn/1VqFqSkVGM",
+        "category": [ "Thời Trang Nam", "Đồ Công Sở" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 700,
+        "name": "Giấy ăn gấu trúc, thùng 30 gói rút, giấy top gia hàng cao cấp",
+        "price": 39000,
+        "originalPrice": 99000,
+        "imageUrl": "images/700.webp",
+        "affiliateLink": "https://s.shopee.vn/3LHu2I9nXc",
+        "category": [ "Gia Dụng", "Đồ Công Sở" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 701,
+        "name": "POSY - COMBO GIA ĐÌNH - 2 bịch Giấy vệ sinh Posy 10 cuộn 3 lớp không lõi - có lõi mềm mịn, dễ tan trong nước, tiết kiệm",
+        "price": 119000,
+        "originalPrice": 199000,
+        "imageUrl": "images/701.webp",
+        "affiliateLink": "https://s.shopee.vn/9zonyjJusM",
+        "category": [ "Gia Dụng", "Đồ Công Sở" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 702,
+        "name": "Sữa tắm gội 2 trong 1 cho trẻ em dạng tạo bọt sẵn  Hương Thơm Dịu Nhẹ, Không Gây Kích Ứng – 350ml",
+        "price": 169000,
+        "originalPrice": 336667,
+        "imageUrl": "images/702.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHWWMkp2ebHA-NJSId/",
+        "category": [ "Mẹ và Bé" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 703,
+        "name": "Sốt Ướp Thịt Nướng BBQ 1KG cho 5KG thịt Chuyên Cho Nhà Hàng Quán Ăn Bếp Xuyên Việt - Tiết Kiệm Thời Gian - Vị Đậm Đà Không Ngọt Gắt",
+        "price": 98500,
+        "originalPrice": 199000,
+        "flashSaleEndTime":"2025-10-02T23:59:59",
+        "imageUrl": "images/703.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHWWME2oVJuT-QQZef/",
+        "category": [ "Nguyên Liệu", "Gia Dụng" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 704,
+        "name": "TIPONO Giày Sneaker LM93 EVA Đúc Nguyên Khối Nhẹ Êm Chống Thấm Nam Nữ Fashion By You",
+        "price": 99000,
+        "originalPrice": 180000,
+        "afterFlashSalePrice": 109000,
+        "flashSaleEndTime":"2025-10-02T23:59:59",
+        "imageUrl": "images/704.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHWWrmMfFYHK-NKCR8/",
+        "category": [ "Thời Trang Nam", "Thời Trang Nữ", "Trẻ Em" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 705,
+        "name": "【nâng cấp】Băng vệ sinh dạng quần Misecr (30 miếng) , chống tràn 360°, thoáng khí, phù hợp sử dụng ngày và đêm dành cho phụ nữ mang thai và sau sinh,Thích Hợp Cho Phụ Nữ",
+        "price": 119888,
+        "originalPrice": 239776,
+        "imageUrl": "images/705.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHWWhVEro343-mzSLr/",
+        "category": [ "Nhà Cửa & Đời Sống" ],
+        "platform": "tiktok"
     }
 ]
