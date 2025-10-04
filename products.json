@@ -7231,5 +7231,89 @@
         "affiliateLink": "https://vt.tiktok.com/ZSHWWhVEro343-mzSLr/",
         "category": [ "Nhà Cửa & Đời Sống" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 706,
+        "name": "Viên Uống Bổ Sung Vitamin E Healthy Care 500IU 200 Viên Hỗ Trợ Tái Tạo Và Làm Đẹp Da",
+        "price": 334540,
+        "originalPrice": 700000,
+        "afterFlashSalePrice": 389000,
+        "flashSaleEndTime":"2025-10-04T23:59:59",
+        "imageUrl": "images/706.webp",
+        "affiliateLink": "https://s.shopee.vn/9AFkF5VMkG",
+        "category": [ "Ăn Uống & Sức Khoẻ" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 707,
+        "name": "Tai nghe BASEUS không dây Bluetooth Bass 30 Max -30dB khử tiếng ồn thụ động với 2 ENC Mics Bass mạnh mẽ in 50 giờ",
+        "price": 559000,
+        "originalPrice": 929000,
+        "imageUrl": "images/707.webp",
+        "affiliateLink": "https://s.shopee.vn/5L31gSChZj",
+        "category": [ "Điện Thoại & Phụ Kiện", "Linh Kiện & Phụ Kiện PC", "Nhà Cửa & Đời Sống", "Đồ Công Nghệ" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 708,
+        "name": "Bộ vòi tưới cây rút tự động 10-20-30 mét Blatter ,Vòi tưới cây tự thu với nhiều chế độ phun đa năng",
+        "price": 1497300,
+        "originalPrice": 2200000,
+        "afterFlashSalePrice": 1610000,
+        "flashSaleEndTime":"2025-10-04T23:59:59",
+        "imageUrl": "images/708.webp",
+        "affiliateLink": "https://s.shopee.vn/5ffs5SfsxG",
+        "category": [ "Nhà Cửa & Đời Sống" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 709,
+        "name": "Sữa chống nắng dưỡng da kiềm dầu bảo vệ hoàn hảo Anessa Gold Milk SPF50+ PA++++ 20ml",
+        "price": 224000,
+        "originalPrice": 280000,
+        "imageUrl": "images/709.webp",
+        "affiliateLink": "https://s.shopee.vn/6fYPHiIhw6",
+        "category": [ "Làm Đẹp", "Đồ Công Sở" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 710,
+        "name": "Ahohwa - Control Clear Spot - Tinh chất giảm viêm mụn -30ml",
+        "price": 860000,
+        "imageUrl": "images/710.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHWoAgE7CPXn-bWLRP/",
+        "category": [ "Làm Đẹp", "Đồ Công Sở" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 711,
+        "name": "Sandals fitflop 2 quai ngang vnxk bang da thật",
+        "price": 570000,
+        "imageUrl": "images/711.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHWoD7bMnn7j-JHDO7/",
+        "category": [ "Thời Trang Nữ", "Đồ Công Sở" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 712,
+        "name": "Bọt biển Scrub Daddy - Scrub Mommy chính hãng Mỹ, miếng xốp lau chùi đa năng - an toàn - chống mùi - ngăn nắp ( Đủ size )",
+        "price": 52000,
+        "originalPrice": 72000,
+        "afterFlashSalePrice": 52000,
+        "flashSaleEndTime":"2025-10-04T23:59:59",
+        "imageUrl": "images/712.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHWoU9JqMwV4-dwMBS/",
+        "category": [ "Gia Dụng" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 713,
+        "name": "[200gr/500gr] Tinh Bột Củ Sen Nguyên Chất Vũ Toàn, Củ Sen Tươi Nhà Trồng - Tinh bột được làm hoàn toàn từ Củ Sen tươi trồng tại vườn - Ăn sáng, Ăn khuya nhẹ bụng. Gói 200gr tinh bột củ sen",
+        "price": 114750,
+        "originalPrice": 225000,
+        "imageUrl": "images/713.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHWoy9wCFG3d-bLu3T/",
+        "category": [ "Ăn Uống & Sức Khoẻ" ],
+        "platform": "tiktok"
     }
 ]
