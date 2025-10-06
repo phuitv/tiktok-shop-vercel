@@ -7315,5 +7315,93 @@
         "affiliateLink": "https://vt.tiktok.com/ZSHWoy9wCFG3d-bLu3T/",
         "category": [ "Ăn Uống & Sức Khoẻ" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 722,
+        "name": "Áo Khoác Hoodie Zip Boxy In Dập Nổi Chất Nỉ Bông Cao Cấp Phù Hợp Nam Nữ",
+        "price": 165000,
+        "originalPrice": 195000,
+        "imageUrl": "images/722.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7FgaNBy6cy-mc3xB/",
+        "category": [ "Thời Trang Nam", "Thời Trang Nữ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 723,
+        "name": "Bộ quần áo mưa màu cỏ úa - tránh nước tốt, vận động dễ dàng",
+        "price": 330000,
+        "originalPrice": 500000,
+        "afterFlashSalePrice": 340000,
+        "flashSaleEndTime":"2025-10-06T23:59:59",
+        "imageUrl": "images/723.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7Fp821NsJH-jSCQF/",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Công Sở" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 724,
+        "name": "Máy Xay Ăn Dặm Cho Bé Coco Bear 8 Lưỡi, Cối Thủy Tinh 300ml, Xay Thịt, Cháo, Sinh Tố, Rau Củ Đa Năng",
+        "price": 269000,
+        "originalPrice": 350000,
+        "afterFlashSalePrice": 279000,
+        "flashSaleEndTime":"2025-10-06T23:59:59",
+        "imageUrl": "images/724.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7Fp4JQrGd2-37IRw/",
+        "category": [ "Mẹ và Bé" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 725,
+        "name": "Quần Jogger Nam Nữ Trơn Basic Thun Poly Phong Cách Thể Dục Thể Thao Năng Động Cá Tính Unisex ANH DUY SHOP JG19",
+        "price": 94999,
+        "originalPrice": 190000,
+        "afterFlashSalePrice": 94999,
+        "flashSaleEndTime":"2025-10-06T23:59:59",
+        "imageUrl": "images/725.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7Fs8tCLBLS-B2PQW/",
+        "category": [ "Thời Trang Nam" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 726,
+        "name": "Cáp Chuyển Đổi Usb 3.0 / 2.0 / Type C Sang 2.5 Inch Sata Cho Ổ Cứng 2.5 '' Hdd/Ssd USB sang SATA Type C sang SATA",
+        "price": 49999,
+        "originalPrice": 50000,
+        "imageUrl": "images/726.webp",
+        "affiliateLink": "https://s.shopee.vn/8fJX55kPq9",
+        "category": [ "Linh Kiện & Phụ Kiện PC", "Đồ Công Nghệ" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 727,
+        "name": "Xi Măng Dẻo Bịt Lỗ Điều Hoà, Keo Xi Măng Trắng Bít Lỗ Tường/ Đường ống Nước/ Khe Rãnh Hàng Nhập Khẩu",
+        "price": 12990,
+        "originalPrice": 22500,
+        "afterFlashSalePrice": 12990,
+        "flashSaleEndTime":"2025-10-06T23:59:59",
+        "imageUrl": "images/727.webp",
+        "affiliateLink": "https://s.shopee.vn/3VbQvqJPDm",
+        "category": [ "Nhà Cửa & Đời Sống" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 728,
+        "name": "[VAN ĐA NĂNG] NGĂN MÙI, CÔN TRÙNG, KHỚP NỐI ỐNG THOÁT, lắp chậu rửa bát, tích hợp tất cả mọi thiết bị khu rửa bát",
+        "price": 97000,
+        "originalPrice": 129000,
+        "imageUrl": "images/728.webp",
+        "affiliateLink": "https://s.shopee.vn/8zwNUCwg9w",
+        "category": [ "Nhà Cửa & Đời Sống" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 729,
+        "name": "Dây quấn chống rối dây điện TOPV băng dính gai quấn cáp sạc tai nghe dây velcro giúp gọn gàng không gian làm việc",
+        "price": 13000,
+        "originalPrice": 25000,
+        "imageUrl": "images/729.webp",
+        "affiliateLink": "https://s.shopee.vn/9zougLPTQM",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Nghề" ],
+        "platform": "shopee"
     }
 ]
