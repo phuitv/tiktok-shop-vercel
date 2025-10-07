@@ -7415,5 +7415,57 @@
         "affiliateLink": "https://vt.tiktok.com/ZSH76cjXec6kr-OvDPG/",
         "category": [ "Làm Đẹp" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 731,
+        "name": "Kẹp Tóc Cho Nữ, Hàng Mới Về, Kẹp Chuối Ở Phía Sau Đầu, Dễ Phối Đồ Và Thanh Lịch, Phụ Kiện Tóc",
+        "price": 27215,
+        "originalPrice": 38879,
+        "imageUrl": "images/731.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7Me1xSnsDX-W2AIh/",
+        "category": [ "Thời Trang Nữ", "Đồ Công Sở", "Phụ Kiện & Trang Sức" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 732,
+        "name": "(DEAL HOT) Combo Toàn Diện Máy Tiệt Trùng UVC 8879 Và Đun Hâm Pha Sữa, Sấy Khô, Bảo Quản – Mua 1 nhận tất cả, mọi tính năng trong 1 nút chạm l Tặng Thêm Lồng Hâm Sữa l Bảo hành 36 tháng, lỗi 1 đổi 1 trong vòng 30 ngày",
+        "price": 937400,
+        "originalPrice": 1899000,
+        "afterFlashSalePrice": 1440000,
+        "flashSaleEndTime":"2025-10-08T23:59:59",
+        "imageUrl": "images/732.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7MdHAJeXBE-T4Cwu/",
+        "category": [ "Mẹ và Bé" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 733,
+        "name": "Dây ràng đồ xe máy Daravin dài 2m, 3m, 4m Dây thun ràng tăng chỉnh dây chằng hàng móc nhựa lõi thép - Trang bị toàn diện",
+        "price": 55000,
+        "originalPrice": 97000,
+        "imageUrl": "images/733.webp",
+        "affiliateLink": "https://s.shopee.vn/8fJYcirAyA",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Nghề" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 734,
+        "name": "Phấn má hồng CARSLAN đa năng ba màu dùng trang điểm cho đường nét sắc sảo 10.5g",
+        "price": 279000,
+        "originalPrice": 550000,
+        "imageUrl": "images/734.webp",
+        "affiliateLink": "https://s.shopee.vn/5ffwxAzxRs",
+        "category": [ "Làm Đẹp" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 735,
+        "name": "keo dán cực mạnh keo siêu cứng dính chắc keo dán super glue Ergo5800 keo mạnh mẽ nhập khẩu đa năng nhựa kim loại gỗ thủy tinh gốm sắt...",
+        "price": 294525,
+        "originalPrice": 467500,
+        "imageUrl": "images/735.webp",
+        "affiliateLink": "https://s.shopee.vn/5pzNGKq9zy",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Nghề" ],
+        "platform": "shopee"
     }
 ]
