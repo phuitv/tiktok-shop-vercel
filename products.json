@@ -7401,7 +7401,19 @@
         "originalPrice": 25000,
         "imageUrl": "images/729.webp",
         "affiliateLink": "https://s.shopee.vn/9zougLPTQM",
-        "category": [ "Nhà Cửa & Đời Sống", "Đồ Nghề" ],
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Nghề", "Đồ Công Sở" ],
         "platform": "shopee"
+    },
+    {
+        "id": 730,
+        "name": "Dụng cụ Massage Mặt Đá Thạch Anh Xanh Hình Trái tim Lixibox Heart-Shaped Gua Sha Facial Tool Skincare Hỗ Trợ Làm Đẹp Da",
+        "price": 189000,
+        "originalPrice": 380000,
+        "afterFlashSalePrice": 299000,
+        "flashSaleEndTime":"2025-10-07T23:59:59",
+        "imageUrl": "images/730.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH76cjXec6kr-OvDPG/",
+        "category": [ "Làm Đẹp" ],
+        "platform": "tiktok"
     }
 ]
