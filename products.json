@@ -7491,5 +7491,67 @@
         "affiliateLink": "https://vt.tiktok.com/ZSH7kfQEy36pQ-wmofH/",
         "category": [ "Nhà Cửa & Đời Sống", "Đồ Công Sở" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 738,
+        "name": "Điện Thoại Giáo Dục Sớm Cho Trẻ Em Phiên Bản Tiếng Việt Mô Phỏng Âm Nhạc Đa Chức Năng Giúp Bé Xoa Dịu Ngủ Quà Tặng Cho Bé Trai Cô Gái",
+        "price": 55000,
+        "originalPrice": 88000,
+        "afterFlashSalePrice": 55000,
+        "flashSaleEndTime":"2025-10-08T23:59:59",
+        "imageUrl": "images/738.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7BLJqDqumS-zmrCc/",
+        "category": [ "Trẻ Em", "Nhà Sách Online" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 739,
+        "name": "Mật ong Manuka Eco tăng đề kháng, hỗ trợ tiêu hóa, kháng khuẩn, kháng viêm MGO 30+, 100+, 265+, 550+, 900+ nhập khẩu chính hãng Australia",
+        "price": 383000,
+        "originalPrice": 428000,
+        "imageUrl": "images/739.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7BN8jJetc4-GX9mG/",
+        "category": [ "Trẻ Em", "Mẹ và Bé" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 740,
+        "name": "MELLOW- Set đồ ngủ ba lỗ nữ đính nơ phối ren ML03 form basic, thun cotton mùa hè thoáng mát",
+        "price": 171000,
+        "originalPrice": 190000,
+        "imageUrl": "images/740.webp",
+        "affiliateLink": "https://s.shopee.vn/5pzOiHqCtQ",
+        "category": [ "Thời Trang Nữ" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 741,
+        "name": "TasKTooL Độ chính xác cao thước cuộn thép, thước dây thép carbon thước dây thước mét sơn huỳnh quang",
+        "price": 45900,
+        "originalPrice": 50000,
+        "imageUrl": "images/741.webp",
+        "affiliateLink": "https://s.shopee.vn/70BM783rv8",
+        "category": [ "Đồ Nghề", "Nhà Cửa & Đời Sống" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 742,
+        "name": "Váy 2 Dây Body - Đầm Thun Trơn Basic Phối Viền Ren Ôm Body Đi Chơi, Mặc Nhà Sexy VN595",
+        "price": 95000,
+        "originalPrice": 99000,
+        "imageUrl": "images/742.webp",
+        "affiliateLink": "https://s.shopee.vn/2LPWYnxdnN",
+        "category": [ "Thời Trang Nữ" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 743,
+        "name": "Keo Bọt Nở Rockiya 750ml Hàng Loại 1 Malaisia, Bình xịt bọt nở foam tạo bọt cao siêu trắng, chính hãng - Panka Store",
+        "price": 39990,
+        "originalPrice": 56000,
+        "imageUrl": "images/743.webp",
+        "affiliateLink": "https://s.shopee.vn/6fYVjB5pZQ",
+        "category": [ "Đồ Nghề", "Nhà Cửa & Đời Sống" ],
+        "platform": "shopee"
     }
 ]
