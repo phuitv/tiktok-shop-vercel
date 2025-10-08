@@ -7467,5 +7467,29 @@
         "affiliateLink": "https://s.shopee.vn/5pzNGKq9zy",
         "category": [ "Nhà Cửa & Đời Sống", "Đồ Nghề" ],
         "platform": "shopee"
+    },
+    {
+        "id": 736,
+        "name": "TPBVSK Men Vi Sinh Phụ Khoa Neubiotic Her, Viên Uống Phụ Khoa Chứa 25 Tỷ Lợi Khuẩn, Nhập Khẩu Anh Quốc, Hộp 30 Viên",
+        "price": 426000,
+        "originalPrice": 699000,
+        "afterFlashSalePrice": 519000,
+        "flashSaleEndTime":"2025-10-08T23:59:59",
+        "imageUrl": "images/736.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7kyXr2MFue-eGYy8/",
+        "category": [ "Ăn Uống & Sức Khoẻ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 737,
+        "name": "Dép Bông Đi Trong Nhà Mùa Đông, Dép Lông Nữ Đi Trong Nhà Ấm Áp Sang Chảnh Đế Mềm Chống Trơn Trượt",
+        "price": 40000,
+        "originalPrice": 48000,
+        "afterFlashSalePrice": 40000,
+        "flashSaleEndTime":"2025-10-08T23:59:59",
+        "imageUrl": "images/737.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7kfQEy36pQ-wmofH/",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Công Sở" ],
+        "platform": "tiktok"
     }
 ]
