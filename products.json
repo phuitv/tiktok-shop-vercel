@@ -7553,5 +7553,93 @@
         "affiliateLink": "https://s.shopee.vn/6fYVjB5pZQ",
         "category": [ "Đồ Nghề", "Nhà Cửa & Đời Sống" ],
         "platform": "shopee"
+    },
+    {
+        "id": 744,
+        "name": "[MINH PHÁT] Ghế Bập Bênh Điều Chỉnh 5 Cấp Độ, Khung Thép Mạ Kẽm Sơn Tĩnh Điện, ghế lười, ghế đọc sách, ghế phòng ngủ, ghế thư giãn, ghế cho mẹ bầu",
+        "price": 1351524,
+        "originalPrice": 1930000,
+        "afterFlashSalePrice": 1648200,
+        "flashSaleEndTime":"2025-10-10T23:59:59",
+        "imageUrl": "images/744.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH75KXPrwKmy-Uz0F2/",
+        "category": [ "Nhà Cửa & Đời Sống" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 745,
+        "name": "BỘ 5 NỒI INOX KLINS (16-18-20-22-24CM)",
+        "price": 339700,
+        "originalPrice": 545000,
+        "afterFlashSalePrice": 395000,
+        "flashSaleEndTime":"2025-10-10T23:59:59",
+        "imageUrl": "images/745.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH75EGRUdoKf-D6IG2/",
+        "category": [ "Gia Dụng" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 746,
+        "name": "[1 ĐÔI] Băng Đệm Bảo Vệ Gối AOLIKES Sport 0217A  - Dụng cụ bó đầu gối cho thủ môn, đá bóng, bóng chuyền, gym",
+        "price": 99000,
+        "originalPrice": 119000,
+        "afterFlashSalePrice": 99000,
+        "flashSaleEndTime":"2025-10-10T23:59:59",
+        "imageUrl": "images/746.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7a1rRBvhxt-nAZq9/",
+        "category": [ "Thể Thao" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 747,
+        "name": "Nồi Nấu Chậm Bear Nồi Nấu Cháo Chậm Ăn Dặm Nồi Nấu Chậm Nồi Chưng Yến Đảm Bảo Giữ Nguyên Chất Dinh Dưỡng SUBE001",
+        "price": 484000,
+        "originalPrice": 620000,
+        "imageUrl": "images/747.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7aJnjnDDgT-74do7/",
+        "category": [ "Gia Dụng" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 748,
+        "name": "Đế chuyển đổi nguồn điện HUKAN G1-BCN0214, Màn led hiển thị điện áp, sạc điện thoại...",
+        "price": 211650,
+        "originalPrice": 500000,
+        "afterFlashSalePrice": 249000,
+        "flashSaleEndTime":"2025-10-10T23:59:59",
+        "imageUrl": "images/748.webp",
+        "affiliateLink": "https://s.shopee.vn/8pd3VYidcK",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Công Nghệ", "Đồ Nghề", "Đồ Công Sở" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 749,
+        "name": "Bình giữ nhiệt HUKAN HK-BGN0850ML, inox304, 850ml, Giữ nước nóng và lạnh, Có ống hút, móc treo",
+        "price": 146624,
+        "originalPrice": 215000,
+        "imageUrl": "images/749.webp",
+        "affiliateLink": "https://s.shopee.vn/1g9szDTGEQ",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Công Sở" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 750,
+        "name": "Vòi rửa bát cắm tường lạnh inox 304 bóng xoay 720 độ (MT)",
+        "price": 189000,
+        "originalPrice": 200000,
+        "imageUrl": "images/750.webp",
+        "affiliateLink": "https://s.shopee.vn/1VqSnIAiJF",
+        "category": [ "Nhà Cửa & Đời Sống" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 751,
+        "name": "Set sơ mi đũi đính nơ nhỏ kèm quần short cạp chun ChangStore - S210",
+        "price": 163400,
+        "originalPrice": 200000,
+        "imageUrl": "images/751.webp",
+        "affiliateLink": "https://s.shopee.vn/3LI6z2laH7",
+        "category": [ "Thời Trang Nữ" ],
+        "platform": "shopee"
     }
 ]
