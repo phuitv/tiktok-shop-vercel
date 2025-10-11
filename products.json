@@ -7641,5 +7641,25 @@
         "affiliateLink": "https://s.shopee.vn/3LI6z2laH7",
         "category": [ "Thời Trang Nữ" ],
         "platform": "shopee"
+    },
+    {
+        "id": 752,
+        "name": "[Phiên bản giới hạn] Gấu Bông Hoa Hồng Bông Tuyết 90cm quà tặng ý nghĩa siêu hot hit",
+        "price": 329000,
+        "originalPrice": 200000,
+        "imageUrl": "images/752.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH79JN8fw11o-9STma/",
+        "category": [ "Quà Tặng", "Nhà Cửa & Đời Sống" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 753,
+        "name": "Túi lưu trữ treo, cho đầu giường ký túc xá, sắp xếp treo, cho tất, đồ lót và áo ngực, treo, treo trên tường, thích hợp cho quần áo",
+        "price": 70000,
+        "originalPrice": 150000,
+        "imageUrl": "images/753.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH79dcbyJaNn-NwaPr/",
+        "category": [ "Nhà Cửa & Đời Sống" ],
+        "platform": "tiktok"
     }
 ]
