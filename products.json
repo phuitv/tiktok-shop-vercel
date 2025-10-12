@@ -7724,5 +7724,46 @@
         "affiliateLink": "https://vt.tiktok.com/ZSH7Cj9y9kCLG-LTJTc/",
         "category": [ "Linh Kiện & Phụ Kiện PC", "Đồ Công Nghệ", "Điện Thoại & Phụ Kiện" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 760,
+        "name": "Son Kem 3CE Cho Viền Môi Mờ Ảo Không Lem Blur Water Tint",
+        "price": 308000,
+        "originalPrice": 378000,
+        "imageUrl": "images/760.webp",
+        "affiliateLink": "https://s.shopee.vn/40XqKVo7Ru",
+        "category": [ "Làm Đẹp", "Đồ Công Sở" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 761,
+        "name": "Kệ phơi giày dép 3 tầng xoay 360 độ - Kệ Giày, Kệ Dép, Kệ Phơi Giày Dép, Giá Phơi Giày - HÀNG XỊN",
+        "price": 112000,
+        "originalPrice": 230000,
+        "imageUrl": "images/761.webp",
+        "affiliateLink": "https://s.shopee.vn/2Vj2ZD1x6v",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Công Sở", "Gia Dụng" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 762,
+        "name": "【Hàng sẵn có】 Bàn ủi Hơi Nước dung lượng Lớn thích hợp Cho Mọi Loại Vải Bàn ủi Hơi Nước Cầm Tay",
+        "price": 140799,
+        "originalPrice": 320000,
+        "afterFlashSalePrice": 159999,
+        "flashSaleEndTime":"2025-10-12T23:59:59",
+        "imageUrl": "images/762.webp",
+        "affiliateLink": "https://s.shopee.vn/5pzUXtbKZF",
+        "category": [ "Nhà Cửa & Đời Sống", "Gia Dụng" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 763,
+        "name": "Bộ Giá Để Bàn Chải Đánh Răng Đa Năng Bàn Chải Đánh Răng Cốc Hộ Gia Đình Cốc Nước súc Miệng Cốc Đánh Răng Không Đục Lỗ",
+        "price": 96800,
+        "imageUrl": "images/763.webp",
+        "affiliateLink": "https://s.shopee.vn/30fJB3Y0vw",
+        "category": [ "Nhà Cửa & Đời Sống" ],
+        "platform": "shopee"
     }
 ]
