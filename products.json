@@ -7841,5 +7841,49 @@
         "affiliateLink": "https://vt.tiktok.com/ZSH7gDUc6xvyw-uFboM/",
         "category": [ "Ăn Uống & Sức Khoẻ" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 771,
+        "name": "Sục Clog Classic [KÈM CHARM Theo Chủ Đề Như Hình + VỚ] Dép đúc nguyên khối nam nữ đế cao 3 cm êm nhẹ - trustvnxk",
+        "price": 85000,
+        "originalPrice": 180000,
+        "imageUrl": "images/771.webp",
+        "affiliateLink": "https://s.shopee.vn/4ArIjtiTH5",
+        "category": [ "Thời Trang Nữ", "Thời Trang Nam" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 772,
+        "name": "[SẴN HÀNG] Tinh chất dưỡng nang tóc, tăng mật độ tóc BIO-PLACENTAL hỗ trợ mọc tóc, dưỡng da đầu khỏe mạnh",
+        "price": 135000,
+        "originalPrice": 180000,
+        "imageUrl": "images/772.webp",
+        "affiliateLink": "https://s.shopee.vn/3fv29GgkNc",
+        "category": [ "Làm Đẹp" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 773,
+        "name": "Ốp Lưng iPhone TPU Chống Bẩn Lót Nhung, Bảo Vệ Camera - iP 7/8/X/XS/XR/11/12/13/14/15/16/17/Mini/Plus/Pro/Max/Air",
+        "price": 32900,
+        "originalPrice": 49800,
+        "afterFlashSalePrice": 32900,
+        "flashSaleEndTime":"2025-10-13T23:59:59",
+        "imageUrl": "images/773.webp",
+        "affiliateLink": "https://s.shopee.vn/9KZOtsTjTw",
+        "category": [ "Điện Thoại & Phụ Kiện" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 774,
+        "name": "Kính Cường Lực Iphone Tự Dán Chống Nhìn Trộm, trong suốt FULL HỘP Cho ip 7P/8P/X/Xsmax/11/11promax/...17promax",
+        "price": 12900,
+        "originalPrice": 40000,
+        "afterFlashSalePrice": 12900,
+        "flashSaleEndTime":"2025-10-13T23:59:59",
+        "imageUrl": "images/774.webp",
+        "affiliateLink": "https://s.shopee.vn/1qTNyHnWDL",
+        "category": [ "Điện Thoại & Phụ Kiện" ],
+        "platform": "shopee"
     }
 ]
