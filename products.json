@@ -7792,7 +7792,7 @@
         "price": 54280,
         "originalPrice": 80000,
         "afterFlashSalePrice": 59000,
-        "flashSaleEndTime":"2025-10-12T23:59:59",
+        "flashSaleEndTime":"2025-10-13T23:59:59",
         "imageUrl": "images/766.webp",
         "affiliateLink": "https://vt.tiktok.com/ZSH7gYc31hxL2-eHBj8/",
         "category": [ "Gia Dụng" ],
@@ -7806,6 +7806,40 @@
         "imageUrl": "images/767.webp",
         "affiliateLink": "https://vt.tiktok.com/ZSH7gjovcSdnJ-4XLSN/",
         "category": [ "Làm Đẹp" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 768,
+        "name": "Giày Thể Thao Biti's Helio Teen Nữ Màu Xanh Dương Lợt BSG007400XDL",
+        "price": 536000,
+        "originalPrice": 596000,
+        "imageUrl": "images/768.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7ghyWD2Emp-WhAdC/",
+        "category": [ "Thời Trang Nữ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 769,
+        "name": "Đồng hồ Pomodoro đếm ngược chạy PIN ,quản lý thời gian trẻ em, hẹn giờ nấu ăn, học bài, tập trung làm việc văn phòng",
+        "price": 204300,
+        "originalPrice": 375000,
+        "afterFlashSalePrice": 257000,
+        "flashSaleEndTime":"2025-10-14T23:59:59",
+        "imageUrl": "images/769.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7gS9r4nbTq-enUyq/",
+        "category": [ "Nhà Cửa & Đời Sống", "Nhà Sách Online" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 770,
+        "name": "Cơm Cháy Siêu Chà Bông Gạo Nếp Cái Hoa Vàng  - Cơm Cháy Kim Sơn - Đặc Sản Ninh Bình Snack Thức Ăn - Đồ Ăn Vặt",
+        "price": 80000,
+        "originalPrice": 90000,
+        "afterFlashSalePrice": 80000,
+        "flashSaleEndTime":"2025-10-13T23:59:59",
+        "imageUrl": "images/770.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7gDUc6xvyw-uFboM/",
+        "category": [ "Ăn Uống & Sức Khoẻ" ],
         "platform": "tiktok"
     }
 ]
