@@ -7765,5 +7765,47 @@
         "affiliateLink": "https://s.shopee.vn/30fJB3Y0vw",
         "category": [ "Nhà Cửa & Đời Sống" ],
         "platform": "shopee"
+    },
+    {
+        "id": 764,
+        "name": "Muối ô mai xí muội 400gr NutiFarm đồ ăn vặt đà lạt vừa ngon vừa rẻ  Food Thức Ăn",
+        "price": 39000,
+        "originalPrice": 50000,
+        "imageUrl": "images/764.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7bB3QsoPbT-KMl1d/",
+        "category": [ "Ăn Uống & Sức Khoẻ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 765,
+        "name": "Khối bận rộn montessori 6in1 cầm tay cho bé bản cao cấp giúp phát triển giác quan và tư duy, trứng bận rộn đa năng làm từ nhựa ABS an toàn cho bé giúp bé học các kĩ năng cơ bản và cải thiện vận động cho bé",
+        "price": 55990,
+        "originalPrice": 99000,
+        "imageUrl": "images/765.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7byExrJFqw-CX3nN/",
+        "category": [ "Trẻ Em", "Mẹ và Bé" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 766,
+        "name": "Khăn tắm Royal  với kích thước 50x100cm hoặc 60x120cm dùng cho Spa, Khách sạn, nhà tắm không đổ lông, thấm hút tốt, không phai màu",
+        "price": 54280,
+        "originalPrice": 80000,
+        "afterFlashSalePrice": 59000,
+        "flashSaleEndTime":"2025-10-12T23:59:59",
+        "imageUrl": "images/766.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7gYc31hxL2-eHBj8/",
+        "category": [ "Gia Dụng" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 767,
+        "name": "SÁP WAX LÔNG CON LĂN WHITE FLOWER NOWAX - lựa chọn cho waxing chân, tay, lưng bụng ngực",
+        "price": 149000,
+        "originalPrice": 170000,
+        "imageUrl": "images/767.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7gjovcSdnJ-4XLSN/",
+        "category": [ "Làm Đẹp" ],
+        "platform": "tiktok"
     }
 ]
