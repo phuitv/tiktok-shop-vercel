@@ -7885,5 +7885,68 @@
         "affiliateLink": "https://s.shopee.vn/1qTNyHnWDL",
         "category": [ "Điện Thoại & Phụ Kiện" ],
         "platform": "shopee"
+    },
+    {
+        "id": 775,
+        "name": "Màn hình laptop 15.6 FHD Led Mỏng SLIM 30 Chân dùng cho dell, hp, asus, acer",
+        "price": 819000,
+        "imageUrl": "images/775.webp",
+        "affiliateLink": "https://s.shopee.vn/4q70Nbyfga",
+        "category": [ "Linh Kiện & Phụ Kiện PC" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 776,
+        "name": "Găng Tay Làm Vườn, Có Móng Vuốt, Bảo Vệ Tay, Độ Bền Cao, Chống Thấm Nước, Đào, Xới Đất găng tay",
+        "price": 23690,
+        "originalPrice": 30000,
+        "imageUrl": "images/776.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7tWfLVAbd7-zbBcl/",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Nghề" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 777,
+        "name": "Bình pha cà phê cold brew 450ml/600ml Bình ủ lạnh cafe nhựa cao cấp Bình ủ trà cold brew Có bộ lọc dễ dàng tháo rời DODO",
+        "price": 129000,
+        "originalPrice": 215000,
+        "imageUrl": "images/777.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7t7WJtvQk6-A8xjG/",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Công Sở" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 778,
+        "name": "Sào Hái Trái Cây Trên Cao KUNBE Chắc Chắn Cứng Cáp Có Thể Rút Gọn Loại 3M, 5M, 6M",
+        "price": 159000,
+        "originalPrice": 245000,
+        "afterFlashSalePrice": 159000,
+        "flashSaleEndTime":"2025-10-14T23:59:59",
+        "imageUrl": "images/778.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7t3mEHnJxr-Kk7yc/",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Nghề" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 779,
+        "name": "Ghế bập bênh đa năng chân gỗ OME - ghế rocking chair cho bé",
+        "price": 518472,
+        "originalPrice": 526472,
+        "imageUrl": "images/779.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7tTQKJwtjb-xX94y/",
+        "category": [ "Mẹ và Bé" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 780,
+        "name": "Bàn Chải Tắm Under Bro Tẩy Tế Bào Chết Kì Ghét Cơ Thể Silicone Body Scrubber",
+        "price": 69000,
+        "originalPrice": 115000,
+        "afterFlashSalePrice": 69000,
+        "flashSaleEndTime":"2025-10-14T23:59:59",
+        "imageUrl": "images/780.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7tELoERBW9-FzSj4/",
+        "category": [ "Gia Dụng" ],
+        "platform": "tiktok"
     }
 ]
