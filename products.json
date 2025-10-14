@@ -7948,5 +7948,45 @@
         "affiliateLink": "https://vt.tiktok.com/ZSH7tELoERBW9-FzSj4/",
         "category": [ "Gia Dụng" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 781,
+        "name": "Nước hoa hồng ma:nyo Bifida Biome Ampoule Toner 210ml/400ml",
+        "price": 295200,
+        "originalPrice": 360000,
+        "imageUrl": "images/781.webp",
+        "affiliateLink": "https://s.shopee.vn/7fRCYg6Ozs",
+        "category": [ "Làm Đẹp" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 782,
+        "name": "[COSRX OFFICIAL] Gel rửa mặt Cosrx Good Morning 150ml/50ml chiết xuất trà xanh độ ph thấp",
+        "price": 84000,
+        "originalPrice": 150000,
+        "imageUrl": "images/782.webp",
+        "affiliateLink": "https://s.shopee.vn/6fYfNAeu2M",
+        "category": [ "Làm Đẹp" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 783,
+        "name": "[CAO CẤP DÀY] Mặt nạ xông hơi, chờm nóng, lạnh, ủ ấm, chăm sóc da mặt spa có thể tái sử dụng",
+        "price": 79000,
+        "originalPrice": 119000,
+        "imageUrl": "images/783.webp",
+        "affiliateLink": "https://s.shopee.vn/70BVlzYNlb",
+        "category": [ "Làm Đẹp" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 784,
+        "name": "Tẩy đa năng Dr Natro tẩy xoong nồi cháy khét, tẩy dầu mỡ bếp ga, bếp điện, ghế da, rỉ sét inox sạch",
+        "price": 95000,
+        "originalPrice": 270000,
+        "imageUrl": "images/784.webp",
+        "affiliateLink": "https://s.shopee.vn/BLBdcyUzR",
+        "category": [ "Gia Dụng" ],
+        "platform": "shopee"
     }
 ]
