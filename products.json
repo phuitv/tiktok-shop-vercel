@@ -7988,5 +7988,39 @@
         "affiliateLink": "https://s.shopee.vn/BLBdcyUzR",
         "category": [ "Gia Dụng" ],
         "platform": "shopee"
+    },
+    {
+        "id": 785,
+        "name": "Quần Gió Thể Thao Mềm Mịn, Co Giãn Nhẹ Dáng Baggy, Quần Ống Suông Nam Nữ Unisex Phong Cách Thể Thao Q222",
+        "price": 139000,
+        "originalPrice": 250000,
+        "afterFlashSalePrice": 139000,
+        "flashSaleEndTime":"2025-10-16T23:59:59",
+        "imageUrl": "images/785.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7vcT753VfW-uPpoC/",
+        "category": [ "Thời Trang Nam", "Thời Trang Nữ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 786,
+        "name": "Serum Retinol Hỗ Trợ Se Khít Lỗ Chân Lông & Dưỡng Da Săn Chắc BONCEPT Retinol Serum 500IU - 30ml",
+        "price": 179000,
+        "originalPrice": 273000,
+        "imageUrl": "images/786.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7v3pafuAtT-S42Cu/",
+        "category": [ "Làm Đẹp" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 787,
+        "name": "Thùng 10 bịch Khăn Giấy Rút 1152 Tờ Treo Tường Bông Sen Vàng - Tặng Kèm 5 Móc Treo Tường",
+        "price": 165000,
+        "originalPrice": 299000,
+        "afterFlashSalePrice": 165000,
+        "flashSaleEndTime":"2025-10-15T23:59:59",
+        "imageUrl": "images/787.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7vTfVPMeXS-eQn0n/",
+        "category": [ "Gia Dụng", "Đồ Công Sở" ],
+        "platform": "tiktok"
     }
 ]
