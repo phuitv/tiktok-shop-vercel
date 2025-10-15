@@ -8022,5 +8022,33 @@
         "affiliateLink": "https://vt.tiktok.com/ZSH7vTfVPMeXS-eQn0n/",
         "category": [ "Gia Dụng", "Đồ Công Sở" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 788,
+        "name": "Essager USB C Adapter Di Động Chống Gió Điện Tử Mini Bền Chịu Nhiệt Độ Cao Type-C Cho Điện Thoại",
+        "price": 61900,
+        "originalPrice": 108900,
+        "imageUrl": "images/788.webp",
+        "affiliateLink": "https://s.shopee.vn/8044NnnzUf",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Công Nghệ", "Độc Lạ" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 789,
+        "name": "【Đang Bán】 Dụng Cụ Nặn Kem đánh Răng/Dụng Cụ Nặn Kem đánh Răng Kẹp Kem đánh Răng Tiết Kiệm Thời Gian Tiết Kiệm Không",
+        "price": 37400,
+        "imageUrl": "images/789.webp",
+        "affiliateLink": "https://s.shopee.vn/9KZRyjwe2e",
+        "category": [ "Gia Dụng" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 790,
+        "name": "Combo 10 Bút gel mực khô nhanh - nét viết êm mượt Flexgel Thiên Long GEL-042",
+        "price": 50000,
+        "imageUrl": "images/790.webp",
+        "affiliateLink": "https://s.shopee.vn/1gA0qzdl95",
+        "category": [ "Nhà Sách Online", "Nhà Cửa & Đời Sống", "Đồ Công Sở" ],
+        "platform": "shopee"
     }
 ]
