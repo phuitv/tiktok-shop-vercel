@@ -8050,5 +8050,41 @@
         "affiliateLink": "https://s.shopee.vn/1gA0qzdl95",
         "category": [ "Nhà Sách Online", "Nhà Cửa & Đời Sống", "Đồ Công Sở" ],
         "platform": "shopee"
+    },
+    {
+        "id": 791,
+        "name": "[Live - COMBO]  01 Dầu Gội Dược Liệu Thái Dương 3 Gold (Chai 500ml, Hoa Lá) và 01 Dầu xả Thái Dương 3 Gold (Chai 333ml, Hoa Lá) - Sao Thái Dương",
+        "price": 161726,
+        "originalPrice": 230000,
+        "afterFlashSalePrice": 176726,
+        "flashSaleEndTime":"2025-10-16T23:59:59",
+        "imageUrl": "images/791.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7KEfPca4Vb-uzlNf/",
+        "category": [ "Làm Đẹp" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 792,
+        "name": "【Official】Hàng Mới Về,Mặt Nạ Mắt LANBENA Hỗ Hỗ Trợ Dưỡng Da Mắt Cải Thiện Mờ Thâm Bọng Mắt 60 Miếng Skincare VC/HA/24K/Retinol/Aloe Vera/Peptides,Eye mask,Eye care,Gel Eye Patches",
+        "price": 179000,
+        "originalPrice": 398000,
+        "afterFlashSalePrice": 189000,
+        "flashSaleEndTime":"2025-10-16T23:59:59",
+        "imageUrl": "images/792.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7KodLUwTyk-MEcCW/",
+        "category": [ "Làm Đẹp" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 793,
+        "name": "QUẦN CẠP LIỀN ỐNG RỘNG ( KHOÁ SƯỜN) CHẤT GOLD MỸ MỀM RŨ DÀI  M22",
+        "price": 128999,
+        "originalPrice": 210000,
+        "afterFlashSalePrice": 148999,
+        "flashSaleEndTime":"2025-10-16T23:59:59",
+        "imageUrl": "images/793.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH7KoTEC5v2C-WXHT4/",
+        "category": [ "Thời Trang Nữ", "Đồ Công Sở" ],
+        "platform": "tiktok"
     }
 ]
