@@ -8086,5 +8086,59 @@
         "affiliateLink": "https://vt.tiktok.com/ZSH7KoTEC5v2C-WXHT4/",
         "category": [ "Thời Trang Nữ", "Đồ Công Sở" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 794,
+        "name": "[Ooznary Official] Vita3 Serum giúp sáng da mờ thâm, làm dịu da For Blemish Care 50ml",
+        "price": 378800,
+        "originalPrice": 600000,
+        "afterFlashSalePrice": 432000,
+        "flashSaleEndTime":"2025-10-17T23:59:59",
+        "imageUrl": "images/794.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHv1qypcLtgm-IWmV2/",
+        "category": [ "Làm Đẹp" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 795,
+        "name": "Bóng sấy quần áo len lông cừu UNIQ Sunny banh giúp khô nhanh tiết kiệm điện chống nhăn thơm quần áo cho máy sấy giặt",
+        "price": 56000,
+        "originalPrice": 65000,
+        "afterFlashSalePrice": 56000,
+        "flashSaleEndTime":"2025-10-17T23:59:59",
+        "imageUrl": "images/795.webp",
+        "affiliateLink": "https://s.shopee.vn/6ps9nd4AUd",
+        "category": [ "Gia Dụng" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 796,
+        "name": "Áo Thun Trơn Cotton 250gsm MVP Premium Full Color Cổ Tròn Nam Nữ",
+        "price": 29000,
+        "originalPrice": 85000,
+        "imageUrl": "images/796.webp",
+        "affiliateLink": "https://s.shopee.vn/qawfSj84r",
+        "category": [ "Thời Trang Nam", "Thời Trang Nữ" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 797,
+        "name": "Xịt Thơm Miệng Greelux Fresh Mint Cool (vị cay mát nhẹ nhàng)",
+        "price": 48000,
+        "originalPrice": 65000,
+        "imageUrl": "images/797.webp",
+        "affiliateLink": "https://s.shopee.vn/4VUF2XRMWn",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Công Sở" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 798,
+        "name": "[1 SET] Set Mủ Trôm Hạt Chia 94 Farm",
+        "price": 36000,
+        "originalPrice": 52500,
+        "imageUrl": "images/798.webp",
+        "affiliateLink": "https://s.shopee.vn/5fgCQxxMbR",
+        "category": [ "Ăn Uống & Sức Khoẻ", "Nguyên Liệu" ],
+        "platform": "shopee"
     }
 ]
