@@ -8140,5 +8140,91 @@
         "affiliateLink": "https://s.shopee.vn/5fgCQxxMbR",
         "category": [ "Ăn Uống & Sức Khoẻ", "Nguyên Liệu" ],
         "platform": "shopee"
+    },
+    {
+        "id": 799,
+        "name": "500 CHIẾC KHẨU TRANG 5D THỊNH PHÁT Chống Nắng UV & Bụi Mịn - Vải Không Dệt An Toàn - Thiết Kế 3D Thông Minh - Dây Tai Mềm Mại - Free Ship",
+        "price": 134849,
+        "originalPrice": 399000,
+        "afterFlashSalePrice": 155000,
+        "flashSaleEndTime":"2025-10-17T23:59:59",
+        "imageUrl": "images/799.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvJK7LJqMSL-56aRe/",
+        "category": [ "Nhà Cửa & Đời Sống" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 800,
+        "name": "( GIÁ MỞ BÁN  )Giày Thể Thao Nữ Giày Eva mẫu( SIÊU HÓT ) , giày đi mưa chống trơn trượt độn đế 6cm",
+        "price": 99000,
+        "originalPrice": 200000,
+        "imageUrl": "images/800.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvJEXLhgun9-3CWXM/",
+        "category": [ "Thời Trang Nữ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 801,
+        "name": "[Three Squirrels] 240g, Khoảng 60-120 túi snack thịt khô ( thịt heo và thịt gà), ăn vặt văn phòng thơm ngon tiện lợi",
+        "price": 93500,
+        "originalPrice": 172339,
+        "afterFlashSalePrice": 93500,
+        "flashSaleEndTime":"2025-10-18T06:59:59",
+        "imageUrl": "images/801.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHveeMEUeLUr-sE9JI/",
+        "category": [ "Ăn Uống & Sức Khoẻ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 802,
+        "name": "Bộ quà tặng nam MILAN EUROPE - Gồm 2 Sữa tắm gội nam 4 in 1 hương nước hoa châu Âu SIRMEN Europe Gentlemen 350g công nghệ tiên tiến | TẶNG TÚI XÁCH &  NƯỚC HOA 10ML",
+        "price": 233816,
+        "originalPrice": 545000,
+        "afterFlashSalePrice": 298998,
+        "flashSaleEndTime":"2025-10-17T23:59:59",
+        "imageUrl": "images/802.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvedNWL2hyR-0M7rN/",
+        "category": [ "Gia Dụng" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 803,
+        "name": "Bad Choices | Áo Bomber boxy STUD BUTTON vải kaki lót dù",
+        "price": 500000,
+        "originalPrice": 680000,
+        "imageUrl": "images/803.webp",
+        "affiliateLink": "https://s.shopee.vn/40XytbVtHS",
+        "category": [ "Thời Trang Nam" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 804,
+        "name": "Chảo Gang Đáy Bằng Đúc Nguyên Khối - Size 26.5cm 27.5cm 30cm 33cm Tặng Kèm Sạng",
+        "price": 179100,
+        "originalPrice": 188000,
+        "imageUrl": "images/804.webp",
+        "affiliateLink": "https://s.shopee.vn/70BaTPQGDo",
+        "category": [ "Gia Dụng" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 805,
+        "name": "𝗧𝗮̂̉𝘆 𝗺𝗼̂́𝗰 siêu sạch Ecogy, hỗ trợ tẩy mốc, thâm kim, nhựa chuối và một số vết bẩn khác",
+        "price": 73000,
+        "originalPrice": 119000,
+        "imageUrl": "images/805.webp",
+        "affiliateLink": "https://s.shopee.vn/1BDnWuuHpV",
+        "category": [ "Gia Dụng" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 806,
+        "name": "Set 6 món rổ kèm chậu bộ 3 rổ và chậu, thau nhựa rửa rau củ đựng hoa quả trái cây 2 lớp hình tròn chất liệu nhựa PP",
+        "price": 35900,
+        "originalPrice": 52000,
+        "imageUrl": "images/806.webp",
+        "affiliateLink": "https://s.shopee.vn/AKS2RtvcNV",
+        "category": [ "Gia Dụng" ],
+        "platform": "shopee"
     }
 ]
