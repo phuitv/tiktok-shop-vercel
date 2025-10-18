@@ -8226,5 +8226,102 @@
         "affiliateLink": "https://s.shopee.vn/AKS2RtvcNV",
         "category": [ "Gia Dụng" ],
         "platform": "shopee"
+    },
+    {
+        "id": 807,
+        "name": "2 Hộp Xịt chống sâu răng Midkid 2 vị NHO và TÁO chính hãng cho bé từ 1 tuổi, vị ngọt thơm, nuốt an toàn - Tặng Bàn chải thẳng + Cốc nhựa Midkid",
+        "price": 339000,
+        "originalPrice": 399000,
+        "imageUrl": "images/807.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvNd6YQaMpP-r7YRq/",
+        "category": [ "Gia Dụng", "Trẻ Em", "Mẹ và Bé" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 808,
+        "name": "Combo Dầu Gội Bưởi, Bồ Kết, Dầu Xả The Cafuné 450ml Dưỡng Tóc Dầu Gội & Dầu Xả Không Chứa Paraben và Silicone",
+        "price": 157519,
+        "originalPrice": 188000,
+        "afterFlashSalePrice": 178999,
+        "flashSaleEndTime":"2025-10-18T23:59:59",
+        "imageUrl": "images/808.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvNRbAQtBm8-1w33A/",
+        "category": [ "Gia Dụng" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 809,
+        "name": "(CHƯA KÈM CHARM) TIPONO Dép Sandal Nam Nữ Sục TIPONO Sầu Riêng Sục Bánh Mì Dập Nổi Đế Bằng LC16 Chất Liệu Nhựa EVA Thân Thiện Em Ái Bảo Vệ Bàn Chân Chống Trơn Trượt Sang Trọng",
+        "price": 98999,
+        "originalPrice": 180000,
+        "afterFlashSalePrice": 98999,
+        "flashSaleEndTime":"2025-10-19T23:59:59",
+        "imageUrl": "images/809.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvN8tsYF2aE-vSOq5/",
+        "category": [ "Thời Trang Nam", "Thời Trang Nữ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 810,
+        "name": "[COMBO 24 & 30 Cuộn] Băng Keo Thể Thao Cao Su Non Combo 24 & 30 & 40 Size 5cmx4,5m - Chống Chấn Thương Khi Chơi Thể Thao",
+        "price": 110000,
+        "originalPrice": 200000,
+        "imageUrl": "images/810.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvN6LXT7RER-CEW5W/",
+        "category": [ "Thể Thao" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 811,
+        "name": "Combo 5 chai xịt khử mùi giày dép KUNO chống hôi chân, lưu hương thơm mát",
+        "price": 78999,
+        "originalPrice": 100000,
+        "afterFlashSalePrice": 78999,
+        "flashSaleEndTime":"2025-10-19T23:59:59",
+        "imageUrl": "images/811.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvN6of1wB9p-Ewivs/",
+        "category": [ "Gia Dụng", "Đồ Công Sở" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 812,
+        "name": "Nước lau đa năng Sunlight Chanh & Sả | Phiên bản nâng cấp từ Cif | Sạch bóng kin kít, không nhờn rít | Chai 500ml",
+        "price": 34000,
+        "imageUrl": "images/812.webp",
+        "affiliateLink": "https://s.shopee.vn/7V7svxwjrU",
+        "category": [ "Gia Dụng" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 813,
+        "name": "NEW COLOR - Áo Thun Boxy Tay Dài In Nổi Solid Elegent Simpson Local Brand Unisex Nam Nữ Oversize - TS33",
+        "price": 140800,
+        "originalPrice": 300000,
+        "afterFlashSalePrice": 176000,
+        "flashSaleEndTime":"2025-10-19T23:59:59",
+        "imageUrl": "images/813.webp",
+        "affiliateLink": "https://s.shopee.vn/6fYlwe3SVd",
+        "category": [ "Thời Trang Nữ" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 814,
+        "name": "Tổng Hợp Cuktech PB100 PB1055 PB100P PB150P PB150S LPB200NL PB200N PB200 PB200P PB200U - Bảo Hành 18 Tháng",
+        "price": 499000,
+        "originalPrice": 550000,
+        "imageUrl": "images/814.webp",
+        "affiliateLink": "https://s.shopee.vn/4fnhZJxiXR",
+        "category": [ "Điện Thoại & Phụ Kiện", "Đồ Công Nghệ" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 815,
+        "name": "Trà gạo lứt Tây Nguyên Food - Việt Nam thanh lọc cơ thể hộp 500g",
+        "price": 180678,
+        "originalPrice": 223750,
+        "imageUrl": "images/815.webp",
+        "affiliateLink": "https://s.shopee.vn/2LPmnFs96j",
+        "category": [ "Nhà Cửa & Đời Sống", "Ăn Uống & Sức Khoẻ" ],
+        "platform": "shopee"
     }
 ]
