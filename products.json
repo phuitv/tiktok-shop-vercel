@@ -8323,5 +8323,91 @@
         "affiliateLink": "https://s.shopee.vn/2LPmnFs96j",
         "category": [ "Nhà Cửa & Đời Sống", "Ăn Uống & Sức Khoẻ" ],
         "platform": "shopee"
+    },
+    {
+        "id": 816,
+        "name": "Băng keo thể thao hộp 12 & 24 cuộn cao su non tự dính SUMSPORT cuốn cổ chân đá bóng hỗ trợ chấn thương tập luyện bangkeothethao",
+        "price": 99000,
+        "originalPrice": 185000,
+        "afterFlashSalePrice": 120000,
+        "flashSaleEndTime":"2025-10-19T23:59:59",
+        "imageUrl": "images/816.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvFWwqUHQeN-wIlse/",
+        "category": [ "Thể Thao" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 817,
+        "name": "Mũ Chống Nắng 3in1 MJFT – Đội Là Mũ Mở Là Khăn Choàng Gập Là Túi Đeo Chéo Chống UV Chống Nước Màu Dopamine Siêu Xinh",
+        "price": 82900,
+        "originalPrice": 159000,
+        "afterFlashSalePrice": 82900,
+        "flashSaleEndTime":"2025-10-19T23:59:59",
+        "imageUrl": "images/817.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvF3YMFAcjE-ejw7V/",
+        "category": [ "Nhà Cửa & Đời Sống" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 818,
+        "name": "Tất Vớ Nam Nữ Cổ Cao Trơn Chống Nắng Chống UV VSOCKS Cotton Êm Ái Dày Dặn Thoáng Khí - VSF4001/VSF3001 Tối giản Socks",
+        "price": 69000,
+        "originalPrice": 110000,
+        "afterFlashSalePrice": 69000,
+        "flashSaleEndTime":"2025-10-19T23:59:59",
+        "imageUrl": "images/818.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvFTDyeG3uY-ic1pn/",
+        "category": [ "Thời Trang Nam", "Thời Trang Nữ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 819,
+        "name": "Thanh Năng Lượng EnergyBar Kim Phú Cho Phượt Thủ, Gymer & Nhân Viên Văn Phòng 3 Vị Siêu Hot",
+        "price": 51840,
+        "originalPrice": 54000,
+        "imageUrl": "images/819.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvFTTUhPMK4-8ToZp/",
+        "category": [ "Ăn Uống & Sức Khoẻ", "Đồ Công Sở", "Thể Thao" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 820,
+        "name": "Miếng dán nền nhà - sàn nhà - dán tường giả đá hoa cương PVC cao cấp. Tấm xốp giả đá rẻ đẹp. Miếng xốp dán tường, dán sàn giả đá hoa cương",
+        "price": 22652,
+        "originalPrice": 32400,
+        "imageUrl": "images/820.webp",
+        "affiliateLink": "https://s.shopee.vn/8fJqvSua9V",
+        "category": [ "Nhà Cửa & Đời Sống" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 821,
+        "name": "Quạt cầm tay tích điện mini Jisulife Life 7 5 cấp độ gió 3600/5000mAh - Sử dụng lên đến 12h - Chính hãng - BH 12 tháng",
+        "price": 344999,
+        "originalPrice": 550000,
+        "imageUrl": "images/821.webp",
+        "affiliateLink": "https://s.shopee.vn/7AV38yfXTY",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Công Nghệ", "Đồ Công Sở", "Du Lịch" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 822,
+        "name": "Đồ Chơi Cho Bé- Tivi Máy Chiếu 3D Hologram Tự Lắp Cho Bé",
+        "price": 38000,
+        "originalPrice": 65000,
+        "imageUrl": "images/822.webp",
+        "affiliateLink": "https://s.shopee.vn/20mx01CPg6",
+        "category": [ "Trẻ Em", "Đồ Chơi" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 823,
+        "name": "'RẺ VÔ ĐỊCH' Chân váy chữ A cạp cao Basic dáng xòe chất kaki co giãn CAO CẤP có thêu con Ong",
+        "price": 29000,
+        "originalPrice": 159000,
+        "imageUrl": "images/823.webp",
+        "affiliateLink": "https://s.shopee.vn/8ANaLWyF7I",
+        "category": [ "Thời Trang Nữ" ],
+        "platform": "shopee"
     }
 ]
