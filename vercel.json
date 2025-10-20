@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/add-product.js": {
+      "maxDuration": 60
+    }
+  }
+}
