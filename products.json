@@ -8411,5 +8411,113 @@
         "affiliateLink": "https://s.shopee.vn/8ANaLWyF7I",
         "category": [ "Thời Trang Nữ" ],
         "platform": "shopee"
+    },
+    {
+        "id": 824,
+        "name": "(1 CHIẾC) Băng quấn cố chân dạng dây GoodFit co giãn đàn hồi, đệm silicon, tái sử dụng được nhiều lần tiết kiệm chi phí  - GF612A",
+        "price": 109000,
+        "originalPrice": 150000,
+        "imageUrl": "images/824.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvr2VCYsdkK-gWcah/",
+        "category": [ "Thể Thao" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 825,
+        "name": "【DATE MỚI VỀ + 13 VỊ】Ngũ cốc Calbee Nhật Bản Mix Sua C/hua Hoa Quả Hạt Sấy Khô Granola Ăn Sáng Lanna Store",
+        "price": 148335,
+        "originalPrice": 200000,
+        "afterFlashSalePrice": 159500,
+        "flashSaleEndTime":"2025-10-20T23:59:59",
+        "imageUrl": "images/825.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvrMfrvaoB9-GvCJh/",
+        "category": [ "Ăn Uống & Sức Khoẻ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 826,
+        "name": "Cà phê ủ lạnh cà phê Coldbrew túi lọc Arabica Cầu Đất tiện lợi cho người bận rộn Scafe Vietnam Hạt Arabica Đậm Đà Hương Vị Tự Nhiên, không đường, ít calo - Hộp 10 Gói x 20g - cafe Coffee coldbrew thơm ngon ủ lạnh",
+        "price": 159250,
+        "originalPrice": 249000,
+        "afterFlashSalePrice": 175000,
+        "flashSaleEndTime":"2025-10-20T23:59:59",
+        "imageUrl": "images/826.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvrh283jELJ-9y8e2/",
+        "category": [ "Ăn Uống & Sức Khoẻ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 827,
+        "name": "Đèn Học Để Bàn Tích Điện Đèn Led Bàn Học Bảo Vệ Mắt 3 Chế Độ Sáng Gắn Phòng Ngủ Bàn Trang Điểm，Đèn Led Dài 32cm Gắn Bàn Học",
+        "price": 66999,
+        "originalPrice": 113998,
+        "afterFlashSalePrice": 66999,
+        "flashSaleEndTime":"2025-10-20T23:59:59",
+        "imageUrl": "images/827.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvrhCaVsxYh-di5KO/",
+        "category": [ "Nhà Cửa & Đời Sống", "Nhà Sách Online", "Trẻ Em", "Đồ Công Nghệ", "Đồ Công Sở" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 828,
+        "name": "Bánh Mì Cafe Caramel Đẫm Vị Thơm Ngon Giòn Rụm Chuẩn Vị Bếp Mẹ Em",
+        "price": 71000,
+        "originalPrice": 79000,
+        "imageUrl": "images/828.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvrkBwHgDX9-rmbWc/",
+        "category": [ "Ăn Uống & Sức Khoẻ", "Đồ Công Sở" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 829,
+        "name": "[ComBo] Hạt Mắc Ca Đắk Lắk Size Trung(2.3-2.7cm) Sấy Chín Còn Vỏ(60-65Hạt/500gr)/ Snack, Ăn Vặt, Macca, Nuts, Foods, Hạt Dinh Dưỡng, Thức Ăn",
+        "price": 115000,
+        "originalPrice": 149000,
+        "afterFlashSalePrice": 115000,
+        "flashSaleEndTime":"2025-10-20T23:59:59",
+        "imageUrl": "images/829.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvrBrQV5SgB-n7jrb/",
+        "category": [ "Ăn Uống & Sức Khoẻ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 830,
+        "name": "Son Bùn INTO YOU C1 Lì Mịn Dễ Thoa Tán Lên Màu Chuẩn Làm Đầy Rãnh Môi Hợp Trend Hàn - Trung 1.8g",
+        "price": 114000,
+        "originalPrice": 240000,
+        "imageUrl": "images/830.webp",
+        "affiliateLink": "https://s.shopee.vn/LekwQ1PRw",
+        "category": [ "Làm Đẹp", "Đồ Công Sở" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 831,
+        "name": "[Chất Lượng] Kềm Cắt Da D.03, Đầu Vuông, Kềm Thép Không Gỉ Inox, Bấm Cán Thép - Lam Nippers, Kềm Lâm",
+        "price": 136100,
+        "originalPrice": 159000,
+        "imageUrl": "images/831.webp",
+        "affiliateLink": "https://s.shopee.vn/LekwbvsIA",
+        "category": [ "Nhà Cửa & Đời Sống" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 832,
+        "name": "[Quà Tặng] nước hoa mini Lilith and Eve Eau De Parfum 3ml (mẫu ngẫu nhiên)",
+        "price": 80000,
+        "originalPrice": 100000,
+        "imageUrl": "images/832.webp",
+        "affiliateLink": "https://s.shopee.vn/AKS6rG4l2P",
+        "category": [ "Phụ Kiện & Trang Sức" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 833,
+        "name": "Áo thun boxy hình cún dễ thương 2596 Miucho vải cotton thoáng mát phong cách Hàn Quốc in mix",
+        "price": 148000,
+        "originalPrice": 220000,
+        "imageUrl": "images/833.webp",
+        "affiliateLink": "https://s.shopee.vn/9AG9TLU0jX",
+        "category": [ "Thời Trang Nữ" ],
+        "platform": "shopee"
     }
 ]
