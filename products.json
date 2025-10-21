@@ -8519,5 +8519,97 @@
         "affiliateLink": "https://s.shopee.vn/9AG9TLU0jX",
         "category": [ "Thời Trang Nữ" ],
         "platform": "shopee"
+    },
+    {
+        "id": 834,
+        "name": "[Đủ Vị] Granola Nhiều Topping 80% Hạt Ngũ Cốc Mix Hạt, Ít Đường, Ăn Liền Befresco 500g (Tết) Food Thức Ăn",
+        "price": 188800,
+        "originalPrice": 255000,
+        "afterFlashSalePrice": 188800,
+        "flashSaleEndTime":"2025-10-21T23:59:59",
+        "imageUrl": "images/834.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvSvbmRKD6R-o4HPO/",
+        "category": [ "Ăn Uống & Sức Khoẻ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 835,
+        "name": "[KOL 50/100 túi/cuộn]Túi rác treo tường - loại dai - có quai xách - túi đựng rác chắc chắn, tiện lợi - túi rác dây rút dày - túi rác có quai rút -túi đựng rác-túi đựng rác tự phân hủy - bao đựng rác sinh học- an toàn vệ sinh môi trường - tuiracco quaixach",
+        "price": 70000,
+        "originalPrice": 135000,
+        "afterFlashSalePrice": 85000,
+        "flashSaleEndTime":"2025-10-21T23:59:59",
+        "imageUrl": "images/835.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvScA2amcPc-9Ai0Y/",
+        "category": [ "Gia Dụng" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 836,
+        "name": "MẬT TÁO ĐỎ TÂM AN 250ml Tự nhiên - Táo đỏ, kỷ tử mật  táo",
+        "price": 142500,
+        "originalPrice": 198000,
+        "afterFlashSalePrice": 150000,
+        "flashSaleEndTime":"2025-10-21T23:59:59",
+        "imageUrl": "images/836.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvScvWsVjsg-uIYyM/",
+        "category": [ "Ăn Uống & Sức Khoẻ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 837,
+        "name": "BỘT NGHỆ GẠO LỨT 420g - Bột ngũ cốc đậu hạt rau củ",
+        "price": 161499,
+        "originalPrice": 220000,
+        "afterFlashSalePrice": 169999,
+        "flashSaleEndTime":"2025-10-21T23:59:59",
+        "imageUrl": "images/837.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvS3SPf6U3D-eWMzR/",
+        "category": [ "Ăn Uống & Sức Khoẻ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 838,
+        "name": "Bình giữ nhiệt inox 304 Elmich EL 8295 dung tích 500ml",
+        "price": 189050,
+        "originalPrice": 390000,
+        "imageUrl": "images/838.webp",
+        "affiliateLink": "https://s.shopee.vn/6fYq9RRgEy",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Công Sở" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 839,
+        "name": "Bộ nồi inox 201 đáy 5 lớp Kangaroo KGIP3B3E size 16-20-24cm",
+        "price": 566100,
+        "originalPrice": 1190000,
+        "imageUrl": "images/839.webp",
+        "affiliateLink": "https://s.shopee.vn/1BDtblxZaF",
+        "category": [ "Gia Dụng" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 840,
+        "name": "Sữa rửa mặt foaming giúp làm sạch sâu và dưỡng ẩm dịu nhẹ dành cho da dầu - CeraVe Foaming Facial Cleanser 473ML",
+        "price": 364560,
+        "originalPrice": 490000,
+        "afterFlashSalePrice": 455700,
+        "flashSaleEndTime":"2025-10-21T23:59:59",
+        "imageUrl": "images/840.webp",
+        "affiliateLink": "https://s.shopee.vn/gHd17Jp9N",
+        "category": [ "Làm Đẹp", "Nhà Cửa & Đời Sống" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 841,
+        "name": "Bộ đôi dầu gội xả ngăn ngừa & giảm gãy rụng tóc, giúp tóc chắc khỏe hơn L’oreal Paris Elseve Full Resist 440ml",
+        "price": 315744,
+        "originalPrice": 538000,
+        "afterFlashSalePrice": 394680,
+        "flashSaleEndTime":"2025-10-21T23:59:59",
+        "imageUrl": "images/841.webp",
+        "affiliateLink": "https://s.shopee.vn/40Y4zTf944",
+        "category": [ "Nhà Cửa & Đời Sống" ],
+        "platform": "shopee"
     }
 ]
