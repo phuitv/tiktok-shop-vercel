@@ -8699,5 +8699,51 @@
         "affiliateLink": "https://s.shopee.vn/60JBpNZDZQ",
         "category": [ "Điện Thoại & Phụ Kiện", "Đồ Công Nghệ" ],
         "platform": "shopee"
+    },
+    {
+        "id": 850,
+        "name": "Quần jean short, quần jean lửng, quần short baggy LODES CLUB Denim Nữ Pants jeans quan retro Sang trọng Drawstring calem club baby Women",
+        "price": 143099,
+        "originalPrice": 240000,
+        "afterFlashSalePrice": 158999,
+        "flashSaleEndTime":"2025-10-23T23:59:59",
+        "imageUrl": "images/850.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvm9qAaMRuo-474yV/",
+        "category": [ "Thời Trang Nam", "Thời Trang Nữ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 851,
+        "name": "Ghế Xếp Gấp Gọn Camping Câu Cá Dã Ngoại Ngả Lưng Chịu Tải 120kg Hợp Kim Nhôm Vải Oxford 600D 2 Lớp Dày Dặn 30 Ngày Đổi Mới Kèm Gác Chân Thư Giãn Tiện Lợi",
+        "price": 220000,
+        "originalPrice": 500000,
+        "afterFlashSalePrice": 260000,
+        "flashSaleEndTime":"2025-10-23T23:59:59",
+        "imageUrl": "images/851.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvmQsX1DVNj-ITyCh/",
+        "category": [ "Nhà Cửa & Đời Sống", "Du Lịch" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 852,
+        "name": "Fullbox [ 2 TẦNG Sapphire ] Bảo Vệ Mắt Camera 2 Tầng AR + AF ( ANTI - FOG ) Phủ Sapphira Siêu Trong Suốt - Chống Trầy - Chống Va Đập - Có Đầu Tháo Cam dành cho điện thoại Shin Case",
+        "price": 49000,
+        "originalPrice": 100000,
+        "imageUrl": "images/852.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvmXNJLq3gp-X0Ypl/",
+        "category": [ "Điện Thoại & Phụ Kiện" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 853,
+        "name": "【MeiYanQiong】Tinh chất dưỡng móng hoa oải hương| Móng tay đẹp | Móng tay hư | Làm dày móng tay | Móng tay hư | Móng tay nhấn mạnh | Móng tay nứt | Đường dọc trên móng tay | Móng tay dày   10ml",
+        "price": 66132,
+        "originalPrice": 138000,
+        "afterFlashSalePrice": 66132,
+        "flashSaleEndTime":"2025-10-23T23:59:59",
+        "imageUrl": "images/853.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvm4MoPDVAo-02juK/",
+        "category": [ "Nhà Cửa & Đời Sống", "Làm Đẹp" ],
+        "platform": "tiktok"
     }
 ]
