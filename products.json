@@ -8611,5 +8611,93 @@
         "affiliateLink": "https://s.shopee.vn/40Y4zTf944",
         "category": [ "Nhà Cửa & Đời Sống" ],
         "platform": "shopee"
+    },
+    {
+        "id": 842,
+        "name": "Tấm lót bàn chống thấm nước,khăn trải bàn da PU, thảm trải bàn sách học sinh,bàn học chống thấm nước",
+        "price": 49500,
+        "originalPrice": 50000,
+        "afterFlashSalePrice": 49500,
+        "flashSaleEndTime":"2025-10-23T23:59:59",
+        "imageUrl": "images/842.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHv5XrayGVTH-XpAl4/",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Công Sở" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 843,
+        "name": "[GÓI LỚN] Combo 10 gói khăn ướt LAMY gói 100 tờ - Không cồn không parabens cao cấp Cho Bé",
+        "price": 156363,
+        "originalPrice": 268000,
+        "afterFlashSalePrice": 163000,
+        "flashSaleEndTime":"2025-10-23T23:59:59",
+        "imageUrl": "images/843.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHv54QcgqwGY-9i6UZ/",
+        "category": [ "Nhà Cửa & Đời Sống", "Mẹ và Bé" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 844,
+        "name": "BISCOTTI Bánh Nướng Nguyên Cám Healthy - 250gr - Vani, Choco, Matcha Ăn Vặt Snack Food Thức Ăn biscotti Socola",
+        "price": 107000,
+        "originalPrice": 160000,
+        "afterFlashSalePrice": 107000,
+        "flashSaleEndTime":"2025-10-23T23:59:59",
+        "imageUrl": "images/844.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHv5b7JCuA8g-UvkX7/",
+        "category": [ "Ăn Uống & Sức Khoẻ", "Mẹ và Bé" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 845,
+        "name": "TÓP MỠ LIỀN DA RIM MẮM TỎI SIÊU GIÒN TAN",
+        "price": 38000,
+        "originalPrice": 64000,
+        "afterFlashSalePrice": 38000,
+        "flashSaleEndTime":"2025-10-23T23:59:59",
+        "imageUrl": "images/845.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHv5GYcaQgPW-oXYu4/",
+        "category": [ "Ăn Uống & Sức Khoẻ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 846,
+        "name": "Áo Hoodie Form Boxy Độn Vai Nỉ 2 Da Đẹp - 'Shoulder Pad' Boxy Hoodie Unlimited Club",
+        "price": 309000,
+        "originalPrice": 450000,
+        "imageUrl": "images/846.webp",
+        "affiliateLink": "https://s.shopee.vn/8fJwzTEjy4",
+        "category": [ "Thời Trang Nam" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 847,
+        "name": "SWEETMINT Slim Liquid Lying Silkworm Chống Thấm Nước Nhanh Khô Nâu Chống lem Kẻ Mắt",
+        "price": 71280,
+        "originalPrice": 79200,
+        "imageUrl": "images/847.webp",
+        "affiliateLink": "https://s.shopee.vn/10uVrjYu19",
+        "category": [ "Làm Đẹp" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 848,
+        "name": "[Bộ dài tay] combo 5 và combo 6 bộ quần áo dài tay 3 cúc chất liệu tăm Hàn cho bé trai, bé gái cao cấp từ [5 - 16 Kg]",
+        "price": 159290,
+        "originalPrice": 270000,
+        "imageUrl": "images/848.webp",
+        "affiliateLink": "https://s.shopee.vn/4q7EQxpTZy",
+        "category": [ "Trẻ Em", "Mẹ và Bé" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 849,
+        "name": "[iPhone 15-17/Android/Laptop] Cáp Sạc nhanh ANKER 544 USB-C to USB-C 140W - Bio-based - A80F1",
+        "price": 164680,
+        "originalPrice": 250000,
+        "imageUrl": "images/849.webp",
+        "affiliateLink": "https://s.shopee.vn/60JBpNZDZQ",
+        "category": [ "Điện Thoại & Phụ Kiện", "Đồ Công Nghệ" ],
+        "platform": "shopee"
     }
 ]
