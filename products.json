@@ -8745,5 +8745,46 @@
         "affiliateLink": "https://vt.tiktok.com/ZSHvm4MoPDVAo-02juK/",
         "category": [ "Nhà Cửa & Đời Sống", "Làm Đẹp" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 854,
+        "name": "Máy tỉa lông mũi, tỉa lông mũi KONKA, máy cắt lông mũi sạc pin không đau chống nước nhỏ gọn tiện lợi",
+        "price": 45000,
+        "imageUrl": "images/854.webp",
+        "affiliateLink": "https://s.shopee.vn/1Vqn8F7gtO",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Công Nghệ" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 855,
+        "name": "Túi Xách Tiểu Thư Nơ Ruy Băng – Có Charm Tim Cực Yêu CUN266",
+        "price": 59900,
+        "originalPrice": 180000,
+        "imageUrl": "images/855.webp",
+        "affiliateLink": "https://s.shopee.vn/4LAyVn5oYK",
+        "category": [ "Thời Trang Nữ", "Đồ Công Sở" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 856,
+        "name": "Máy phun sơn cầm tay cao cấp pin 21v chất lượng dung tích 800ml YAMASU GPS-DC21V Bảo Hành 6 Tháng",
+        "price": 780300,
+        "originalPrice": 1412308,
+        "afterFlashSalePrice": 918000,
+        "flashSaleEndTime":"2025-10-23T23:59:59",
+        "imageUrl": "images/856.webp",
+        "affiliateLink": "https://s.shopee.vn/1LXMwbDtpj",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Nghề", "Đồ Công Nghệ" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 857,
+        "name": "Set 100 túi lưới lọc bụi máy hút bụi cầm tay túi bọc lõi lọc máy hút bụi không dệt, lọc sạch",
+        "price": 25000,
+        "originalPrice": 45000,
+        "imageUrl": "images/857.webp",
+        "affiliateLink": "https://s.shopee.vn/2VjKLFEoFt",
+        "category": [ "Gia Dụng" ],
+        "platform": "shopee"
     }
 ]
