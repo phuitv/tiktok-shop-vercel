@@ -8786,5 +8786,127 @@
         "affiliateLink": "https://s.shopee.vn/2VjKLFEoFt",
         "category": [ "Gia Dụng" ],
         "platform": "shopee"
+    },
+    {
+        "id": 858,
+        "name": "Găng tay làm vườn móng cào nhọn - Găng tay làm vườn chống thấm nước để đào, trồng, nhỏ cỏ, gieo hạt",
+        "price": 40000,
+        "originalPrice": 52000,
+        "imageUrl": "images/858.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvCdug1fuEg-MCqIw/",
+        "category": [ "Đồ Nghề" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 859,
+        "name": "NÓN BẢO HIỂM CÁ HEO CHÍNH HÃNG LONG THANH - ĐẠT CHUẨN ĐI XE MÁY - CÓ TEM KIỂM ĐỊNH . Mũ bảo hiểm nửa đầu dáng cá heo gắn phụ kiện , đủ size cho cả người lớn và trẻ em , bảo hành chính hãng 12 tháng",
+        "price": 140000,
+        "originalPrice": 170000,
+        "afterFlashSalePrice": 140000,
+        "flashSaleEndTime":"2025-10-25T06:59:59",
+        "imageUrl": "images/859.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvC2rtKBGGW-ZceS8/",
+        "category": [ "Nhà Cửa & Đời Sống", "Trẻ Em" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 860,
+        "name": "Bánh In Dẻo Nhân Dừa Non Hữu Tài Cake Túi 600g -  Đồ ăn vặt ngon Miền Tây",
+        "price": 79500,
+        "originalPrice": 90000,
+        "afterFlashSalePrice": 79500,
+        "flashSaleEndTime":"2025-10-26T23:59:59",
+        "imageUrl": "images/860.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvsCsXdqEK1-Etqh7/",
+        "category": [ "Ăn Uống & Sức Khoẻ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 861,
+        "name": "Chai Xịt Khử Mùi Giày Cao Cấp Công Nghệ NANO AG+ MINSU M4855 Loại Bỏ Vi Khuẩn Có Hại Giúp Ngăn Ngừa Mùi Và Mồ Hôi Chân",
+        "price": 89000,
+        "originalPrice": 175000,
+        "imageUrl": "images/861.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvssVbxevHH-S4UiT/",
+        "category": [ "Gia Dụng" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 862,
+        "name": "Tripod p185 chụp hình quay phim tiện lợi Kim loại Phụ Kiện Selfie gậy livestream cyke  tripod",
+        "price": 279000,
+        "originalPrice": 500000,
+        "imageUrl": "images/862.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvs3cWCeS7D-syc45/",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Công Nghệ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 863,
+        "name": "POSY - COMBO GIA ĐÌNH - 2 bịch Giấy vệ sinh Posy 10 cuộn 3 lớp không lõi - có lõi mềm mịn, dễ tan trong nước, tiết kiệm",
+        "price": 120000,
+        "originalPrice": 199000,
+        "imageUrl": "images/863.webp",
+        "affiliateLink": "https://s.shopee.vn/9Ut9nIP4Wv",
+        "category": [ "Gia Dụng", "Đồ Công Sở" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 864,
+        "name": "LS][Chọn loại] Combo 2 Túi Nước Giặt Xả Chanté Cao Cấp 8 Trong 1",
+        "price": 183330,
+        "originalPrice": 289000,
+        "imageUrl": "images/864.webp",
+        "affiliateLink": "https://s.shopee.vn/20n8rui4jL",
+        "category": [ "Gia Dụng" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 865,
+        "name": "【COD】Đèn Mini Cầm Tay Có Thể Sạc Lại, 3 Chế Độ, Độ Sáng Có Thể Điều Chỉnh Kẹp Trên, Thích Hợp Cho Điện Thoại Di Động Và Máy Tính",
+        "price": 75190,
+        "originalPrice": 116888,
+        "afterFlashSalePrice": 86029,
+        "flashSaleEndTime":"2025-10-26T23:59:59",
+        "imageUrl": "images/865.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvGJhsMXNcW-1x3u0/",
+        "category": [ "Nhà Cửa & Đời Sống" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 866,
+        "name": "Dép Chống Trơn Trượt Cho Mẹ Bầu - Người Cao Tuổi Dép Slipper Cao Su",
+        "price": 149904,
+        "originalPrice": 289000,
+        "afterFlashSalePrice": 164730,
+        "flashSaleEndTime":"2025-10-26T23:59:59",
+        "imageUrl": "images/866.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvGekYCeRG7-oDkhI/",
+        "category": [ "Nhà Cửa & Đời Sống", "Mẹ và Bé" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 867,
+        "name": "Granola Giọt Nắng Mới Không Chiên Giòn Ngon Với Viên Yến Mạch Gạo Lứt Trái Cây Mới Từ Nông Sản Giọt Nắng",
+        "price": 138100,
+        "originalPrice": 198000,
+        "afterFlashSalePrice": 167000,
+        "flashSaleEndTime":"2025-10-26T23:59:59",
+        "imageUrl": "images/867.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvGdh3koKmo-wQZ0k/",
+        "category": [ "Ăn Uống & Sức Khoẻ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 868,
+        "name": "Thiên An Food TÓP MỠ RIM MẮM TỎI Phiên Bản Túi Mới LOẠI LIỀN DA giòn  tóp mỡ  thiên",
+        "price": 97200,
+        "originalPrice": 119000,
+        "afterFlashSalePrice": 167000,
+        "flashSaleEndTime":"2025-11-26T23:59:59",
+        "imageUrl": "images/868.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHvGRuv3DcdU-Pj29i/",
+        "category": [ "Ăn Uống & Sức Khoẻ" ],
+        "platform": "tiktok"
     }
 ]
