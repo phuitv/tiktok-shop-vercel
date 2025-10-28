@@ -8981,5 +8981,39 @@
         "affiliateLink": "https://vt.tiktok.com/ZSHvWBp7yNqBC-wYC9e/",
         "category": [ "Thời Trang Nữ", "Trường Mầm Non" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 876,
+        "name": "[DEAL MỚI] Quần Kaki Gió Hàn Dáng Thụng Lưng Thun Phối Viền Cạp Mềm Mát Siêu Hot_092",
+        "price": 85000,
+        "originalPrice": 160000,
+        "afterFlashSalePrice": 99000,
+        "flashSaleEndTime":"2025-11-28T23:59:59",
+        "imageUrl": "images/876.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHv3C1rXqwG2-g1u2k/",
+        "category": [ "Thời Trang Nữ", "Trường Mầm Non" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 877,
+        "name": "QUẦN CHO NẤM DÀI 85CM DÁNG BAGGY THỤNG VẢI GIÓ LỤA MỀM MỊN MÁT, CÓ TÚI-ms444",
+        "price": 105000,
+        "originalPrice": 139000,
+        "imageUrl": "images/877.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHv3XhpwmAaA-CjCiS/",
+        "category": [ "Thời Trang Nữ", "Trường Mầm Non" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 878,
+        "name": "[ Mẫu Mới ] Quần BAGGY Thụng Chất Gió Kaki Cho Nữ Mặc Hè Nhà CAMYY.STORE",
+        "price": 79000,
+        "originalPrice": 139999,
+        "afterFlashSalePrice": 79000,
+        "flashSaleEndTime":"2025-11-28T23:59:59",
+        "imageUrl": "images/878.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHv3VagEHcpe-1ae4t/",
+        "category": [ "Thời Trang Nữ", "Trường Mầm Non" ],
+        "platform": "tiktok"
     }
 ]
