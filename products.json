@@ -9097,5 +9097,47 @@
         "affiliateLink": "https://vt.tiktok.com/ZSHvEDkHJYF2P-UhtDZ/",
         "category": [ "Thời Trang Nam" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 887,
+        "name": "SEOULIFE | Áo Cardigan Dệt Kim Nữ, Có Cúc Vàng, Phong Cách Dongdaemun Hàn Quốc, Thu Đông 2025",
+        "price": 135200,
+        "originalPrice": 169000,
+        "imageUrl": "images/887.webp",
+        "affiliateLink": "https://s.shopee.vn/8pdX7qW8BP",
+        "category": [ "Thời Trang Nữ" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 888,
+        "name": "Quần Ống Rộng Chất Nỉ Ép 2 Da Mềm Mịn - Quần Nỉ Dáng Suông Lưng Cao Cạp Chun Có Dây Rút Điều Chỉnh M366",
+        "price": 89100,
+        "originalPrice": 190000,
+        "afterFlashSalePrice": 99000,
+        "flashSaleEndTime":"2025-10-29T23:59:59",
+        "imageUrl": "images/888.webp",
+        "affiliateLink": "https://s.shopee.vn/gHpP0WJJA",
+        "category": [ "Thời Trang Nữ" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 889,
+        "name": "Quần Nỉ Lót Lông Dáng Suông M031 Mùa Đông Dày Dặn Siêu Ấm Áp( không có dải rút dưới gấu quần)",
+        "price": 135999,
+        "originalPrice": 199999,
+        "imageUrl": "images/889.webp",
+        "affiliateLink": "https://s.shopee.vn/7AVJ9CxBS5",
+        "category": [ "Thời Trang Nữ" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 890,
+        "name": "1 Thùng 24 Hộp 110ml Sữa Dinh Dưỡng Nutifood GrowPLUS+ (Bạc) Cao Lớn Vượt Trội Hộp (24 hộp x 110ml)",
+        "price": 279930,
+        "originalPrice": 420000,
+        "imageUrl": "images/890.webp",
+        "affiliateLink": "https://s.shopee.vn/1BE60WXCIV",
+        "category": [ "Ăn Uống & Sức Khoẻ", "Trẻ Em" ],
+        "platform": "shopee"
     }
 ]
