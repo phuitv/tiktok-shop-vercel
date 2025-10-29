@@ -9151,5 +9151,37 @@
         "affiliateLink": "https://vt.tiktok.com/ZSHvoaFQdd1k7-pMvW3/",
         "category": [ "Trẻ Em" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 892,
+        "name": "Giá đỡ điện thoại để bàn T10 - Hỗ trợ quay 360° - Hợp kim nhôm chắc chắn - Chiều cao 30-45cm",
+        "price": 150999,
+        "originalPrice": 200000,
+        "imageUrl": "images/892.webp",
+        "affiliateLink": "https://s.shopee.vn/6psTBzyZSL",
+        "category": [ "Điện Thoại & Phụ Kiện" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 893,
+        "name": "MÃ F1 Mắt Kính Chống Bụi Đổi Màu Thời Trang Nam Nữ Cao Cấp Kính Râm Kính Mát Đi Xe Máy Đi Đường Ngày Đêm Chống Nắng Chống UV Mưa Gió Cản Bụi Nam Nữ Kính Râm Kính Thể Thao Chạy Bộ Đạp Xe Ngoài Trời Gọng Bảo Hộ Bảo Vệ Mắt Chống Mờ Hơi Hấp Hơi Trendy",
+        "price": 74808,
+        "originalPrice": 100000,
+        "afterFlashSalePrice": 97900,
+        "flashSaleEndTime":"2025-10-29T23:59:59",
+        "imageUrl": "images/893.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHc1DXbXaXE9-2GJ5h/",
+        "category": [ "Phụ Kiện & Trang Sức" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 894,
+        "name": "[GOOJODOQ] Tai nghe Bluetooth phiên bản giới hạn Nailoong màu sắc mới. Thời lượng pin siêu dài 3-5  giờ Chất lượng âm thanh HIFI",
+        "price": 199000,
+        "originalPrice": 399000,
+        "imageUrl": "images/894.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHc1UKpgyQDx-k1OwL/",
+        "category": [ "Điện Thoại & Phụ Kiện" ],
+        "platform": "tiktok"
     }
 ]
