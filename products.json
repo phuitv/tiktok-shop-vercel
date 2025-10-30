@@ -9183,5 +9183,45 @@
         "affiliateLink": "https://vt.tiktok.com/ZSHc1UKpgyQDx-k1OwL/",
         "category": [ "Điện Thoại & Phụ Kiện" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 895,
+        "name": "Bột Chiên Gà Vảy Giòn K.F.C 500G - Thương Hiệu Bu Phương Ẩm Thực - Siêu Giòn Rụm",
+        "price": 63900,
+        "originalPrice": 120000,
+        "imageUrl": "images/895.webp",
+        "affiliateLink": "https://s.shopee.vn/8KhIOSRBat",
+        "category": [ "Ăn Uống & Sức Khoẻ", "Nguyên Liệu" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 896,
+        "name": "[Chọn loại] Nước Mắm CHIN-SU Ủ Chượp 365 Ngày 700ml",
+        "price": 92000,
+        "originalPrice": 111000,
+        "imageUrl": "images/896.webp",
+        "affiliateLink": "https://s.shopee.vn/5fgXDo8bKT",
+        "category": [ "Gia Dụng", "Nguyên Liệu" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 897,
+        "name": "[NEW] Nước Xả Vải Đậm Đặc Hygiene 1.1L (Sản Xuất tại VN)",
+        "price": 94600,
+        "originalPrice": 119000,
+        "imageUrl": "images/897.webp",
+        "affiliateLink": "https://s.shopee.vn/10uhfkMaFI",
+        "category": [ "Gia Dụng" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 898,
+        "name": "Thực phẩm bảo vệ sức khỏe Enterogermina Gut Defense",
+        "price": 179490,
+        "originalPrice": 193000,
+        "imageUrl": "images/898.webp",
+        "affiliateLink": "https://s.shopee.vn/5VN72kDk3b",
+        "category": [ "Ăn Uống & Sức Khoẻ", "Trẻ Em" ],
+        "platform": "shopee"
     }
 ]
