@@ -9279,5 +9279,47 @@
         "affiliateLink": "https://vt.tiktok.com/ZSHcNeA4kSs4X-wVOuc/",
         "category": [ "Trẻ Em" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 904,
+        "name": "Sữa Đặc Ngôi Sao Phương Nam (Xanh Dương) – Sữa Đặc Vinamilk Hộp 1,284 Kg",
+        "price": 80646,
+        "originalPrice": 95000,
+        "imageUrl": "images/904.webp",
+        "affiliateLink": "https://s.shopee.vn/3AzDVDRNqu",
+        "category": [ "Ăn Uống & Sức Khoẻ", "Nguyên Liệu" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 905,
+        "name": "[Torriden Chính hãng] Set dưỡng chất chăm sóc môi SOLID IN chứa Ceramide, 11ml + 11ml, Lip Essence",
+        "price": 136320,
+        "originalPrice": 308000,
+        "afterFlashSalePrice": 170400,
+        "flashSaleEndTime":"2025-10-31T23:59:59",
+        "imageUrl": "images/905.webp",
+        "affiliateLink": "https://s.shopee.vn/7fRcrjz2uc",
+        "category": [ "Làm Đẹp", "Đồ Công Sở" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 906,
+        "name": "[HÀNG LOẠI 1] Áo Ngực Đúc Su Không Gọng Phối Dây Lưng Lưới Mềm Mại Co Dãn Thoáng Mát DAN L&U S11",
+        "price": 84000,
+        "originalPrice": 149000,
+        "imageUrl": "images/906.webp",
+        "affiliateLink": "https://s.shopee.vn/9UtH3J9HpU",
+        "category": [ "Thời Trang Nữ" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 907,
+        "name": "KHĂN VẢI KHÔ ĐA NĂNG DÀNH CHO MẸ VÀ BÉ GUMI 300/600/ 900g",
+        "price": 54000,
+        "originalPrice": 75000,
+        "imageUrl": "images/907.webp",
+        "affiliateLink": "https://s.shopee.vn/50QrhS2Ec4",
+        "category": [ "Nhà Cửa & Đời Sống", "Mẹ và Bé" ],
+        "platform": "shopee"
     }
 ]
