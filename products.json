@@ -9223,5 +9223,61 @@
         "affiliateLink": "https://s.shopee.vn/5VN72kDk3b",
         "category": [ "Ăn Uống & Sức Khoẻ", "Trẻ Em" ],
         "platform": "shopee"
+    },
+    {
+        "id": 899,
+        "name": "Merach Máy Tập Ab Có Thể Điều Chỉnh Với Màn Hình LCD, Máy Tập Bụng Có Thể Gập Lại Máy Tập Luyện Lõi, Thích Hợp Để Tập Luyện Cho Cánh Tay, Chân Và Mông, Máy Định Hình",
+        "price": 1208680,
+        "originalPrice": 2007547,
+        "afterFlashSalePrice": 1484010,
+        "flashSaleEndTime":"2025-10-31T23:59:59",
+        "imageUrl": "images/899.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHcLox1UdTTb-xTWw7/",
+        "category": [ "Thể Thao", "Đồ Công Nghệ", "Nhà Cửa & Đời Sống" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 900,
+        "name": "Merach Dây Kháng Lực Bàn Đạp Đa Chức Năng Dây Kéo Đàn Hồi, Để Tập Thể Dục Và Tập Luyện Toàn Thân, Thích Hợp Cho Phòng Tập Gym Thể Dục Tại Nhà, Tập Luyện Ngực Dụng Cụ Tập Luyện, Yoga, Tập Bụng",
+        "price": 87000,
+        "originalPrice": 180000,
+        "imageUrl": "images/900.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHcN1awCckN4-1vOsc/",
+        "category": [ "Thể Thao" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 901,
+        "name": "Sốt Me Chua Ngọt 400G Vị Chua Tự Nhiên, Không Chất Tạo Chua dùng cho món Rang Me - Sốt Me - Tiện lợi",
+        "price": 54945,
+        "originalPrice": 99000,
+        "imageUrl": "images/901.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHcNJYNDcvpp-dy9AP/",
+        "category": [ "Nguyên Liệu" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 902,
+        "name": "DOLL KIDS -Set Thu Đông Quần áo nỉ bé gái BN01 - Áo kèm quần ống xuông chất liệu nỉ mềm mại cho bé gái- Bộ nỉ",
+        "price": 129900,
+        "originalPrice": 189000,
+        "afterFlashSalePrice": 154900,
+        "flashSaleEndTime":"2025-11-02T23:59:59",
+        "imageUrl": "images/902.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHcNJtW6jpF7-lxtLN/",
+        "category": [ "Trẻ Em" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 903,
+        "name": "[DOLL KIDS] Bộ Nỉ Cho Bé Gái - Quần Ống Xuông + Áo Cho Bé Gái Nỉ 2 Da Phối Ren, Nơ - BN02",
+        "price": 118900,
+        "originalPrice": 199000,
+        "afterFlashSalePrice": 143900,
+        "flashSaleEndTime":"2025-11-02T23:59:59",
+        "imageUrl": "images/903.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHcNeA4kSs4X-wVOuc/",
+        "category": [ "Trẻ Em" ],
+        "platform": "tiktok"
     }
 ]
