@@ -9432,5 +9432,41 @@
         "affiliateLink": "https://s.shopee.vn/2qMOmnwQtB",
         "category": [ "Thể Thao" ],
         "platform": "shopee"
+    },
+    {
+        "id": 918,
+        "name": "Nước Hoa COLORKEY ROSÉ 10ml EDP – Tinh Dầu Nước Hoa Nồng Độ 20% Perfume, Lưu Hương, Hương Thơm Tinh Tế",
+        "price": 158999,
+        "originalPrice": 238000,
+        "afterFlashSalePrice": 227999,
+        "flashSaleEndTime":"2025-11-01T23:59:59",
+        "imageUrl": "images/918.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHcr19b28aQ2-7YDAR/",
+        "category": [ "Làm Đẹp" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 919,
+        "name": "[Voucher 15%] Thùng 24 gói Phở Bò/ Phở Gà VIFON Có Gói Sốt Bò/ Gà 75gr/gói",
+        "price": 239700,
+        "originalPrice": 362000,
+        "afterFlashSalePrice": 282000,
+        "flashSaleEndTime":"2025-11-01T23:59:59",
+        "imageUrl": "images/919.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHcreqD3tSWw-hKKQt/",
+        "category": [ "Ăn Uống & Sức Khoẻ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 920,
+        "name": "Dép Xỏ Ngón TIPONO LM63 Nam Nữ Đế Dày 4 cm Chống Trơn Trượt Size 36-43 DéP Thời Trang Hiện Đại Chất Liệu EVA Mềm Mại",
+        "price": 89000,
+        "originalPrice": 160000,
+        "afterFlashSalePrice": 89000,
+        "flashSaleEndTime":"2025-11-01T23:59:59",
+        "imageUrl": "images/920.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHcrLu4u1r2K-AJEVw/",
+        "category": [ "Thời Trang Nam", "Thời Trang Nữ" ],
+        "platform": "tiktok"
     }
 ]
