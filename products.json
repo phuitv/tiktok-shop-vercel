@@ -9379,5 +9379,58 @@
         "affiliateLink": "https://vt.tiktok.com/ZSHcjCcFEU2da-TJFkF/",
         "category": [ "Thời Trang Nam", "Thời Trang Nữ" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 913,
+        "name": "Bàn chải đánh răng làm trắng răng Hàn Quốc Kumho HQ6, bàn chải loại bỏ ố vàng, bàn chải cho người hút thuốc, uống chè.",
+        "price": 45000,
+        "imageUrl": "images/913.webp",
+        "affiliateLink": "https://s.shopee.vn/3LIfMyDvYI",
+        "category": [ "Gia Dụng" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 914,
+        "name": "[Torriden Chính hãng] Kem dưỡng làm dịu da DIVE IN chứa Hyaluronic Acid, 100ml, Soothing Cream",
+        "price": 237120,
+        "originalPrice": 528000,
+        "afterFlashSalePrice": 296400,
+        "flashSaleEndTime":"2025-11-01T23:59:59",
+        "imageUrl": "images/914.webp",
+        "affiliateLink": "https://s.shopee.vn/8zx27azkiu",
+        "category": [ "Làm Đẹp" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 915,
+        "name": "[Torriden Chính hãng] Serum DIVE IN chứa Hyaluronic Acid, 50ml, 50ml+50ml, Serum",
+        "price": 215360,
+        "originalPrice": 484000,
+        "afterFlashSalePrice": 269200,
+        "flashSaleEndTime":"2025-11-01T23:59:59",
+        "imageUrl": "images/915.webp",
+        "affiliateLink": "https://s.shopee.vn/2qMOmPSsEN",
+        "category": [ "Làm Đẹp" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 916,
+        "name": "Nấm Sapa sấy khô ăn chay ăn kiêng giảm cân loại 1 túi 100gr Thiên Thảo Organic",
+        "price": 27500,
+        "originalPrice": 55000,
+        "imageUrl": "images/916.webp",
+        "affiliateLink": "https://s.shopee.vn/6KwGx49LPE",
+        "category": [ "Nguyên Liệu" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 917,
+        "name": "Giày Hoka One Clifton 9, Giày Chạy Bộ Hoka One Clifton Nam Nữ Đa Dạng Màu Sắc",
+        "price": 1500000,
+        "originalPrice": 2950000,
+        "imageUrl": "images/917.webp",
+        "affiliateLink": "https://s.shopee.vn/2qMOmnwQtB",
+        "category": [ "Thể Thao" ],
+        "platform": "shopee"
     }
 ]
