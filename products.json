@@ -9321,5 +9321,63 @@
         "affiliateLink": "https://s.shopee.vn/50QrhS2Ec4",
         "category": [ "Nhà Cửa & Đời Sống", "Mẹ và Bé" ],
         "platform": "shopee"
+    },
+    {
+        "id": 908,
+        "name": "Chân Váy Kaki Nữ L'FEM (Có Quần Bảo Hộ) Co Giản Thoải Mái - Tôn Dáng, Dễ Phối Đồ (Form ngắn)",
+        "price": 139000,
+        "originalPrice": 199000,
+        "afterFlashSalePrice": 139000,
+        "flashSaleEndTime":"2025-11-01T23:59:59",
+        "imageUrl": "images/908.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHcjHeGd8exp-jaCgH/",
+        "category": [ "Thời Trang Nữ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 909,
+        "name": "Sét bộ áo thun tăm trơn phối quần sọc ống rộng dưới 52kg (có lẻ áo)",
+        "price": 36000,
+        "originalPrice": 50000,
+        "afterFlashSalePrice": 36000,
+        "flashSaleEndTime":"2025-11-01T23:59:59",
+        "imageUrl": "images/909.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHcj9KSe2F8B-j7YPx/",
+        "category": [ "Thời Trang Nữ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 910,
+        "name": "Body Mist COLORKEY ROSÉ Hương Thơm Ngọt Ngào, Tươi Mới 100ml",
+        "price": 139000,
+        "originalPrice": 218000,
+        "afterFlashSalePrice": 198000,
+        "flashSaleEndTime":"2025-11-01T23:59:59",
+        "imageUrl": "images/910.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHcjQFtofmUX-mAvwF/",
+        "category": [ "Nhà Cửa & Đời Sống", "Làm Đẹp", "Đồ Công Sở" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 911,
+        "name": "Cáp Sạc Lò Xo Đa Năng BC29 PLUS Sạc Nhanh 240W  by Bonne TECHNOLOGIQUE, Cáp Sạc Nhanh 4 IN 1 Chống Rối, Sạc Nhanh 240W Bảo Hành 12 Tháng Chính Hãng[phụ kiện, phone, sạc điện thoại]",
+        "price": 165000,
+        "originalPrice": 179000,
+        "imageUrl": "images/911.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHcjCjynqKcH-j66cO/",
+        "category": [ "Điện Thoại & Phụ Kiện", "Đồ Công Nghệ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 912,
+        "name": "Áo Thun Trơn Logo Kim Loại 99k Karants Cotton 260gsm Premium Form Oversize Nam Nữ Unisex Menswear Hot Trend 2025 - KR212",
+        "price": 109999,
+        "originalPrice": 185000,
+        "afterFlashSalePrice": 148999,
+        "flashSaleEndTime":"2025-11-01T23:59:59",
+        "imageUrl": "images/912.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHcjCcFEU2da-TJFkF/",
+        "category": [ "Thời Trang Nam", "Thời Trang Nữ" ],
+        "platform": "tiktok"
     }
 ]
