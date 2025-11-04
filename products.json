@@ -9544,5 +9544,47 @@
         "affiliateLink": "https://vt.tiktok.com/ZSHc51WTDU3dy-qrTIi/",
         "category": [ "Thời Trang Nam", "Thời Trang Nữ" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 928,
+        "name": "Máy rửa xe pin Navara dùng cho gia đình có chế độ phun xương tạo bọt",
+        "price": 321666,
+        "originalPrice": 583333,
+        "imageUrl": "images/928.webp",
+        "affiliateLink": "https://s.shopee.vn/1LXg6zEnRO",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Công Nghệ", "Ô Tô & Xe Máy", "Đồ Nghề"],
+        "platform": "shopee"
+    },
+    {
+        "id": 929,
+        "name": "Giá Đỡ iPad, Điện Thoại Có Đế Dạng Đứng, Chất Liệu Thép Chống Gỉ Xoay 360 Độ Bền Đẹp, Tiện Lợi",
+        "price": 230000,
+        "originalPrice": 250000,
+        "imageUrl": "images/929.webp",
+        "affiliateLink": "https://s.shopee.vn/1gAWVzq5m6",
+        "category": [ "Điện Thoại & Phụ Kiện"],
+        "platform": "shopee"
+    },
+    {
+        "id": 930,
+        "name": "Vali Du Lịch Medony TK07 Thời Trang Size 20/24/28 Chất Liệu Nhựa ABS/PC Cao Cấp Bảo Hành 5 Năm",
+        "price": 296650,
+        "originalPrice": 599000,
+        "afterFlashSalePrice": 349000,
+        "flashSaleEndTime":"2025-11-04T23:59:59",
+        "imageUrl": "images/930.webp",
+        "affiliateLink": "https://s.shopee.vn/1qTwlbd2ma",
+        "category": [ "Thời Trang Nam", "Thời Trang Nữ" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 931,
+        "name": "Áo mưa 2 người, hàng cao cấp loại 1, áo mưa trùm xe cho mẹ và bé, vạt trước trong suốt, quynhanhpuka",
+        "price": 259000,
+        "originalPrice": 290000,
+        "imageUrl": "images/931.webp",
+        "affiliateLink": "https://s.shopee.vn/1qTwmKUQDZ",
+        "category": [ "Gia Dụng"],
+        "platform": "shopee"
     }
 ]
