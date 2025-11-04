@@ -9503,7 +9503,7 @@
     },
     {
         "id": 924,
-        "name": "https://vt.tiktok.com/ZSHcPcafFnDKD-y1PjT/",
+        "name": "G60 - Váy Thiết Kế Evii dành cho nữ, Đầm thiết kế cổ sen, đính cúc tạo điểm nhấn dáng A xòe dài phù hợp đi làm, đi chơi và đi dự tiệc. Có Bigsize",
         "price": 339075,
         "originalPrice": 470000,
         "afterFlashSalePrice": 388500,
@@ -9511,6 +9511,38 @@
         "imageUrl": "images/924.webp",
         "affiliateLink": "https://vt.tiktok.com/ZSHcPcafFnDKD-y1PjT/",
         "category": [ "Trường Mầm Non", "Thời Trang Nữ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 925,
+        "name": "[Sẵn Ship Luôn] Combo 2 túi nước giặt tặng 1 Hoa hồng Khổng lồ màu Ngẫu nhiên- Mùi hương Rosé Mystique sang trọng - Chuyên Gia Nước Hoa Trong Phòng Giặt",
+        "price": 270000,
+        "originalPrice": 460000,
+        "imageUrl": "images/925.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHcPEbh7pvJM-xB5js/",
+        "category": [ "Gia Dụng" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 926,
+        "name": "[COMBO 12 CHAI] Nước thanh khiết pha sữa cho em bé Aoi dung tích 1,5L - độ pH lý tưởng 7.0, cụm phân tử nhỏ, dễ dàng hấp thu, không chứa Clo, Flo, kim loại nặng",
+        "price": 240500,
+        "originalPrice": 325000,
+        "imageUrl": "images/926.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHcPooNyCJqY-S4j7z/",
+        "category": [ "Mẹ và Bé" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 927,
+        "name": "Áo Thun PopPop nam nữ chất vải cotton 2 chiều dày mịn- v2",
+        "price": 141892,
+        "originalPrice": 280000,
+        "afterFlashSalePrice": 154230,
+        "flashSaleEndTime":"2025-11-05T23:59:59",
+        "imageUrl": "images/927.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHc51WTDU3dy-qrTIi/",
+        "category": [ "Thời Trang Nam", "Thời Trang Nữ" ],
         "platform": "tiktok"
     }
 ]
