@@ -9586,5 +9586,162 @@
         "affiliateLink": "https://s.shopee.vn/1qTwmKUQDZ",
         "category": [ "Gia Dụng"],
         "platform": "shopee"
+    },
+    {
+        "id": 932,
+        "name": "máy tạo tiếng ồn trắng Q1 9 âm thanh ru ngủ nuôi con easy thật đơn giản",
+        "price": 189000,
+        "imageUrl": "images/932.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHcgrjU3Qw9y-8ZhlL/",
+        "category": [ "Mẹ và Bé"],
+        "platform": "tiktok"
+    },
+    {
+        "id": 933,
+        "name": "Set Bộ Khoá Kéo ECOCHIC Set Bộ Đồ Đông Áo Khoá Kéo 2 Chiều Quần Dài Nỉ Chất Liệu Cao Cấp Chính Hãng B182",
+        "price": 810000,
+        "originalPrice": 2200000,
+        "afterFlashSalePrice": 1149000,
+        "flashSaleEndTime":"2025-11-08T23:59:59",
+        "imageUrl": "images/933.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHcnHP6NBAXB-x1rAp/",
+        "category": [ "Thời Trang Nữ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 934,
+        "name": "[NỈ 2 DA CHUẨN] Áo Khoác Bomber Phối Viền Nổ Đính Cúc ,Áo Khoác Nữ Kẻ Sọc Hottrend  – BY BOOM STORE",
+        "price": 65000,
+        "originalPrice": 130000,
+        "imageUrl": "images/934.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHcnxVnXUXpd-oZyBF/",
+        "category": [ "Thời Trang Nữ", "Đồ Công Sở"],
+        "platform": "tiktok"
+    },
+    {
+        "id": 935,
+        "name": "Tai Nghe Chụp Tai Bluetooth 40H W35 Hoco chính hãng không dây V5.3  Earphone Nghe Nhạc Micro đàm thoại màu Kem và",
+        "price": 250000,
+        "originalPrice": 400000,
+        "afterFlashSalePrice": 260000,
+        "flashSaleEndTime":"2025-11-08T23:59:59",
+        "imageUrl": "images/935.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHcnC6bAAu6S-x9S4y/",
+        "category": [ "Điện Thoại & Phụ Kiện", "Đồ Công Nghệ", "Linh Kiện & Phụ Kiện PC"],
+        "platform": "tiktok"
+    },
+    {
+        "id": 936,
+        "name": "Áo mưa đi xe máy cỡ lớn che phủ toàn thân, vải Oxford chống mài mòn+lớp PVC chống thấm nước cao cấp AM01",
+        "price": 179000,
+        "originalPrice": 290000,
+        "imageUrl": "images/936.webp",
+        "affiliateLink": "https://s.shopee.vn/4VUofevOZE",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Công Sở"],
+        "platform": "shopee"
+    },
+    {
+        "id": 937,
+        "name": "BÁNH CHẢ RAM GIÓ QUÊ - BÁNH CUỐN NEM - DẺO DAI, VÀNG GIÒN, AN TOÀN VỆ SINH THỰC PHẨM",
+        "price": 27500,
+        "originalPrice": 35000,
+        "imageUrl": "images/937.webp",
+        "affiliateLink": "https://s.shopee.vn/6psjTw7ZBi",
+        "category": [ "Nguyên Liệu"],
+        "platform": "shopee"
+    },
+    {
+        "id": 938,
+        "name": "[Unlimited x Dyaci] Áo Cardigan Len Lông Cáo Oversize Nam Nữ - Cardigan 'Striped' Foxy Fur Academy",
+        "price": 540000,
+        "originalPrice": 750000,
+        "imageUrl": "images/938.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH31pbUMWEJg-WzSWg/",
+        "category": [ "Thời Trang Nam", "Thời Trang Nữ", "Đồ Công Sở"],
+        "platform": "tiktok"
+    },
+    {
+        "id": 939,
+        "name": "Mũ bảo hiểm xe tay ga, Masontex, Mũ bảo hiểm xe máy, Tấm lưỡi che tụ hợp, Unisex, Thích hợp cho tất cả các mùa, Kích thước 4 / 3, Mũ bảo hiểm an toàn đi xe đạp",
+        "price": 429000,
+        "originalPrice": 699000,
+        "imageUrl": "images/939.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH31GBusSS11-u29y4/",
+        "category": [ "Nhà Cửa & Đời Sống", "Ô Tô & Xe Máy", "Trường Mầm Non"],
+        "platform": "tiktok"
+    },
+    {
+        "id": 940,
+        "name": "[Đ.30-T] Đầm Sơmi Công Sở Cách Điệu Dáng Dài Xếp Ly Tùng Thắt Lưng Cố Định (Có Túi) | Tũm Clothing",
+        "price": 193600,
+        "originalPrice": 299000,
+        "afterFlashSalePrice": 220000,
+        "flashSaleEndTime":"2025-11-11T23:59:59",
+        "imageUrl": "images/940.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH31ta79W92G-puspX/",
+        "category": [ "Thời Trang Nữ", "Trường Mầm Non", "Đồ Công Sở" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 941,
+        "name": "Đầm váy công sở sọc nữ thiết kế Nhật Vy cổ sơ mi tay ngắn nút bọc form chiết eo dáng xoè dự tiệc đơn giản - D3211 Women Dress",
+        "price": 249000,
+        "originalPrice": 350000,
+        "imageUrl": "images/941.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH31n8vJ21yC-aBpzU/",
+        "category": [ "Thời Trang Nữ", "Trường Mầm Non", "Đồ Công Sở" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 942,
+        "name": "ĐẦM CARO THIẾT KẾ T.06 CHẤT HỒNG NGỌC CAO CẤP Nữ Women",
+        "price": 259000,
+        "originalPrice": 270000,
+        "imageUrl": "images/942.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH31nqvc7TmW-GNMRA/",
+        "category": [ "Thời Trang Nữ", "Trường Mầm Non", "Đồ Công Sở" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 943,
+        "name": "Đầm váy nữ caro thiết kế Nhật Vy cổ sơ mi tay ngắn dáng xoè bigsize công sở văn phòng dự tiệc màu nâu xanh đen xanh lá - D3283",
+        "price": 188000,
+        "originalPrice": 350000,
+        "imageUrl": "images/943.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH31WaMk45cb-x5iNT/",
+        "category": [ "Thời Trang Nữ", "Trường Mầm Non", "Đồ Công Sở" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 944,
+        "name": "Áo Gen Gile Thiết Kế 6 Hàng Cài Nâng V1 Che Khuyết Điểm, Áo Gen Dành Cho Nữ Chất Liệu Thoáng Mát",
+        "price": 119000,
+        "originalPrice": 156000,
+        "imageUrl": "images/944.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH317mXXynJG-0lpTp/",
+        "category": [ "Thời Trang Nữ", "Trường Mầm Non" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 945,
+        "name": "Áo Ba Lỗ Ôm Sát Không Đường May, Dành Cho Nữ, Áo Vest Định Hình, Có Đệm Có Thể Tháo Rời Dây Đeo Rộng, Thích Hợp Cho Mùa Hè, Áo Lót",
+        "price": 245937,
+        "originalPrice": 409895,
+        "imageUrl": "images/945.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH31vMEdjFsV-ywRA7/",
+        "category": [ "Thời Trang Nữ", "Trường Mầm Non" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 946,
+        "name": "Bút Kẻ Mắt Khuôn, Không Thấm Nước, Lâu Trôi, Chống Mồ Hôi, Hai Đầu Trong Một, Một Vật Cần Thiết Cho Người Mới Bắt Đầu, Chống Nhòe, Mẫu Mới, Thích Hợp Cho Người Lười, Tạo Bút Kẻ Mắt Dễ Dàng",
+        "price": 49000,
+        "originalPrice": 70000,
+        "afterFlashSalePrice": 49000,
+        "flashSaleEndTime":"2025-11-11T23:59:59",
+        "imageUrl": "images/946.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH313jDduUDF-z5BSJ/",
+        "category": [ "Làm Đẹp" ],
+        "platform": "tiktok"
     }
 ]
