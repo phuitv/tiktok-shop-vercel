@@ -9743,5 +9743,49 @@
         "affiliateLink": "https://vt.tiktok.com/ZSH313jDduUDF-z5BSJ/",
         "category": [ "Làm Đẹp" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 947,
+        "name": "Chai Xịt Tẩy Rửa Đa Năng Denkmit 750ML - Tẩy Bếp Từ Denkmit, Tẩy Rửa Dầu Mỡ, Tẩy Nhà Tắm Bị Ố Vàng",
+        "price": 42800,
+        "originalPrice": 89000,
+        "afterFlashSalePrice": 42800,
+        "flashSaleEndTime":"2025-11-11T23:59:59",
+        "imageUrl": "images/947.webp",
+        "affiliateLink": "https://s.shopee.vn/BLtnQDhPd",
+        "category": [ "Gia Dụng" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 948,
+        "name": "Set 100 chiếc túi lưới lọc bụi cho máy hút bụi cầm tay, túi bọc lõi lọc máy hút bụi",
+        "price": 25000,
+        "originalPrice": 36000,
+        "imageUrl": "images/948.webp",
+        "affiliateLink": "https://s.shopee.vn/AA9FifBLe9",
+        "category": [ "Gia Dụng" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 949,
+        "name": "Combo Rửa Xe, Rửa Full Xe, Vệ Sinh Sên, Lốc Máy HP LUBE 1L Kèm Khăn Lau Xe, Bộ Cọ Bao Tay Rửa Xe Tiện Lợi",
+        "price": 55000,
+        "originalPrice": 105000,
+        "afterFlashSalePrice": 55000,
+        "flashSaleEndTime":"2025-11-11T23:59:59",
+        "imageUrl": "images/949.webp",
+        "affiliateLink": "https://s.shopee.vn/qbac5JH9d",
+        "category": [ "Nhà Cửa & Đời Sống", "Ô Tô & Xe Máy", "Đồ Nghề" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 950,
+        "name": "Sơn che phủ tường kèm con lăn thông minh xoá vết bẩn, trang trí tường màu trắng, trắng ngà lọ 500g",
+        "price": 87999,
+        "originalPrice": 129000,
+        "imageUrl": "images/950.webp",
+        "affiliateLink": "https://s.shopee.vn/1BER17pyyO",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Nghề" ],
+        "platform": "shopee"
     }
 ]
