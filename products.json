@@ -9787,5 +9787,57 @@
         "affiliateLink": "https://s.shopee.vn/1BER17pyyO",
         "category": [ "Nhà Cửa & Đời Sống", "Đồ Nghề" ],
         "platform": "shopee"
+    },
+    {
+        "id": 951,
+        "name": "Nước hoa unisex COCO BLANC full size 50ml Note'Code thơm lâu mùi hương Sang trọng - Gợi cảm – Phóng khoáng",
+        "price": 178350,
+        "originalPrice": 205000,
+        "imageUrl": "images/951.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH389H7KpRt5-HbGOK/",
+        "category": [ "Làm Đẹp", "Nước Hoa" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 952,
+        "name": "【FLASH SALE】【COD】 Băng Dính Thể Thao, Chuyên Nghiệp, Chống Trượt, Cho Vợt Tennis Và Cầu Lông,pickleball， Tay Cầm Bọc Băng Dính, Tay Cầm Chắc Chắn, Hiệu Quả Tuyệt Vời, Nhiều Màu Sắc Đẹp, Có Kết Cấu.",
+        "price": 110000,
+        "originalPrice": 198000,
+        "imageUrl": "images/952.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH38QRKTAsTs-JhpOT/",
+        "category": [ "Thể Thao" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 953,
+        "name": "HAPPY Success Chảo Chống Dính Đáy Từ 20-30cm Dùng Cho Bếp Hồng Ngoại Bếp Từ & Bếp Gas Đa Năng Tiện Lợi Vệ Sinh",
+        "price": 167300,
+        "originalPrice": 239000,
+        "imageUrl": "images/953.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH38C17hrkpY-vQfo8/",
+        "category": [ "Gia Dụng" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 954,
+        "name": "Cà phê Đông trùng hạ thảo Rừng Hoa Lâm kèm Ly + Thìa (Hộp 18 gói x 17g) Cà phê Rừng Hoa Lâm",
+        "price": 164000,
+        "originalPrice": 285000,
+        "afterFlashSalePrice": 171000,
+        "flashSaleEndTime":"2025-11-12T23:59:59",
+        "imageUrl": "images/954.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH38CpXmoCnQ-dUQnp/",
+        "category": [ "Ăn Uống & Sức Khoẻ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 955,
+        "name": "Bột Gạo Lứt Như Ý Ny 800g, Dành Cho Nam Và Nữ, Pha Uống, Có Thìa, Dây, kèm ly xịn",
+        "price": 370500,
+        "originalPrice": 390000,
+        "imageUrl": "images/955.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH38XWW9VwmN-s6l54/",
+        "category": [ "Ăn Uống & Sức Khoẻ" ],
+        "platform": "tiktok"
     }
 ]
