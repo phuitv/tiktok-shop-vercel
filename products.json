@@ -9839,5 +9839,51 @@
         "affiliateLink": "https://vt.tiktok.com/ZSH38XWW9VwmN-s6l54/",
         "category": [ "Ăn Uống & Sức Khoẻ" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 956,
+        "name": "VTT Dụng cụ mát xa chuyên nghiệp, mát xa mạnh mẽ cột sống cổ và cơ vai, thư giãn cơ thể và tinh thần",
+        "price": 657000,
+        "originalPrice": 1074000,
+        "afterFlashSalePrice": 729000,
+        "flashSaleEndTime":"2025-11-13T23:59:59",
+        "imageUrl": "images/956.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH32C7V3SCW7-7zq5f/",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Công Nghệ", "Sức Khỏe" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 957,
+        "name": "Áo Sweater Khoá Kéo ECOCHIC Áo Nỉ Sweater Chất Liệu Cao Cấp Chính Hãng Ecochic B189",
+        "price": 378000,
+        "originalPrice": 800000,
+        "afterFlashSalePrice": 470000,
+        "flashSaleEndTime":"2025-11-13T23:59:59",
+        "imageUrl": "images/957.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH32qv2r2MQ5-ONwPF/",
+        "category": [ "Thời Trang Nữ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 958,
+        "name": "Combo 4 khuy size 18mm dùng cài nơ khăn/áo loại đẹp",
+        "price": 89000,
+        "originalPrice": 120000,
+        "imageUrl": "images/958.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH32guT8GQ5E-cOGl5/",
+        "category": [ "Phụ Kiện & Trang Sức", "Trường Mầm Non" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 959,
+        "name": "Dây quấn cổ tay có móc nâng tạ  VALEO - Hỗ trợ kéo xà, tập lưng Sport",
+        "price": 175000,
+        "originalPrice": 179000,
+        "afterFlashSalePrice": 175000,
+        "flashSaleEndTime":"2025-11-13T23:59:59",
+        "imageUrl": "images/959.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH32pNaWMTv7-hLWiw/",
+        "category": [ "Thể Thao" ],
+        "platform": "tiktok"
     }
 ]
