@@ -6937,7 +6937,7 @@
         "flashSaleEndTime":"2025-09-27T23:59:59",
         "imageUrl": "images/677.webp",
         "affiliateLink": "https://vt.tiktok.com/ZSHWyXCMQHsTG-DvEeA/",
-        "category": [ "Thể Thao" ],
+        "category": [ "Nhà Sách Online" ],
         "platform": "tiktok"
     },
     {
@@ -10037,5 +10037,17 @@
         "affiliateLink": "https://s.shopee.vn/gIIhbu0Dj",
         "category": [ "Gia Dụng", "Đồ Công Nghệ" ],
         "platform": "shopee"
+    },
+    {
+        "id": 974,
+        "name": "Bột Ultimate Protein Plant thực vật",
+        "price": 259000,
+        "originalPrice": 350000,
+        "afterFlashSalePrice": 259000,
+        "flashSaleEndTime":"2025-11-17T23:59:59",
+        "imageUrl": "images/974.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH3mWJXJ3N6n-cd7V9/",
+        "category": [ "Thể Thao", "Sức Khỏe" ],
+        "platform": "tiktok"
     }
 ]
