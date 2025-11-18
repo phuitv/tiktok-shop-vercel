@@ -10049,5 +10049,14 @@
         "affiliateLink": "https://vt.tiktok.com/ZSH3mWJXJ3N6n-cd7V9/",
         "category": [ "Thể Thao", "Sức Khỏe" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 975,
+        "name": "Chai Keo Xịt Bẫy Ruồi Vàng - Ruồi Đốt Trái",
+        "price": 115000,
+        "imageUrl": "images/975.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH3CxoSbA1kg-BUs18/",
+        "category": [ "Nhà Cửa & Đời Sống" ],
+        "platform": "tiktok"
     }
 ]
