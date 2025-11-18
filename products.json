@@ -10058,5 +10058,47 @@
         "affiliateLink": "https://vt.tiktok.com/ZSH3CxoSbA1kg-BUs18/",
         "category": [ "Nhà Cửa & Đời Sống" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 976,
+        "name": "(Độc Quyền) Bánh Tráng Bò Tỏi Chua Cay Duy Best - Vị Tỏi Cay Nồng & Chua Tươi Mới",
+        "price": 43998,
+        "originalPrice": 65000,
+        "afterFlashSalePrice": 43998,
+        "flashSaleEndTime":"2025-11-17T23:59:59",
+        "imageUrl": "images/976.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH3CXccKYHL4-5fhAD/",
+        "category": [ "Ăn Uống & Sức Khoẻ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 977,
+        "name": "Dễ Thương Heo Hồng Móc Khóa Hoạt Hình Búp Bê Túi Xách Mặt Dây Chuyền Móc Khóa Sinh Nhật Quà Tặng Bất Ngờ Cung Cấp[VGG]",
+        "price": 26000,
+        "originalPrice": 52000,
+        "imageUrl": "images/977.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH3CbfmM2teH-L7oSk/",
+        "category": [ "Nhà Cửa & Đời Sống" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 978,
+        "name": "Bình giữ nhiệt LocknLock Metro Cafe Tumbler 650ml / 500ml / 750ml bằng thép không gỉ 304 phủ sứ kèm dây xách",
+        "price": 288880,
+        "originalPrice": 628000,
+        "imageUrl": "images/978.webp",
+        "affiliateLink": "https://s.shopee.vn/5q0S5Ceuke",
+        "category": [ "Nhà Cửa & Đời Sống", "Đồ Công Sở" ],
+        "platform": "shopee"
+    },
+    {
+        "id": 979,
+        "name": "(Chọn vị) Thùng Mì Omachi - 30 gói x 80gr",
+        "price": 231140,
+        "originalPrice": 360000,
+        "imageUrl": "images/979.webp",
+        "affiliateLink": "https://s.shopee.vn/LfVXORdrw",
+        "category": [ "Ăn Uống & Sức Khoẻ" ],
+        "platform": "shopee"
     }
 ]
