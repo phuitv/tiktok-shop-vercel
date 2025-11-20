@@ -10100,5 +10100,15 @@
         "affiliateLink": "https://s.shopee.vn/LfVXORdrw",
         "category": [ "Ăn Uống & Sức Khoẻ" ],
         "platform": "shopee"
+    },
+    {
+        "id": 980,
+        "name": "Bộ Chăn Ga Gối Lụa Thái 6D 4 Món Chăn Trần Bông Nhập Khẩu Hàng Loại 1 An Như Bedding",
+        "price": 369000,
+        "originalPrice": 580000,
+        "imageUrl": "images/980.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSH3GsqH9xJpm-UI4ew/",
+        "category": [ "Gia Dụng" ],
+        "platform": "tiktok"
     }
 ]
