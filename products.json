@@ -10286,5 +10286,57 @@
         "affiliateLink": "https://vt.tiktok.com/ZSHT4CgdLW6qx-szaQG/",
         "category": [ "Nhà Cửa & Đời Sống", "Trường Mầm Non" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 997,
+        "name": "[Congaivn] Chân váy xòe 8 mảnh dáng dài, cạp cao, có túi 2 bên CVX8M vải tyết mưa dày nhiều màu 2025 Nữ Women Đen",
+        "price": 123000,
+        "originalPrice": 350000,
+        "afterFlashSalePrice": 158000,
+        "flashSaleEndTime":"2025-12-31T23:59:59",
+        "imageUrl": "images/997.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHTcxTgUxjt4-rTHAK/",
+        "category": [ "Thời Trang Nữ", "Trường Mầm Non" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 998,
+        "name": "[Bigsize] Chân váy 02 cạp cao dáng dài hack dáng đủ size 60-100kg",
+        "price": 134000,
+        "originalPrice": 169000,
+        "imageUrl": "images/998.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHTcC9HfRpr6-gRnoR/",
+        "category": [ "Thời Trang Nữ", "Trường Mầm Non" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 999,
+        "name": "[Bigsize] Chân váy 02 cạp cao dáng dài hack dáng đủ size 60-100kg",
+        "price": 134500,
+        "originalPrice": 169500,
+        "imageUrl": "images/999.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHTcXeKvCsXK-c5UDl/",
+        "category": [ "Nhà Cửa & Đời Sống", "Trường Mầm Non" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 1000,
+        "name": "Khuy cài khăn- nút khoen thắt khăn lụa làm nơ tạo kiểu đa năng",
+        "price": 10000,
+        "originalPrice": 16000,
+        "imageUrl": "images/1000.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHTc4jhCgqC9-bPWY7/",
+        "category": [ "Phụ Kiện & Trang Sức", "Trường Mầm Non" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 1001,
+        "name": "Gối massage Cổ Vai Gáy Hồng Ngoại, Máy Matxa Toàn Thân Đa Chức Năng 20 Bi Xoay Cao Cấp Thế Hệ Mới 6 Chế Độ Điều Chỉnh",
+        "price": 142000,
+        "originalPrice": 177000,
+        "imageUrl": "images/1001.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHTcVYJM2yTo-GGG7b/",
+        "category": [ "Nhà Cửa & Đời Sống", "Trường Mầm Non", "Đồ Công Nghệ", "Sức Khỏe" ],
+        "platform": "tiktok"
     }
 ]
