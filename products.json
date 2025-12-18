@@ -10338,5 +10338,39 @@
         "affiliateLink": "https://vt.tiktok.com/ZSHTcVYJM2yTo-GGG7b/",
         "category": [ "Nhà Cửa & Đời Sống", "Trường Mầm Non", "Đồ Công Nghệ", "Sức Khỏe" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 1002,
+        "name": "【48 giờ đến】Đầm vintage cổ vest thanh lịch quý phái dài siêu xinh , thời trang thiết kế siêu xinh MỚI NHẤT HIỆN NAY",
+        "price": 251328,
+        "originalPrice": 408000,
+        "afterFlashSalePrice": 314160,
+        "flashSaleEndTime":"2025-12-19T23:59:59",
+        "imageUrl": "images/1002.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHK1KaAxAeUd-t0knO/",
+        "category": [ "Thời Trang Nữ", "Đồ Công Sở", "Trường Mầm Non" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 1003,
+        "name": "Váy Maxi Nhẹ Nhàng Cổ V Chiết Eo D4. Tay Dài Tiểu Thư Thanh Lịch – Có Bigsize",
+        "price": 197040,
+        "originalPrice": 264000,
+        "afterFlashSalePrice": 227040,
+        "flashSaleEndTime":"2025-12-20T23:59:59",
+        "imageUrl": "images/1003.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHKJ1NqH9t7F-dXDXb/",
+        "category": [ "Thời Trang Nữ", "Đồ Công Sở", "Trường Mầm Non" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 1004,
+        "name": "(X5 ngải cứu) Đai giữ ấm bụng loại cao cấp - Giữ ấm khi bụng lạnh, giảm đau bụng kinh, đau lưng tê mỏi cột sống",
+        "price": 116500,
+        "originalPrice": 160000,
+        "imageUrl": "images/1004.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHKJeS44aXtB-qoOw1/",
+        "category": [ "Sức Khỏe", "Nhà Cửa & Đời Sống", "Trường Mầm Non" ],
+        "platform": "tiktok"
     }
 ]
