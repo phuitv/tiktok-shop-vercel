@@ -10414,5 +10414,48 @@
         "affiliateLink": "https://vt.tiktok.com/ZSHKhRcrWeyuH-aOumF/",
         "category": [ "Nhà Cửa & Đời Sống", "Trường Mầm Non" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 1009,
+        "name": "[ BẢN NÂNG CẤP 70mL- Tặng quần ủ KOC ] Xịt Gừng ủ nóng Đa Tầng COOL-OIL X3 - Chiết Xuất Gừng, Nghệ, Tiêu, Bạc Hà Vinny Care - Chai 70ml",
+        "price": 188999,
+        "originalPrice": 275000,
+        "afterFlashSalePrice": 188999,
+        "flashSaleEndTime":"2025-12-30T23:59:59",
+        "imageUrl": "images/1009.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHKKsK1YupjS-eZRkG/",
+        "category": [ "Sức Khỏe", "Trường Mầm Non" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 1010,
+        "name": "Kem Cao Gừng Massage 250g, Cuộn 7cm - Huyền Beauty",
+        "price": 89000,
+        "imageUrl": "images/1010.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHKKtCSmWWMC-lrWEA/",
+        "category": [ "Sức Khỏe", "Trường Mầm Non" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 1011,
+        "name": "Thảo dượċ xông nhà tẩy uế thu hút tài lộc, tăng sinh may mắn gói lớn 250G xông tắm bao sái ban thờ",
+        "price": 63000,
+        "originalPrice": 126000,
+        "imageUrl": "images/1011.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHKKnSM3p32e-cqSUr/",
+        "category": [ "Nhà Cửa & Đời Sống", "Trường Mầm Non" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 1012,
+        "name": "Thảo Dược Xông Nhà Như Ý - Cát Tường (Tặng than và khay xông, quà phong thủy, kèm nụ trầm hương) | Làm sạch nhà cửa, văn phòng,... - Ayoya Shop",
+        "price": 70000,
+        "originalPrice": 119000,
+        "afterFlashSalePrice": 70000,
+        "flashSaleEndTime":"2025-12-30T23:59:59",
+        "imageUrl": "images/1012.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHKKnXeoFfDX-mLyX2/",
+        "category": [ "Nhà Cửa & Đời Sống", "Trường Mầm Non" ],
+        "platform": "tiktok"
     }
 ]
