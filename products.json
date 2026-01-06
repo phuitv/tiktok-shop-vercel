@@ -10457,5 +10457,15 @@
         "affiliateLink": "https://vt.tiktok.com/ZSHKKnXeoFfDX-mLyX2/",
         "category": [ "Nhà Cửa & Đời Sống", "Trường Mầm Non" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 1013,
+        "name": "Quần lót nữ gen nịt bụng [N27]",
+        "price": 32000,
+        "originalPrice": 35000,
+        "imageUrl": "images/1013.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHExXVhh5htV-VmxXZ/",
+        "category": [ "Làm Đẹp", "Trường Mầm Non" ],
+        "platform": "tiktok"
     }
 ]
