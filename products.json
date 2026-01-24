@@ -10651,5 +10651,25 @@
         "affiliateLink": "https://vt.tiktok.com/ZSHoC6oFDrjQY-fgwBe/",
         "category": [ "Gia Dụng", "Trường Mầm Non" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 1032,
+        "name": "Cát Kim Sa Cao Cấp Bỏ Bát Hương Màu Óng Ánh Tự Nhiên Cao Cấp",
+        "price": 14300,
+        "originalPrice": 26000,
+        "imageUrl": "images/1032.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHootB2eBjge-UUbN1/",
+        "category": [ "Nhà Cửa & Đời Sống", "Trường Mầm Non" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 1033,
+        "name": "Cát thay bát hương trang trí Decor bàn thờ thêm tôn nghiêm cung kính",
+        "price": 19000,
+        "originalPrice": 25000,
+        "imageUrl": "images/1033.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZSHootnqYjfur-NYOHr/",
+        "category": [ "Nhà Cửa & Đời Sống", "Trường Mầm Non" ],
+        "platform": "tiktok"
     }
 ]
