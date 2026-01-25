@@ -10671,5 +10671,33 @@
         "affiliateLink": "https://vt.tiktok.com/ZSHootnqYjfur-NYOHr/",
         "category": [ "Nhà Cửa & Đời Sống", "Trường Mầm Non" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 1034,
+        "name": "Laptop Lenovo Ideapad 5 Yoga X360 - 14 inch/Ryzen 7 8845HS/LPDDR5 16GB/SSD 1TB/Radeon 780M",
+        "price": "15.600.000đ",
+        "imageUrls": [
+            "images/1034.jpg",
+            "images/1034-1.jpg",
+            "images/1034-2.jpg",
+            "images/1034-3.jpg",
+            "images/1034-4.jpg",
+            "images/1034-5.jpg",
+            "images/1034-6.jpg",
+            "images/1034-7.jpg"
+        ],
+        "affiliateLink": "https://kimlongcenter.com/san-pham/dell-latitude-5320-i5-1145g7-8032.html",
+        "category": "Laptop",
+        "description": [
+            "14 inch 1.2K (1920 x 1200 pixels). Màn hình dòng cảm ứng đa điểm xoay gập 360 có hỗ trợ bút.",
+            "Bộ xử lý CPU: AMD Ryzen 7 8845HS",
+            "Xung nhịp Turbo: 1.90 GHz đến 5.10 GHz",
+            "Card đồ họa GPU: Radeon 780M (mạnh ngang RTX 2050)",
+            "Bộ nhớ Ram Memory: LPDDR5 16GB tốc độ lên đến 6400MHz.",
+            "Ổ cứng Hard Drive: SSD 1TB M.2 PCIe gen 4×4.",
+            "Pin Battery: Pin 9h+ với sạc nhanh 65W.",
+            "Trọng lượng Weight: 1.4 kg",
+            "Bảo Hành 06 Tháng"
+        ]
     }
 ]
