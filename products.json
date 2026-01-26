@@ -10703,7 +10703,7 @@
     {
         "id": 1035,
         "name": "MSI Thin 15 Pro - 15.6 inch/Core i5-13420H/16GB DDR4/SSD 512Gb/RTX 3050 4GB",
-        "price": 16200000,
+        "price": "16.200.000đ",
         "imageUrls": [
             "images/1035.jpg",
             "images/1035-1.jpg",
@@ -10731,7 +10731,7 @@
     {
         "id": 1036,
         "name": "Dell Precision 5530 - 15.6 inch/Core i9 8950HK/32GB DDR4/SSD 512Gb/Quadro P2000 4GB",
-        "price": 15800000,
+        "price": "15.800.000đ",
         "imageUrls": [
             "images/1036.jpg",
             "images/1036-1.jpg",
@@ -10755,7 +10755,7 @@
     {
         "id": 1037,
         "name": "INTEL NUC X15 - 15.6 inch/Core i7-11800H/32GB DDR4/SSD 1TB/RTX 3060 6GB",
-        "price": 20500000,
+        "price": "20.500.000đ",
         "imageUrls": [
             "images/1037.jpg",
             "images/1037-1.jpg",
