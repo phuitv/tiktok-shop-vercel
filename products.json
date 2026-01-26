@@ -10686,7 +10686,7 @@
             "images/1034-6.jpg",
             "images/1034-7.jpg"
         ],
-        "affiliateLink": "https://kimlongcenter.com/san-pham/dell-latitude-5320-i5-1145g7-8032.html",
+        "affiliateLink": "https://svstore.com.vn/san-pham/lenovo-ideapad-5-yoga-gen-9-x360/",
         "category": "Laptop",
         "description": [
             "14 inch 1.2K (1920 x 1200 pixels). Màn hình dòng cảm ứng đa điểm xoay gập 360 có hỗ trợ bút.",
@@ -10698,6 +10698,84 @@
             "Pin Battery: Pin 9h+ với sạc nhanh 65W.",
             "Trọng lượng Weight: 1.4 kg",
             "Bảo Hành 06 Tháng"
+        ]
+    },
+    {
+        "id": 1035,
+        "name": "MSI Thin 15 Pro - 15.6 inch/Core i5-13420H/16GB DDR4/SSD 512Gb/RTX 3050 4GB",
+        "price": 16200000,
+        "imageUrls": [
+            "images/1035.jpg",
+            "images/1035-1.jpg",
+            "images/1035-2.jpg",
+            "images/1035-3.jpg",
+            "images/1035-4.jpg",
+            "images/1035-5.jpg",
+            "images/1035-6.jpg",
+            "images/1035-7.jpg"
+        ],
+        "affiliateLink": "https://svstore.com.vn/san-pham/msi-thin-15-pro-gaming/",
+        "category": "Laptop",
+        "description": [
+            "15.6 inch Full HD (1920×1080), IPS, 144Hz, Anti-Glare",
+            "Bộ xử lý CPU: Core i5-13420H (8 nhân, 12 luồng, 12MB Cache)",
+            "Xung nhịp Turbo: 3.40 GHz đến 4.60 GHz",
+            "Card đồ họa GPU: NVIDIA GeForce RTX 3050 4GB GDDR6 128-bit",
+            "Bộ nhớ Ram Memory: 16GB DDR4 (2 khe, nâng cấp tối đa 64GB)",
+            "Ổ cứng Hard Drive: SSD PCIe 512GB (1x M.2 SSD slot (NVMe PCIe Gen4), 1x 2.5″ SATA HDD)",
+            "Pin Battery: 3-cell 52.4Whr, sạc nhanh 120W",
+            "Trọng lượng Weight: 1.86 kg",
+            "Bảo Hành 06 Tháng"
+        ]
+    },
+    {
+        "id": 1036,
+        "name": "Dell Precision 5530 - 15.6 inch/Core i9 8950HK/32GB DDR4/SSD 512Gb/Quadro P2000 4GB",
+        "price": 15800000,
+        "imageUrls": [
+            "images/1036.jpg",
+            "images/1036-1.jpg",
+            "images/1036-2.jpg",
+            "images/1036-3.jpg"
+        ],
+        "affiliateLink": "https://svstore.com.vn/san-pham/msi-thin-15-pro-gaming/",
+        "category": "Laptop",
+        "description": [
+            "15.6 inch FulHD/4K IPS, 400 nits, 60Hz, anti-glare",
+            "Bộ xử lý CPU: Intel® Core i9 8950HK (6 nhân, 12 luồng, 12MB Cache)",
+            "Xung nhịp Turbo: 2.90 GHz đến 4.80 GHz",
+            "Card đồ họa GPU: Quadro P2000 4GB GDDR5",
+            "Bộ nhớ Ram Memory: 32GB DDR4 2666MHz",
+            "Ổ cứng Hard Drive: SSD PCIe 512GB",
+            "Pin Battery: 6h (khi duyệt web)",
+            "Trọng lượng Weight: 1.68 kg",
+            "Bảo Hành 06 Tháng"
+        ]
+    },
+    {
+        "id": 1037,
+        "name": "INTEL NUC X15 - 15.6 inch/Core i7-11800H/32GB DDR4/SSD 1TB/RTX 3060 6GB",
+        "price": 20500000,
+        "imageUrls": [
+            "images/1037.jpg",
+            "images/1037-1.jpg",
+            "images/1037-2.jpg",
+            "images/1037-3.jpg",
+            "images/1037-4.jpg",
+            "images/1037-5.jpg"
+        ],
+        "affiliateLink": "https://svstore.com.vn/san-pham/nuc-x15-i9/",
+        "category": "Laptop",
+        "description": [
+            "Màn hình: 15.6 inch 2K, tần số quét tới 165Hz, sRGB 100%, độ sáng 500 nits",
+            "Bộ xử lý CPU: Intel® Core i7 11800H (8 nhân, 16 luồng, 24MB Cache)",
+            "Xung nhịp Turbo: 2.30 GHz đến 4.60 GHz",
+            "Card đồ họa GPU: NVIDIA GeForce RTX 3060 6GB GDDR6",
+            "Bộ nhớ Ram Memory: 32GB DDR4 3200MHz",
+            "Ổ cứng Hard Drive: 1TB M2. SSD NVMe 2280 PCIe gen 4  (2 khe, mỗi khe 512GB)",
+            "Pin Battery: 93Wh (Xem Youtube 8-10 tiếng liên tục)",
+            "Trọng lượng Weight: 1.89 kg",
+            "Bảo Hành 12 Tháng"
         ]
     }
 ]

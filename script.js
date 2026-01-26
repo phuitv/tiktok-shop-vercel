@@ -168,13 +168,14 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     };
 
-    // === HÀM HIỂN THỊ CARD SẢN PHẨM THƯỜNG ===
+    // === HÀM HIỂN THỊ CARD SẢN PHẨM THƯỜNG (CÓ LOGIC LINK ĐỘNG) ===
     const displayProductCards = (products) => {
         productGrid.innerHTML = '';
         if (products.length === 0) {
             productGrid.innerHTML = '<p class="no-results">Không tìm thấy sản phẩm nào phù hợp.</p>';
             return;
         }
+
         products.forEach(product => {
             const card = document.createElement('div');
             card.classList.add('product-card');
@@ -211,9 +212,28 @@ document.addEventListener('DOMContentLoaded', () => {
             // Xác định URL ảnh
             const imageUrl = (product.imageUrls && product.imageUrls.length > 0) ? product.imageUrls[0] : (product.imageUrl || '');
 
+            // === LOGIC LINK ĐỘNG (THAY ĐỔI CHÍNH) ===
+            let imageLink = '';
+            let buttonLink = '';
+            let buttonText = '';
+            let linkTarget = '_blank'; // Mở tab mới cho link affiliate
+
+            // Kiểm tra xem sản phẩm có phải là Laptop không
+            if (product.category && product.category.includes('Laptop')) {
+                imageLink = `product-detail.html?id=${product.id}`;
+                buttonLink = `product-detail.html?id=${product.id}`;
+                buttonText = 'Xem chi tiết';
+                linkTarget = '_self'; // Mở trên cùng tab cho link nội bộ
+            } else {
+                imageLink = product.affiliateLink;
+                buttonLink = product.affiliateLink;
+                buttonText = platformText; // Dùng lại text "Xem trên TikTok/Shopee"
+            }
+
+            // --- Cấu trúc HTML cuối cùng ---
             card.innerHTML = `
                 <div class="product-image-container">
-                    <a href="${product.affiliateLink}" target="_blank">
+                    <a href="${imageLink}" target="${linkTarget}">
                         <img src="${imageUrl}" alt="${product.name}" class="product-image">
                     </a>
                     <div class="product-name-overlay">
@@ -222,8 +242,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 </div>
                 <div class="product-info">
                     ${priceHtml}
-                    <a href="${product.affiliateLink}" target="_blank" rel="noopener noreferrer" class="product-link ${platformClass}">
-                        ${platformText}
+                    <a href="${buttonLink}" target="${linkTarget}" rel="noopener noreferrer" class="product-link ${platformClass}">
+                        ${buttonText}
                     </a>
                 </div>
             `;
