@@ -10777,5 +10777,143 @@
             "Trọng lượng Weight: 1.89 kg",
             "Bảo Hành 12 Tháng"
         ]
+    },
+    {
+        "id": 1038,
+        "name": "Lenovo Slim 7 pro X - 14.5 inch/Ryzen 9 6900HS/32GB DDR5/SSD 1TB/RTX 3050 4GB",
+        "price": "21.500.000đ",
+        "imageUrls": [
+            "images/1038.jpg",
+            "images/1038-1.jpg",
+            "images/1038-2.jpg",
+            "images/1038-3.jpg",
+            "images/1038-4.jpg",
+            "images/1038-5.png",
+            "images/1038-6.jpg"
+        ],
+        "affiliateLink": "https://svstore.com.vn/san-pham/lenovo-slim-7-pro-x-ryzen-9/",
+        "category": "Laptop",
+        "description": [
+            "Màn hình: 14.5inches, 3072 x 1920px, 120Hz, Tỉ lệ 16:10, IPS, 400Nits, 100% sRGB",
+            "Bộ xử lý CPU: AMD Ryzen 9 6900HS (8 nhân, 16 luồng, 20MB Cache)",
+            "Xung nhịp Turbo: 3.30 GHz đến 4.90 GHz",
+            "Card đồ họa GPU: NVIDIA RTX 3050 GDDR6-4GB",
+            "Bộ nhớ Ram Memory: 32GB LPDDR5 6400MHz",
+            "Ổ cứng Hard Drive: SSD 1TB NVMe Gen 4 đọc ghi 4000-5000MB/s",
+            "Pin Battery: 93Wh (Xem Youtube 8-10 tiếng liên tục)",
+            "Trọng lượng Weight: 1.45 kg",
+            "Bảo Hành 6 Tháng"
+        ]
+    },
+    {
+        "id": 1039,
+        "name": "Acer Swift Go AI 14 - 14 inch/Core Ultra 7 155H/16GB DDR5/SSD 1TB/Intel Arc Graphics",
+        "price": "13.800.000đ",
+        "imageUrls": [
+            "images/1039.jpg",
+            "images/1039-1.jpg",
+            "images/1039-2.jpg",
+            "images/1039-3.jpg",
+            "images/1039-4.jpg",
+            "images/1039-5.jpg",
+            "images/1039-6.jpg",
+            "images/1039-7.jpg"
+        ],
+        "affiliateLink": "https://svstore.com.vn/san-pham/acer-swift-go-ai-14-gen-2/",
+        "category": "Laptop",
+        "description": [
+            "Màn hình: 14 inch WUXGA (1920 x 1200), IPS",
+            "Bộ xử lý CPU: Intel® Core Ultra 7 155H (16 nhân, 22 luồng, 12MB Cache)",
+            "Xung nhịp Turbo: 2.20 GHz đến 4.80 GHz",
+            "Card đồ họa GPU: Intel Arc Graphics",
+            "Bộ nhớ Ram Memory: 16GB LPDDR5X 6400MHz",
+            "Ổ cứng Hard Drive:  1TB SSD NVMe Gen 4×4",
+            "Pin Battery: 10h+ Youtube liên tục",
+            "Trọng lượng Weight: 1.3 kg",
+            "Bảo Hành 6 Tháng"
+        ]
+    },
+    {
+        "id": 1040,
+        "name": "Lenovo Ideapad 5 Yoga X Plus AI - 14 inch/Snapdragon® X Plus X1P/16GB DDR5/SSD 1TB/Qualcomm Adreno",
+        "price": "15.900.000đ",
+        "imageUrls": [
+            "images/1040.jpg",
+            "images/1040-1.jpg",
+            "images/1040-2.jpg",
+            "images/1040-3.jpg",
+            "images/1040-4.jpg",
+            "images/1040-5.jpg",
+            "images/1040-6.jpg",
+            "images/1040-7.jpg"
+        ],
+        "affiliateLink": "https://svstore.com.vn/san-pham/lenovo-ideapad-5-yoga-x-plus/",
+        "category": "Laptop",
+        "description": [
+            "Màn hình: 14 inch 1,2K OLED 100% PCI-3 xoay gập 360 hỗ trợ cảm ứng đa điểm",
+            "Bộ xử lý CPU: Snapdragon® X Plus X1P-42-100 (8 nhân, 16 luồng, 12MB Cache)",
+            "Xung nhịp Turbo: 2.20 GHz đến 3.40 GHz",
+            "Card đồ họa GPU: Qualcomm Adreno X1-45 (nhỉnh hơn iGPU Intel Iris Xe G7)",
+            "Bộ nhớ Ram Memory: 16GB LPDDR5x 8448MHz",
+            "Ổ cứng Hard Drive:  SSD 1TB SSD M.2 PCIe gen 4×4 – siêu nhanh, tốc độ đọc ghi tới 5000MB/s",
+            "Pin Battery: thời lượng pin lên đến 15–18 tiếng sử dụng thực tế",
+            "Trọng lượng Weight: 1.3 kg",
+            "Bảo Hành 6 Tháng"
+        ]
+    },
+    {
+        "id": 1041,
+        "name": "Lenovo IdeaPad Slim 5 16IRU9 - 16 inch/Core 7 150U/16GB DDR5/SSD 512Gb/Intel Graphics",
+        "price": "16.699.000đ",
+        "imageUrls": [
+            "images/1041.jpg",
+            "images/1041-1.jpg",
+            "images/1041-2.jpg",
+            "images/1041-3.jpg",
+            "images/1041-4.jpg",
+            "images/1041-5.jpg",
+            "images/1041-6.jpg",
+            "images/1041-7.jpg"
+        ],
+        "affiliateLink": "https://svstore.com.vn/san-pham/lenovo-ideapad-slim-5-16iru9/",
+        "category": "Laptop",
+        "description": [
+            "Màn hình: 16 inch IPS, độ phân giải 1920x1200 (WUXGA/FHD+), độ sáng 300 nits, chống chói, 45% NTSC",
+            "Bộ xử lý CPU: Intel® Core 7 150U (10 nhân, 12 luồng, 12MB Cache, Turbo 5.40 GHz)",
+            "Card đồ họa GPU: Intel® Graphics (3 – 4 Cores / 1.75 – 2.10 GHz)",
+            "Bộ nhớ Ram Memory: 16GB LPDDR5 5200 MT/s (onboard)",
+            "Ổ cứng Hard Drive:  512GB SSD PCIe (M.2 2242)",
+            "Pin Battery: 57 WHr 3-cell thời lượng dùng lên đến 12h Youtube liên tục",
+            "Trọng lượng Weight: 1.8 kg",
+            "Bảo Hành 6 Tháng"
+        ]
+    },
+    {
+        "id": 1042,
+        "name": "Lenovo IdeaPad 5 Yoga Gen 10 X360 - 14 inch/Ryzen AI 7 350/LPDDR5 16GB/SSD 1TB/AMD Radeon 860M",
+        "price": "17.590.000đ",
+        "imageUrls": [
+            "images/1042.jpg",
+            "images/1042-1.jpg",
+            "images/1042-2.jpg",
+            "images/1042-3.jpg",
+            "images/1042-4.jpg",
+            "images/1042-5.jpg",
+            "images/1042-6.jpg",
+            "images/1042-7.jpg",
+            "images/1042-8.jpg"
+        ],
+        "affiliateLink": "https://svstore.com.vn/san-pham/lenovo-ideapad-5-yoga-gen-10-x360/",
+        "category": "Laptop",
+        "description": [
+            "Màn hình: 14 inch FHD+ Touch (1920 x 1200 pixels), 60 Hz, 300 nits, phủ màu 45% NTSC",
+            "Bộ xử lý CPU: Ryzen AI 7 350 (8 nhân, 16 luồng, 12MB Cache, Turbo 5.00 GHz)",
+            "Card đồ họa GPU: AMD Radeon 860M (8 Cores, 3000 MHz) GPU tích hợp mạnh mẽ",
+            "Bộ nhớ Ram Memory: 16GB MoP/LPDDR5x (onboard)",
+            "Ổ cứng Hard Drive:  1TB SSD M.2 2242 PCIe Gen 4×4",
+            "Pin Battery: 57 WHr 3-cell thời lượng dùng lên đến 12h Youtube liên tục",
+            "Trọng lượng Weight: 1.6 kg",
+            "Bảo Hành 6 Tháng"
+        ]
     }
 ]
