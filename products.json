@@ -10915,5 +10915,104 @@
             "Trọng lượng Weight: 1.6 kg",
             "Bảo Hành 6 Tháng"
         ]
+    },
+    {
+        "id": 1043,
+        "name": "ThinkPad P14s Gen 3 - 14 inch/Core i7-1270P/Ram 16GB/SSD 512GB/T550 4GB",
+        "price": "19.000.000đ",
+        "imageUrls": [
+            "images/1043.webp",
+            "images/1043-1.webp",
+            "images/1043-2.webp",
+            "images/1043-3.webp",
+            "images/1043-4.webp"
+        ],
+        "affiliateLink": "https://khoavang.vn/lenovo-thinkpad-p14s-gen-3-p4683.html",
+        "category": "Laptop",
+        "description": [
+            "Màn hình: 14 inch Full HD (1920×1080) IPS Touch, 500 nits, 16:10, 100% sRGB, Anti-glare",
+            "Bộ xử lý CPU: Intel® Core i7-1270P (12 nhân 16 luồng, up to 4.8GHz, 18MB Cache)",
+            "Card đồ họa GPU: NVIDIA® T550 4GB GDDR6",
+            "Bộ nhớ Ram Memory: 16GB DDR4 3200 MHz",
+            "Ổ cứng Hard Drive:  512GB M.2 2280, PCIe NVMe Gen 3x4",
+            "Pin Battery: 52.5Whr (4 cell)",
+            "Trọng lượng Weight: 1.24 kg",
+            "Bảo Hành 12 Tháng"
+        ]
+    },
+    {
+        "id": 1044,
+        "name": "ThinkPad P14s Gen 3 - 14 inch/Core i7-1260P/Ram 16GB/SSD 512GB/T550 4GB",
+        "price": "18.700.000đ",
+        "imageUrls": [
+            "images/1043.webp",
+            "images/1043-1.webp",
+            "images/1043-2.webp",
+            "images/1043-3.webp",
+            "images/1043-4.webp"
+        ],
+        "affiliateLink": "https://khoavang.vn/lenovo-thinkpad-p14s-gen-3-i7-p5251.html",
+        "category": "Laptop",
+        "description": [
+            "Màn hình: 14 inch Full HD (1920×1080) IPS Touch, 500 nits, 16:10, 100% sRGB, Anti-glare",
+            "Bộ xử lý CPU: Intel® Core i7-1260P (12 nhân 16 luồng, up to 4.7GHz, 18MB Cache)",
+            "Card đồ họa GPU: NVIDIA® T550 4GB GDDR6",
+            "Bộ nhớ Ram Memory: 16GB DDR4 3200 MHz",
+            "Ổ cứng Hard Drive:  512GB M.2 2280, PCIe NVMe Gen 3x4",
+            "Pin Battery: 52.5Whr (4 cell)",
+            "Trọng lượng Weight: 1.24 kg",
+            "Bảo Hành 12 Tháng"
+        ]
+    },
+    {
+        "id": 1045,
+        "name": "ThinkPad P15 GEN 1 - 15.6 inch/Core i7-10750H/Ram 16GB/SSD 256GB/Quadro T1000 4GB",
+        "price": "17.200.000đ",
+        "imageUrls": [
+            "images/1045.webp",
+            "images/1045-1.webp",
+            "images/1045-2.webp",
+            "images/1045-3.webp",
+            "images/1045-4.webp",
+            "images/1045-5.webp",
+            "images/1045-6.webp",
+            "images/1045-7.webp",
+            "images/1045-8.webp",
+            "images/1045-9.webp"
+        ],
+        "affiliateLink": "https://khoavang.vn/lenovo-thinkpad-p15-gen-1-i7-10750h--p2485.html",
+        "category": "Laptop",
+        "description": [
+            "Màn hình: 15.6 inch UHD (3840x2160) IPS, 600 nits, Anti-glare, 16:9, 100% Adobe® RGB",
+            "Bộ xử lý CPU: Intel® Core™ i7-10750H (6 nhân 12 luồng, up to 5.0GHz, 12MB Cache)",
+            "Card đồ họa GPU: NVIDIA® Quadro T1000 4GB GDDR6",
+            "Bộ nhớ Ram Memory: 16GB DDR4 2933MHz (4 Slots, max 128GB)",
+            "Ổ cứng Hard Drive:  256GB M.2 2280, PCIe NVMe Gen 3x4",
+            "Pin Battery: Li-Polymer 94Wh (có sạc nhanh)",
+            "Trọng lượng Weight: 2.74 kg",
+            "Bảo Hành 12 Tháng"
+        ]
+    },
+    {
+        "id": 1046,
+        "name": "ThinkPad P17 Gen 1 - 17.3 inch/Core i7-10850H/Ram 16GB/SSD 512GB/Quadro T2000 4GB",
+        "price": "15.900.000đ",
+        "imageUrls": [
+            "images/1046.webp",
+            "images/1046-1.webp",
+            "images/1046-2.webp"
+        ],
+        "affiliateLink": "https://khoavang.vn/laptop-lenovo-thinkpad-p17-fhd-core-i7-10750h-p3906.html",
+        "category": "Laptop",
+        "description": [
+            "Màn hình: 17.3 inch FHD (1920 x 1080) IPS, độ sáng 300 nits, tỷ lệ 16:9, 72% NTSC, chống chói Anti-glare",
+            "Bộ xử lý CPU: Intel® Core™ i7-10850H (6 nhân 12 luồng, up to 5.1GHz, 12MB Cache)",
+            "Card đồ họa GPU: NVIDIA® Quadro T2000 4GB GDDR6",
+            "Bộ nhớ Ram Memory: 16GB DDR4 2933MHz (4 Slots, max 128GB)",
+            "Ổ cứng Hard Drive:  512GB PCIe® NVMe™ M.2 SSD (có 2 khe cắm, dễ dàng nâng cấp)",
+            "Pin Battery: Li-Polymer 94Wh (có sạc nhanh)",
+            "Trọng lượng Weight: 3.5 kg",
+            "Bảo Hành 12 Tháng"
+        ]
     }
 ]
