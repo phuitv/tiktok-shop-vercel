@@ -11048,5 +11048,35 @@
         "affiliateLink": "https://vt.tiktok.com/ZS91916D5PDJF-3eYEM/",
         "category": [ "Thể Thao" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 1050,
+        "name": "Kéo Cắt Gà bằng thép không gỉ kéo cắt xương chuẩn Đức GERMANY",
+        "price": 103000,
+        "originalPrice": 108000,
+        "imageUrl": "images/1050.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZS919LmxnXCfT-32gRM/",
+        "category": [ "Gia Dụng" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 1051,
+        "name": "Kéo cắt gà thương hiệu KATANA lưỡi cong có trợ lực - KK102 (230mm)",
+        "price": 135000,
+        "originalPrice": 368000,
+        "imageUrl": "images/1051.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZS919NpjSKjfR-dLrk6/",
+        "category": [ "Gia Dụng" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 1052,
+        "name": "Kéo nhà bếp kéo cắt gà chuyên dụng hàng cao cấp sản xuất tại Nhật Bản-Mẫu mới nhất 2026",
+        "price": 192000,
+        "originalPrice": 250000,
+        "imageUrl": "images/1052.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZS919FJBN7VgS-uZoAy/",
+        "category": [ "Gia Dụng" ],
+        "platform": "tiktok"
     }
 ]
