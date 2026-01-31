@@ -1423,10 +1423,13 @@
     },
     {
         "id": 150,
-        "name": "Combo 48 Băng Cao Su Non Thể Thao Bóng Đá Chất Liệu Cao Su Non Bám Dính Tốt Giúp Cố Định Hạn Chế Chấn Thương",
-        "price": "105.000đ",
+        "name": "Hộp 48 BĂNG CUỐN THỂ THAO 5cm* 4,5m Loại Xịn Sport Thun Quấn Cổ Tay Quấn Cổ Tay",
+        "price": 125000,
+        "originalPrice": 250000,
+        "afterFlashSalePrice": 130000,
+        "flashSaleEndTime":"2026-01-31T23:59:59",
         "imageUrl": "images/150.webp",
-        "affiliateLink": "https://vt.tiktok.com/ZSBunX7BX/",
+        "affiliateLink": "https://vt.tiktok.com/ZS91HwCVNrV8w-j38AX/",
         "category": [ "Thể Thao" ],
         "platform": "tiktok"
     },
@@ -7689,12 +7692,12 @@
     {
         "id": 756,
         "name": "Cặp Lót Giày loại chuẩn 4D cao su non, công nghệ mới 2025 ,đàn hồi hấp thụ lực ,thoáng khí, giảm mùi ,Bộ đội tân binh, chạy bộ đi làm,nhảy Aerobics -Miếng Lót Giày",
-        "price": 47200,
-        "originalPrice": 80000,
-        "afterFlashSalePrice": 47200,
-        "flashSaleEndTime":"2025-10-12T23:59:59",
+        "price": 48000,
+        "originalPrice": 81400,
+        "afterFlashSalePrice": 48000,
+        "flashSaleEndTime":"2026-01-31T23:59:59",
         "imageUrl": "images/756.webp",
-        "affiliateLink": "https://vt.tiktok.com/ZSH7CFa2CyJmw-JbCRl/",
+        "affiliateLink": "https://vt.tiktok.com/ZS91HEkCxy6Cv-YFgJG/",
         "category": [ "Thể Thao" ],
         "platform": "tiktok"
     },
@@ -11022,6 +11025,28 @@
         "imageUrl": "images/1047.webp",
         "affiliateLink": "https://vt.tiktok.com/ZSHootnqYjfur-NYOHr/",
         "category": [ "Trẻ Em" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 1048,
+        "name": "Cặp Lót Giày cao cấp 3A ,công nghệ hạt BOOST ép +cao su non New 2026 ,nhẹ đàn hồi hấp thụ lực ,thoáng khí, giảm mùi ,cho giày Bộ đội ,cầu lông ,Pickleball , bóng truyền , chạy bộ, tập Gym,đi làm -Miếng Lót Giày",
+        "price": 67850,
+        "originalPrice": 115000,
+        "afterFlashSalePrice": 67850,
+        "flashSaleEndTime":"2026-01-31T23:59:59",
+        "imageUrl": "images/1048.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZS91HEn36tERW-O6mNv/",
+        "category": [ "Thể Thao" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 1049,
+        "name": "[COMBO 5] Tất Chống Trơn Nizaki Sport 63 Chính Hãng- Cotton Cao Cấp Thấm Hút Mồ Hôi Chơi Pickle Ball, Bóng Đá, Bóng Chuyền, Cầu Lông, Tennis...",
+        "price": 167400,
+        "originalPrice": 180000,
+        "imageUrl": "images/1049.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZS91916D5PDJF-3eYEM/",
+        "category": [ "Thể Thao" ],
         "platform": "tiktok"
     }
 ]
