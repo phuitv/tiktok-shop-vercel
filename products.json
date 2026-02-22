@@ -11159,5 +11159,24 @@
         "affiliateLink": "https://vt.tiktok.com/ZS9J5jgCsMmdt-hfEPw/",
         "category": [ "Gia Dụng", "Trường Mầm Non" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 1061,
+        "name": "keo kích Chồi Mai Vàng K01 (chuyên kích chồi mắt ngủ cho các loại cây)",
+        "price": 92000,
+        "originalPrice": 110000,
+        "imageUrl": "images/1061.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZS9eBpCxEJa93-lxA0i/",
+        "category": [ "Nhà Cửa & Đời Sống" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 1062,
+        "name": "Nước hoa đồng quê, PLEACOZ, Hương thơm tự nhiên và sạch sẽ, Dầu Son Dưỡng, dành cho nam giới, Thanh lịch, Nước hoa sẵn sàng cho du lịch",
+        "price": 155000,
+        "imageUrl": "images/1062.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZS9eBsMj1AUKF-ysfcH/",
+        "category": [ "Nước Hoa" ],
+        "platform": "tiktok"
     }
 ]
