@@ -11518,5 +11518,45 @@
         "affiliateLink": "https://vt.tiktok.com/ZS98ahKnDLkK7-iSH1e/",
         "category": [ "Thời Trang Nữ" ],
         "platform": "tiktok"
+    },
+    {
+        "id": 1097,
+        "name": "【Chính hãng】 Trà Xương khớp Nhàu Rừng, Tía tô hạ acid uric, giảm đau nhức xương khớp, an toàn thiên nhiên hộp 60 túi lọc",
+        "price": 456584,
+        "originalPrice": 513016,
+        "imageUrl": "images/1097.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZS98g8mpG97rr-dhmAj/",
+        "category": [ "Ăn Uống & Sức Khoẻ" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 1098,
+        "name": "Bồn tắm gấp gọn cho người lớn 6 lớp FUHO, làm từ vải Oxford , chống thấm, cách nhiệt 3h Có thể gập lại",
+        "price": 263934,
+        "originalPrice": 520000,
+        "imageUrl": "images/1098.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZS98gLL7rRhWL-8nNL1/",
+        "category": [ "Gia Dụng" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 1099,
+        "name": "Bồn tắm gấp gọn cho người lớn FUHO chất liệu nhựa PP và hạt nhựa TPE, có thể làm bể bơi cho bé.",
+        "price": 1106180,
+        "originalPrice": 1990000,
+        "imageUrl": "images/1099.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZS98gLtngRGvJ-PyitM/",
+        "category": [ "Gia Dụng" ],
+        "platform": "tiktok"
+    },
+    {
+        "id": 1100,
+        "name": "bồn tắm gấp gọn tiện lợi dài 1.2m cao 55cm chất liệu vải OXFORD  khung nhựa ABS bảo hành 6 tháng",
+        "price": 287024,
+        "originalPrice": 680000,
+        "imageUrl": "images/1100.webp",
+        "affiliateLink": "https://vt.tiktok.com/ZS98gN8pd7tn9-wcEcJ/",
+        "category": [ "Gia Dụng" ],
+        "platform": "tiktok"
     }
 ]
